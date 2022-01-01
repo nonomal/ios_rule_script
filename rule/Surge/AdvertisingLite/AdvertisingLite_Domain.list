@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-01 02:11:02
+# UPDATED: 2022-01-02 02:10:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 23398
-# DOMAIN-SUFFIX: 13240
+# DOMAIN-SUFFIX: 13239
 # IP-CIDR: 158
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 37095
+# TOTAL: 37094
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -28071,7 +28071,6 @@ zzxosget.com
 .edysn.cn
 .ee.shixunwang.net
 .ee4kdushuba.com
-.eec.crunchyroll.com
 .eee.eh39.co
 .eee.kj78.org
 .eee.ttyy888.co
