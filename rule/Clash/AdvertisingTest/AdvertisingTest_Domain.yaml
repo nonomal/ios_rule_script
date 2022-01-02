@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-02 02:10:04
+# UPDATED: 2022-01-03 02:09:54
 # DOMAIN: 43208
-# DOMAIN-SUFFIX: 93097
+# DOMAIN-SUFFIX: 93106
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 136564
+# TOTAL: 136573
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -47149,7 +47149,6 @@ payload:
   - '+.ablatesgascon.cam'
   - '+.ablebodiedcool.com'
   - '+.ablehed.pro'
-  - '+.ablen09.tk'
   - '+.ablenctionalle.info'
   - '+.ablerivetdoubted.com'
   - '+.ablesasme.co'
@@ -56075,6 +56074,7 @@ payload:
   - '+.artandand.online'
   - '+.artantash.club'
   - '+.artapeare.site'
+  - '+.artbluesea.xyz'
   - '+.artedu.pw'
   - '+.artefact.is'
   - '+.artemisaffiliates.com'
@@ -58678,6 +58678,7 @@ payload:
   - '+.believeduphold.com'
   - '+.believegrandpa.com'
   - '+.believeicanm.biz'
+  - '+.believersheet.com'
   - '+.bellaads.com'
   - '+.bellyfernfoster.com'
   - '+.belmonhezamil.pro'
@@ -60570,6 +60571,7 @@ payload:
   - '+.bs.url.tw'
   - '+.bs14.9669.cn'
   - '+.bs777.net'
+  - '+.bs987.cn'
   - '+.bsaq5.cn'
   - '+.bsbopag.cn'
   - '+.bsdaban.com'
@@ -63744,6 +63746,7 @@ payload:
   - '+.click.e.progressive.com'
   - '+.click.e.tdbank.com'
   - '+.click.eclk.club'
+  - '+.click.em.blizzard.com'
   - '+.click.em.soothe.com'
   - '+.click.email-stubhub.com'
   - '+.click.email.bbc.com'
@@ -63841,6 +63844,7 @@ payload:
   - '+.clickaine.com'
   - '+.clickalyzer.com'
   - '+.clickanalytics208.com'
+  - '+.clickandbuy.win'
   - '+.clickandjoinyourgirl.com'
   - '+.clickarrows.com'
   - '+.clickathere.com'
@@ -81708,7 +81712,6 @@ payload:
   - '+.hosticanaffiliate.com'
   - '+.hostilepetulant.com'
   - '+.hostingcloud.bid'
-  - '+.hostingcloud.date'
   - '+.hostingcloud.live'
   - '+.hostingcloud.loan'
   - '+.hostingcloud.party'
@@ -82952,6 +82955,7 @@ payload:
   - '+.ih740.cn'
   - '+.ihais.com'
   - '+.ihc.cellmarque.com'
+  - '+.ihdvilappuxpgiv.ru'
   - '+.ihear123.com'
   - '+.iheartbucks.com'
   - '+.ihfmftmhdfw.com'
@@ -91838,6 +91842,7 @@ payload:
   - '+.maebtjn.com'
   - '+.maegkrquttm.xyz'
   - '+.maetibocieva.info'
+  - '+.mafengow.club'
   - '+.mafia-linkz.to'
   - '+.magararepublic.com'
   - '+.magarimot.com'
@@ -123060,6 +123065,7 @@ payload:
   - '+.tpatrongva.top'
   - '+.tpb.tw'
   - '+.tpbid.com'
+  - '+.tpbpiratbay.cl'
   - '+.tpbproxyone.org'
   - '+.tpcdn.top'
   - '+.tpd4.cn'
@@ -131837,6 +131843,7 @@ payload:
   - '+.www.hirodencon.jp'
   - '+.www.hitstats.co.uk'
   - '+.www.hostingcloud.accountant'
+  - '+.www.hostingcloud.date'
   - '+.www.hostingcloud.download'
   - '+.www.hostingcloud.faith'
   - '+.www.huberts-kochseite.de'
@@ -134194,6 +134201,7 @@ payload:
   - '+.ygsoeu.size.co.uk'
   - '+.ygtnn.cn'
   - '+.ygtt.mobi'
+  - '+.ygtx.mobi'
   - '+.yguap.com'
   - '+.ygudtbdnhkhlmkd.xyz'
   - '+.ygunaf.biz'
@@ -136201,6 +136209,7 @@ payload:
   - '+.zxxds.net'
   - '+.zxxtkrkzfyy3.com'
   - '+.zxxvns.f64.ro'
+  - '+.zxyonlybelongstolym.xyz'
   - '+.zxzhengxin.com'
   - '+.zxziyuan.com'
   - '+.zy16eoat1w.com'

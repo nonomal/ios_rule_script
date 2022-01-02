@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-02 02:10:03
-# DOMAIN: 44713
-# DOMAIN-SUFFIX: 80089
+# UPDATED: 2022-01-03 02:09:53
+# DOMAIN: 44715
+# DOMAIN-SUFFIX: 80097
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 125061
+# TOTAL: 125071
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -15032,6 +15032,7 @@ payload:
   - 'freshgamehacks.com'
   - 'freshiuz.com'
   - 'freshmoneyy.com'
+  - 'freshrefresher.com'
   - 'fresht990.com'
   - 'frfgfhzxtfvsp.com'
   - 'frfnlvnpzeju.com'
@@ -24979,6 +24980,7 @@ payload:
   - 'minecraftps3.net'
   - 'minecraftserverforfree.com'
   - 'mineraladvocatecap.com'
+  - 'minercry.pt'
   - 'minerva.healthcentral.com'
   - 'minevinc.com'
   - 'minexmr.com'
@@ -48124,7 +48126,6 @@ payload:
   - '+.ablatesgascon.cam'
   - '+.ablebodiedcool.com'
   - '+.ablehed.pro'
-  - '+.ablen09.tk'
   - '+.ablenctionalle.info'
   - '+.ablerivetdoubted.com'
   - '+.ablesasme.co'
@@ -53200,7 +53201,7 @@ payload:
   - '+.aercxy.com'
   - '+.aerontre.com'
   - '+.aeros01.tk'
-  - '+.aeros04.tk'
+  - '+.aeros09.tk'
   - '+.aerserv.com'
   - '+.aes01.com'
   - '+.aestivator.com'
@@ -55897,6 +55898,7 @@ payload:
   - '+.artandand.online'
   - '+.artantash.club'
   - '+.artapeare.site'
+  - '+.artbluesea.xyz'
   - '+.artedu.pw'
   - '+.artefact.is'
   - '+.artemisaffiliates.com'
@@ -58204,6 +58206,7 @@ payload:
   - '+.believeduphold.com'
   - '+.believegrandpa.com'
   - '+.believeicanm.biz'
+  - '+.believersheet.com'
   - '+.bellaads.com'
   - '+.belmonhezamil.pro'
   - '+.belointeractive.com'
@@ -59874,6 +59877,7 @@ payload:
   - '+.bs.url.tw'
   - '+.bs14.9669.cn'
   - '+.bs777.net'
+  - '+.bs987.cn'
   - '+.bsaq5.cn'
   - '+.bsbopag.cn'
   - '+.bsdaban.com'
@@ -62518,6 +62522,7 @@ payload:
   - '+.click.e.progressive.com'
   - '+.click.e.tdbank.com'
   - '+.click.eclk.club'
+  - '+.click.em.blizzard.com'
   - '+.click.em.soothe.com'
   - '+.click.email-stubhub.com'
   - '+.click.email.bbc.com'
@@ -62614,6 +62619,7 @@ payload:
   - '+.clickaine.com'
   - '+.clickalyzer.com'
   - '+.clickanalytics208.com'
+  - '+.clickandbuy.win'
   - '+.clickandjoinyourgirl.com'
   - '+.clickarrows.com'
   - '+.clickathere.com'
@@ -73037,6 +73043,7 @@ payload:
   - '+.flightsreport.com'
   - '+.flightstodays.com'
   - '+.flightzy.bid'
+  - '+.flightzy.date'
   - '+.flimsycircle.com'
   - '+.flimsythought.com'
   - '+.flingywalkup.com'
@@ -73701,7 +73708,6 @@ payload:
   - '+.freshmate.com.cn'
   - '+.freshnews.su'
   - '+.freshplum.com'
-  - '+.freshrefresher.com'
   - '+.freshsaladtoday.com'
   - '+.freshvideo.com'
   - '+.fresnel-events.vimeocdn.com'
@@ -78143,7 +78149,6 @@ payload:
   - '+.hosticanaffiliate.com'
   - '+.hostilepetulant.com'
   - '+.hostingcloud.bid'
-  - '+.hostingcloud.date'
   - '+.hostingcloud.loan'
   - '+.hostingcloud.party'
   - '+.hostingcloud.racing'
@@ -79253,6 +79258,7 @@ payload:
   - '+.ih740.cn'
   - '+.ihais.com'
   - '+.ihc.cellmarque.com'
+  - '+.ihdvilappuxpgiv.ru'
   - '+.ihear123.com'
   - '+.iheartbucks.com'
   - '+.ihfmftmhdfw.com'
@@ -87133,6 +87139,7 @@ payload:
   - '+.maebtjn.com'
   - '+.maegkrquttm.xyz'
   - '+.maetibocieva.info'
+  - '+.mafengow.club'
   - '+.mafia-linkz.to'
   - '+.magararepublic.com'
   - '+.magariusaqmuri.cf'
@@ -90030,7 +90037,6 @@ payload:
   - '+.mineralt.io'
   - '+.mineralwater.cn'
   - '+.minerclaim.net'
-  - '+.minercry.pt'
   - '+.minero-proxy-01.now.sh'
   - '+.minero-proxy-02.now.sh'
   - '+.minero-proxy-03.now.sh'
@@ -104403,6 +104409,7 @@ payload:
   - '+.semoit.com'
   - '+.sempcxjajh.com'
   - '+.semtracker.de'
+  - '+.sen-to-zdrowie.ml'
   - '+.senateindicator.com'
   - '+.send-news.net'
   - '+.send2url.com'
@@ -113289,6 +113296,7 @@ payload:
   - '+.tpads.ovguide.com'
   - '+.tpb.tw'
   - '+.tpbid.com'
+  - '+.tpbpiratbay.cl'
   - '+.tpbproxyone.org'
   - '+.tpcdn.top'
   - '+.tpd4.cn'
@@ -122894,6 +122902,7 @@ payload:
   - '+.ygsm.com'
   - '+.ygtnn.cn'
   - '+.ygtt.mobi'
+  - '+.ygtx.mobi'
   - '+.yguap.com'
   - '+.ygudtbdnhkhlmkd.xyz'
   - '+.ygunaf.biz'
@@ -124712,6 +124721,7 @@ payload:
   - '+.zxxds.net'
   - '+.zxxtkrkzfyy3.com'
   - '+.zxxvns.f64.ro'
+  - '+.zxyonlybelongstolym.xyz'
   - '+.zxzhengxin.com'
   - '+.zxziyuan.com'
   - '+.zy16eoat1w.com'

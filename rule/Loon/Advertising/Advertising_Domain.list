@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-02 02:10:02
+# UPDATED: 2022-01-03 02:09:52
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44713
-# DOMAIN-SUFFIX: 80089
+# DOMAIN: 44715
+# DOMAIN-SUFFIX: 80097
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 125363
+# TOTAL: 125373
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -15033,6 +15033,7 @@ freshfence.net
 freshgamehacks.com
 freshiuz.com
 freshmoneyy.com
+freshrefresher.com
 fresht990.com
 frfgfhzxtfvsp.com
 frfnlvnpzeju.com
@@ -24980,6 +24981,7 @@ minecraftpromotions.com
 minecraftps3.net
 minecraftserverforfree.com
 mineraladvocatecap.com
+minercry.pt
 minerva.healthcentral.com
 minevinc.com
 minexmr.com
@@ -48125,7 +48127,6 @@ zzzpooeaz-france.com
 .ablatesgascon.cam
 .ablebodiedcool.com
 .ablehed.pro
-.ablen09.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablesasme.co
@@ -53201,7 +53202,7 @@ zzzpooeaz-france.com
 .aercxy.com
 .aerontre.com
 .aeros01.tk
-.aeros04.tk
+.aeros09.tk
 .aerserv.com
 .aes01.com
 .aestivator.com
@@ -55898,6 +55899,7 @@ zzzpooeaz-france.com
 .artandand.online
 .artantash.club
 .artapeare.site
+.artbluesea.xyz
 .artedu.pw
 .artefact.is
 .artemisaffiliates.com
@@ -58205,6 +58207,7 @@ zzzpooeaz-france.com
 .believeduphold.com
 .believegrandpa.com
 .believeicanm.biz
+.believersheet.com
 .bellaads.com
 .belmonhezamil.pro
 .belointeractive.com
@@ -59875,6 +59878,7 @@ zzzpooeaz-france.com
 .bs.url.tw
 .bs14.9669.cn
 .bs777.net
+.bs987.cn
 .bsaq5.cn
 .bsbopag.cn
 .bsdaban.com
@@ -62519,6 +62523,7 @@ zzzpooeaz-france.com
 .click.e.progressive.com
 .click.e.tdbank.com
 .click.eclk.club
+.click.em.blizzard.com
 .click.em.soothe.com
 .click.email-stubhub.com
 .click.email.bbc.com
@@ -62615,6 +62620,7 @@ zzzpooeaz-france.com
 .clickaine.com
 .clickalyzer.com
 .clickanalytics208.com
+.clickandbuy.win
 .clickandjoinyourgirl.com
 .clickarrows.com
 .clickathere.com
@@ -73038,6 +73044,7 @@ zzzpooeaz-france.com
 .flightsreport.com
 .flightstodays.com
 .flightzy.bid
+.flightzy.date
 .flimsycircle.com
 .flimsythought.com
 .flingywalkup.com
@@ -73702,7 +73709,6 @@ zzzpooeaz-france.com
 .freshmate.com.cn
 .freshnews.su
 .freshplum.com
-.freshrefresher.com
 .freshsaladtoday.com
 .freshvideo.com
 .fresnel-events.vimeocdn.com
@@ -78144,7 +78150,6 @@ zzzpooeaz-france.com
 .hosticanaffiliate.com
 .hostilepetulant.com
 .hostingcloud.bid
-.hostingcloud.date
 .hostingcloud.loan
 .hostingcloud.party
 .hostingcloud.racing
@@ -79254,6 +79259,7 @@ zzzpooeaz-france.com
 .ih740.cn
 .ihais.com
 .ihc.cellmarque.com
+.ihdvilappuxpgiv.ru
 .ihear123.com
 .iheartbucks.com
 .ihfmftmhdfw.com
@@ -87134,6 +87140,7 @@ zzzpooeaz-france.com
 .maebtjn.com
 .maegkrquttm.xyz
 .maetibocieva.info
+.mafengow.club
 .mafia-linkz.to
 .magararepublic.com
 .magariusaqmuri.cf
@@ -90031,7 +90038,6 @@ zzzpooeaz-france.com
 .mineralt.io
 .mineralwater.cn
 .minerclaim.net
-.minercry.pt
 .minero-proxy-01.now.sh
 .minero-proxy-02.now.sh
 .minero-proxy-03.now.sh
@@ -104404,6 +104410,7 @@ zzzpooeaz-france.com
 .semoit.com
 .sempcxjajh.com
 .semtracker.de
+.sen-to-zdrowie.ml
 .senateindicator.com
 .send-news.net
 .send2url.com
@@ -113290,6 +113297,7 @@ zzzpooeaz-france.com
 .tpads.ovguide.com
 .tpb.tw
 .tpbid.com
+.tpbpiratbay.cl
 .tpbproxyone.org
 .tpcdn.top
 .tpd4.cn
@@ -122895,6 +122903,7 @@ zzzpooeaz-france.com
 .ygsm.com
 .ygtnn.cn
 .ygtt.mobi
+.ygtx.mobi
 .yguap.com
 .ygudtbdnhkhlmkd.xyz
 .ygunaf.biz
@@ -124713,6 +124722,7 @@ zzzpooeaz-france.com
 .zxxds.net
 .zxxtkrkzfyy3.com
 .zxxvns.f64.ro
+.zxyonlybelongstolym.xyz
 .zxzhengxin.com
 .zxziyuan.com
 .zy16eoat1w.com

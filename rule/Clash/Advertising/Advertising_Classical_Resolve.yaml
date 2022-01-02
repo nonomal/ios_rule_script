@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-02 02:10:03
-# DOMAIN: 44713
-# DOMAIN-SUFFIX: 80089
+# UPDATED: 2022-01-03 02:09:53
+# DOMAIN: 44715
+# DOMAIN-SUFFIX: 80097
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
-# TOTAL: 125061
+# TOTAL: 125071
 payload:
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -15032,6 +15032,7 @@ payload:
   - DOMAIN,freshgamehacks.com
   - DOMAIN,freshiuz.com
   - DOMAIN,freshmoneyy.com
+  - DOMAIN,freshrefresher.com
   - DOMAIN,fresht990.com
   - DOMAIN,frfgfhzxtfvsp.com
   - DOMAIN,frfnlvnpzeju.com
@@ -24979,6 +24980,7 @@ payload:
   - DOMAIN,minecraftps3.net
   - DOMAIN,minecraftserverforfree.com
   - DOMAIN,mineraladvocatecap.com
+  - DOMAIN,minercry.pt
   - DOMAIN,minerva.healthcentral.com
   - DOMAIN,minevinc.com
   - DOMAIN,minexmr.com
@@ -48124,7 +48126,6 @@ payload:
   - DOMAIN-SUFFIX,ablatesgascon.cam
   - DOMAIN-SUFFIX,ablebodiedcool.com
   - DOMAIN-SUFFIX,ablehed.pro
-  - DOMAIN-SUFFIX,ablen09.tk
   - DOMAIN-SUFFIX,ablenctionalle.info
   - DOMAIN-SUFFIX,ablerivetdoubted.com
   - DOMAIN-SUFFIX,ablesasme.co
@@ -53200,7 +53201,7 @@ payload:
   - DOMAIN-SUFFIX,aercxy.com
   - DOMAIN-SUFFIX,aerontre.com
   - DOMAIN-SUFFIX,aeros01.tk
-  - DOMAIN-SUFFIX,aeros04.tk
+  - DOMAIN-SUFFIX,aeros09.tk
   - DOMAIN-SUFFIX,aerserv.com
   - DOMAIN-SUFFIX,aes01.com
   - DOMAIN-SUFFIX,aestivator.com
@@ -55897,6 +55898,7 @@ payload:
   - DOMAIN-SUFFIX,artandand.online
   - DOMAIN-SUFFIX,artantash.club
   - DOMAIN-SUFFIX,artapeare.site
+  - DOMAIN-SUFFIX,artbluesea.xyz
   - DOMAIN-SUFFIX,artedu.pw
   - DOMAIN-SUFFIX,artefact.is
   - DOMAIN-SUFFIX,artemisaffiliates.com
@@ -58204,6 +58206,7 @@ payload:
   - DOMAIN-SUFFIX,believeduphold.com
   - DOMAIN-SUFFIX,believegrandpa.com
   - DOMAIN-SUFFIX,believeicanm.biz
+  - DOMAIN-SUFFIX,believersheet.com
   - DOMAIN-SUFFIX,bellaads.com
   - DOMAIN-SUFFIX,belmonhezamil.pro
   - DOMAIN-SUFFIX,belointeractive.com
@@ -59874,6 +59877,7 @@ payload:
   - DOMAIN-SUFFIX,bs.url.tw
   - DOMAIN-SUFFIX,bs14.9669.cn
   - DOMAIN-SUFFIX,bs777.net
+  - DOMAIN-SUFFIX,bs987.cn
   - DOMAIN-SUFFIX,bsaq5.cn
   - DOMAIN-SUFFIX,bsbopag.cn
   - DOMAIN-SUFFIX,bsdaban.com
@@ -62518,6 +62522,7 @@ payload:
   - DOMAIN-SUFFIX,click.e.progressive.com
   - DOMAIN-SUFFIX,click.e.tdbank.com
   - DOMAIN-SUFFIX,click.eclk.club
+  - DOMAIN-SUFFIX,click.em.blizzard.com
   - DOMAIN-SUFFIX,click.em.soothe.com
   - DOMAIN-SUFFIX,click.email-stubhub.com
   - DOMAIN-SUFFIX,click.email.bbc.com
@@ -62614,6 +62619,7 @@ payload:
   - DOMAIN-SUFFIX,clickaine.com
   - DOMAIN-SUFFIX,clickalyzer.com
   - DOMAIN-SUFFIX,clickanalytics208.com
+  - DOMAIN-SUFFIX,clickandbuy.win
   - DOMAIN-SUFFIX,clickandjoinyourgirl.com
   - DOMAIN-SUFFIX,clickarrows.com
   - DOMAIN-SUFFIX,clickathere.com
@@ -73037,6 +73043,7 @@ payload:
   - DOMAIN-SUFFIX,flightsreport.com
   - DOMAIN-SUFFIX,flightstodays.com
   - DOMAIN-SUFFIX,flightzy.bid
+  - DOMAIN-SUFFIX,flightzy.date
   - DOMAIN-SUFFIX,flimsycircle.com
   - DOMAIN-SUFFIX,flimsythought.com
   - DOMAIN-SUFFIX,flingywalkup.com
@@ -73701,7 +73708,6 @@ payload:
   - DOMAIN-SUFFIX,freshmate.com.cn
   - DOMAIN-SUFFIX,freshnews.su
   - DOMAIN-SUFFIX,freshplum.com
-  - DOMAIN-SUFFIX,freshrefresher.com
   - DOMAIN-SUFFIX,freshsaladtoday.com
   - DOMAIN-SUFFIX,freshvideo.com
   - DOMAIN-SUFFIX,fresnel-events.vimeocdn.com
@@ -78143,7 +78149,6 @@ payload:
   - DOMAIN-SUFFIX,hosticanaffiliate.com
   - DOMAIN-SUFFIX,hostilepetulant.com
   - DOMAIN-SUFFIX,hostingcloud.bid
-  - DOMAIN-SUFFIX,hostingcloud.date
   - DOMAIN-SUFFIX,hostingcloud.loan
   - DOMAIN-SUFFIX,hostingcloud.party
   - DOMAIN-SUFFIX,hostingcloud.racing
@@ -79253,6 +79258,7 @@ payload:
   - DOMAIN-SUFFIX,ih740.cn
   - DOMAIN-SUFFIX,ihais.com
   - DOMAIN-SUFFIX,ihc.cellmarque.com
+  - DOMAIN-SUFFIX,ihdvilappuxpgiv.ru
   - DOMAIN-SUFFIX,ihear123.com
   - DOMAIN-SUFFIX,iheartbucks.com
   - DOMAIN-SUFFIX,ihfmftmhdfw.com
@@ -87133,6 +87139,7 @@ payload:
   - DOMAIN-SUFFIX,maebtjn.com
   - DOMAIN-SUFFIX,maegkrquttm.xyz
   - DOMAIN-SUFFIX,maetibocieva.info
+  - DOMAIN-SUFFIX,mafengow.club
   - DOMAIN-SUFFIX,mafia-linkz.to
   - DOMAIN-SUFFIX,magararepublic.com
   - DOMAIN-SUFFIX,magariusaqmuri.cf
@@ -90030,7 +90037,6 @@ payload:
   - DOMAIN-SUFFIX,mineralt.io
   - DOMAIN-SUFFIX,mineralwater.cn
   - DOMAIN-SUFFIX,minerclaim.net
-  - DOMAIN-SUFFIX,minercry.pt
   - DOMAIN-SUFFIX,minero-proxy-01.now.sh
   - DOMAIN-SUFFIX,minero-proxy-02.now.sh
   - DOMAIN-SUFFIX,minero-proxy-03.now.sh
@@ -104403,6 +104409,7 @@ payload:
   - DOMAIN-SUFFIX,semoit.com
   - DOMAIN-SUFFIX,sempcxjajh.com
   - DOMAIN-SUFFIX,semtracker.de
+  - DOMAIN-SUFFIX,sen-to-zdrowie.ml
   - DOMAIN-SUFFIX,senateindicator.com
   - DOMAIN-SUFFIX,send-news.net
   - DOMAIN-SUFFIX,send2url.com
@@ -113289,6 +113296,7 @@ payload:
   - DOMAIN-SUFFIX,tpads.ovguide.com
   - DOMAIN-SUFFIX,tpb.tw
   - DOMAIN-SUFFIX,tpbid.com
+  - DOMAIN-SUFFIX,tpbpiratbay.cl
   - DOMAIN-SUFFIX,tpbproxyone.org
   - DOMAIN-SUFFIX,tpcdn.top
   - DOMAIN-SUFFIX,tpd4.cn
@@ -122894,6 +122902,7 @@ payload:
   - DOMAIN-SUFFIX,ygsm.com
   - DOMAIN-SUFFIX,ygtnn.cn
   - DOMAIN-SUFFIX,ygtt.mobi
+  - DOMAIN-SUFFIX,ygtx.mobi
   - DOMAIN-SUFFIX,yguap.com
   - DOMAIN-SUFFIX,ygudtbdnhkhlmkd.xyz
   - DOMAIN-SUFFIX,ygunaf.biz
@@ -124712,6 +124721,7 @@ payload:
   - DOMAIN-SUFFIX,zxxds.net
   - DOMAIN-SUFFIX,zxxtkrkzfyy3.com
   - DOMAIN-SUFFIX,zxxvns.f64.ro
+  - DOMAIN-SUFFIX,zxyonlybelongstolym.xyz
   - DOMAIN-SUFFIX,zxzhengxin.com
   - DOMAIN-SUFFIX,zxziyuan.com
   - DOMAIN-SUFFIX,zy16eoat1w.com
