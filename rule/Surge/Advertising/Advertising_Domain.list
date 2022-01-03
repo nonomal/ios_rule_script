@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-03 02:09:51
+# UPDATED: 2022-01-04 02:11:01
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 44715
-# DOMAIN-SUFFIX: 80097
+# DOMAIN-SUFFIX: 80122
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 125373
+# TOTAL: 125398
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -45962,6 +45962,7 @@ zzzpooeaz-france.com
 .36500.net
 .365339.top
 .365bibi.com
+.365cf.vip
 .365che.cc
 .365dmp.com
 .365redirect.co
@@ -48023,6 +48024,7 @@ zzzpooeaz-france.com
 .aas.neom.com
 .aassp.wgzty.cn
 .aasyy.com
+.aau6.xyz
 .aauisg64017.cn
 .aaukqiooaseseuke.org
 .aax-eu-dub.amazon.com
@@ -48030,6 +48032,7 @@ zzzpooeaz-france.com
 .aaxads.com
 .aaxdetect.com
 .aaxeudub.amazon.com
+.aaz1.xyz
 .aazcio.cn
 .ab-machine.forbes.com
 .ab.5.p2l.info
@@ -57131,6 +57134,7 @@ zzzpooeaz-france.com
 .baiduspider1.cn
 .baidustatic.com
 .baidut.github.io
+.baidutuapi.com
 .baidutv.baidu.com
 .baiduvip.life
 .baiduyoukualiyun.com
@@ -59922,6 +59926,7 @@ zzzpooeaz-france.com
 .bsvideo10.ru
 .bsxmuny.wp.pl
 .bsyauqwerd.party
+.bsytjc.com
 .bszmpfaj.com
 .bt-xd.com
 .bt.mediaimpact.de
@@ -65641,6 +65646,7 @@ zzzpooeaz-france.com
 .d10wfab8zt419p.cloudfront.net
 .d11a2fzhgzqe7i.cloudfront.net
 .d11enq2rymy0yl.cloudfront.net
+.d11hjbdxxtogg5.cloudfront.net
 .d11tybz5ul8vel.cloudfront.net
 .d12ysuoljjyfqa.cloudfront.net
 .d131c7173a.com
@@ -68273,6 +68279,7 @@ zzzpooeaz-france.com
 .dokauzob.top
 .dol.tianya.cn
 .dol.tianyaui.cn
+.dola88.info
 .dolinaphtalic.com
 .doll9jiva.com
 .dollarade.com
@@ -68831,6 +68838,7 @@ zzzpooeaz-france.com
 .dtlog.szy.cn
 .dtmpub.com
 .dtmssl.bobcat.com
+.dtpqhwk.cn
 .dtprofit.com
 .dtqkuzuhzwklm.com
 .dtrcw.cc
@@ -70895,6 +70903,7 @@ zzzpooeaz-france.com
 .eocceucbqnu.com
 .eoemyywmjx.com
 .eofgreatid.biz
+.eoidr.cn
 .eol1.egyptonline.com
 .eolcdn.com
 .eolvci.olx.ro
@@ -72549,6 +72558,7 @@ zzzpooeaz-france.com
 .fengspw.xyz
 .fengxiangstore.com
 .fengyelin.net
+.fengyigc.xyz
 .fengying5.com
 .fengyiwc.xyz
 .fengyixin.com
@@ -74502,6 +74512,7 @@ zzzpooeaz-france.com
 .gather.donga.com
 .gator.com
 .gatorleads.co.uk
+.gaubau.info
 .gaudybeginner.com
 .gaug.es
 .gaulauvi.net
@@ -75295,6 +75306,7 @@ zzzpooeaz-france.com
 .gk1.582582.com
 .gk1.zjbiz.net
 .gk277.cn
+.gk596.cn
 .gk8j5woqk26f.com
 .gkefsixxlzhn.com
 .gkfdkf.jdsports.co.uk
@@ -76889,6 +76901,7 @@ zzzpooeaz-france.com
 .haoyiwang.net
 .haoyoushuo.cn
 .haoyundm.com
+.haoyundmn.com
 .haoyuntj.com
 .haozhuangji.com
 .hapax.qc.ca
@@ -78578,6 +78591,7 @@ zzzpooeaz-france.com
 .huodong.vip.youku.com
 .huodonghezi.cn
 .huodonghezi.com
+.huofayu.com
 .huojua.com
 .huojua1.com
 .huojub.com
@@ -93652,6 +93666,7 @@ zzzpooeaz-france.com
 .nznxgecb.com
 .nzphoenix.com
 .nzq5.u95ivu.xyz
+.nzsknxo.cn
 .nztrimhg5fd1.com
 .nztrt.top
 .nzydzsw.com
@@ -99906,6 +99921,7 @@ zzzpooeaz-france.com
 .qianfuyin.com
 .qianggou8.top
 .qianmeiby.com
+.qiantao.xyz
 .qianwei.wang
 .qianyilamian.cn
 .qianyuntengyue.com
@@ -100126,6 +100142,7 @@ zzzpooeaz-france.com
 .qqq123987.site
 .qqqmmm.top
 .qqqwes.com
+.qqqwww987.online
 .qqshoe.ru
 .qqshow2-item.qq.com
 .qqtx.me
@@ -100755,6 +100772,7 @@ zzzpooeaz-france.com
 .rcpuierp.cn
 .rcsadv.it
 .rcsmetrics.it
+.rctxubn.cn
 .rcurn.com
 .rcv.iclicash.com
 .rcvlink.com
@@ -100771,6 +100789,7 @@ zzzpooeaz-france.com
 .rd.rakuten.co.jp
 .rd.yahoo.co.jp
 .rd596n.jomodns.com
+.rd926.cn
 .rdance.cn
 .rdbd.xsread.com
 .rdcdn.com
@@ -107052,6 +107071,7 @@ zzzpooeaz-france.com
 .smscenter.info
 .smscentro.com
 .smser.net
+.smsk.site
 .smsksx.com
 .smsmensaje.mx
 .smsmovies.net
@@ -110705,6 +110725,7 @@ zzzpooeaz-france.com
 .szenetraffic.com
 .szerencses.info
 .szfaq.com
+.szfhl99.com
 .szggdw.com
 .szh6.xyz
 .szhdhbz.com
@@ -121781,6 +121802,7 @@ zzzpooeaz-france.com
 .xhxnkyy.com
 .xhydrocodone.info
 .xhydrs.cn
+.xhzmjs.com
 .xhzspi.com
 .xhzugaqnqo.com
 .xi.liuxiaoer.com
@@ -122781,7 +122803,6 @@ zzzpooeaz-france.com
 .ye3.com
 .yea.uploadimagex.com
 .yeabble.com
-.yeah1media.vn
 .yeah1publishing.com
 .yeahmobi.com
 .yeaonesad.com
@@ -122805,6 +122826,7 @@ zzzpooeaz-france.com
 .yellowbrix.com
 .yellowmedia.biz
 .yellowto.com
+.yema.shop
 .yemingxing.top
 .yemisleol.xyz
 .yemnn.cn
@@ -123599,6 +123621,7 @@ zzzpooeaz-france.com
 .yumi06.com
 .yumimobi.com
 .yumingdan.top
+.yummycuisine.club
 .yummyfoodallover.com
 .yumu.pro
 .yun-hl.3g.qq.com
@@ -124073,6 +124096,7 @@ zzzpooeaz-france.com
 .zgjkv.com
 .zgksb.com
 .zgktxx.com
+.zglecc.com
 .zgncpjyw.cn
 .zgnieka.cn
 .zgody.infor.pl
@@ -124739,6 +124763,7 @@ zzzpooeaz-france.com
 .zyf03k.xyz
 .zyhifata.pro
 .zyiis.net
+.zyjy.ink
 .zykxjt.com
 .zymbrlgu.cn
 .zymerget.bid

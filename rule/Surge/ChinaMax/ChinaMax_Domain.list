@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-03 02:09:51
+# UPDATED: 2022-01-04 02:11:02
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72378
+# DOMAIN-SUFFIX: 72377
 # PROCESS-NAME: 5
 # DOMAIN: 57
 # IP-CIDR: 6179
 # IP-CIDR6: 5440
 # DOMAIN-KEYWORD: 1
-# TOTAL: 84122
+# TOTAL: 84121
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -551,7 +551,6 @@ www4-static.gog-statics.com
 .05935.com
 .0593666.com
 .0594.com
-.059400.com
 .0595job.com
 .0595rc.com
 .0596fc.com
@@ -10138,6 +10137,7 @@ www4-static.gog-statics.com
 .aqdstatic.com
 .aqee.net
 .aqfen.com
+.aqhbq.com
 .aqhuayu.com
 .aqidb.org
 .aqigxaxv.com
@@ -10702,6 +10702,7 @@ www4-static.gog-statics.com
 .b2b98.net
 .b2baa.com
 .b2bic.com
+.b2bname.com
 .b2bneican.com
 .b2bvip.com
 .b2bvip.net
@@ -13711,7 +13712,6 @@ www4-static.gog-statics.com
 .c-yl.com
 .c.team
 .c052kzyp55.com
-.c0de4fun.com
 .c0f1lk250w.com
 .c0ks.com
 .c1042.com
@@ -22863,7 +22863,6 @@ www4-static.gog-statics.com
 .ehedco.com
 .ehiman.com
 .ehinvest.hk
-.ehn3.com
 .ehome5.com
 .ehome8.com
 .ehomeclouds.com
@@ -23801,6 +23800,7 @@ www4-static.gog-statics.com
 .faceh5.com
 .facehufu.com
 .faceid.com
+.faceminiproject.online
 .facephoto.com
 .faceplusplus.com
 .faceplusplus.com.cn
@@ -24140,7 +24140,6 @@ www4-static.gog-statics.com
 .faxingchina.com
 .faxingcn.com
 .faxingnet.com
-.faxingshuo.com
 .faxingsj.com
 .faxingtp.com
 .faxingtupian.com
@@ -24519,6 +24518,7 @@ www4-static.gog-statics.com
 .ffepower.com
 .fffzgh.com
 .ffis.me
+.ffjd1.com
 .ffmarket.com
 .ffmulu.com
 .ffpedia.com
@@ -26031,6 +26031,7 @@ www4-static.gog-statics.com
 .gdlins.com
 .gdliontech.com
 .gdlppow.com
+.gdlsgz.com
 .gdmappress.com
 .gdmingshizx.com
 .gdmm.com
@@ -36171,6 +36172,7 @@ www4-static.gog-statics.com
 .jmtsg.com
 .jmxfw.com
 .jmxw.net
+.jmykw.com
 .jmyna.net
 .jmzcgs.com
 .jmzns.com
@@ -39130,7 +39132,6 @@ www4-static.gog-statics.com
 .lantian.tv
 .lantinglou.com
 .lantingmingjia.com
-.lantouzi.com
 .lantunyouxi.com
 .lanuss.com
 .lanvige.com
@@ -39804,7 +39805,6 @@ www4-static.gog-statics.com
 .lhflh.com
 .lhggjd.org
 .lhh.la
-.lhidc.net
 .lhlqw.com
 .lhm8.com
 .lhrbszb.com
@@ -43452,7 +43452,6 @@ www4-static.gog-statics.com
 .mlyfc.net
 .mlyfcyy.com
 .mlzcn.com
-.mm.cc
 .mm.com
 .mm111.net
 .mm12581.com
@@ -44724,6 +44723,7 @@ www4-static.gog-statics.com
 .nantaihu.com
 .nantongbike.com
 .nantonghua.net
+.nantongle.com
 .nanxueqx.com
 .nanxunjob.com
 .nanyangcable.com
@@ -54740,7 +54740,6 @@ www4-static.gog-statics.com
 .spdl.com
 .spdydns.com
 .spdyidea.com
-.spe777.com
 .specialcdnstatus.com
 .speed-dns.cc
 .speed-idc.com
@@ -56235,7 +56234,6 @@ www4-static.gog-statics.com
 .tainicement.net
 .taipingyangyinshua.com
 .taiqigame.com
-.taiqingjiu.com
 .tairan.com
 .taishangshiwu.com
 .taishenghb.com
@@ -60776,7 +60774,6 @@ www4-static.gog-statics.com
 .wangyin.com
 .wangyou.com
 .wangyou2.com
-.wangyq.com
 .wangyuan.com
 .wangyuegame.com
 .wangyutang.com
@@ -62805,6 +62802,7 @@ www4-static.gog-statics.com
 .woziku.com
 .wp-china-yes.net
 .wp-h.com
+.wp10.cc
 .wpan123.com
 .wpceo.com
 .wpchina.org
@@ -69520,6 +69518,7 @@ www4-static.gog-statics.com
 .zahtb.com
 .zahuibaike.com
 .zahuishi.com
+.zai-art.com
 .zaibei.net
 .zaichengdu.com
 .zaidu.la
@@ -70112,6 +70111,7 @@ www4-static.gog-statics.com
 .zhanggang.net
 .zhanggao.club
 .zhanggaoyuan.com
+.zhanggee.com
 .zhanghaijun.com
 .zhanghongliang.com
 .zhanghuanglong.com
@@ -71378,7 +71378,6 @@ www4-static.gog-statics.com
 .zjipc.com
 .zjj17u.com
 .zjj21.com
-.zjj588.com
 .zjjd.org
 .zjjdamuzhi.com
 .zjjgcyz.com
