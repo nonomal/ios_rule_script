@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-04 02:11:01
+# UPDATED: 2022-01-05 02:11:32
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 44715
-# DOMAIN-SUFFIX: 80122
+# DOMAIN: 44716
+# DOMAIN-SUFFIX: 80164
 # IP-CIDR: 256
 # DOMAIN-KEYWORD: 2
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 125398
+# TOTAL: 125441
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -32149,6 +32149,7 @@ remove-limited-account.com
 removearrest.com
 removesimlock-iphone.com
 remowindowsnow.com
+remtoaku.net
 renatarabelo.com
 renatocal.com
 renaulrtcenturytrick.top
@@ -46111,6 +46112,7 @@ zzzpooeaz-france.com
 .402v.com
 .404.safedog.cn
 .407433bfc441.com
+.40798d4cf5.com
 .40a1eca447d.com
 .40ceexln7929.com
 .40fenzhong.com
@@ -46450,6 +46452,7 @@ zzzpooeaz-france.com
 .5807807.com
 .580a41eea49e.com
 .5814889.com
+.583d46135c.com
 .584e8fce1b418.com
 .5857.com
 .588yw.com
@@ -47073,6 +47076,7 @@ zzzpooeaz-france.com
 .861ht.com
 .863c4c0c521.se
 .863my.com
+.864feb57ruary.com
 .86695755.cn
 .86a6b542l7.com
 .86cb1dcb13ba5a1a.com
@@ -47567,6 +47571,7 @@ zzzpooeaz-france.com
 .a.duduji.com
 .a.dxzy163.com
 .a.dyjqd.com
+.a.eachporn.com
 .a.easyazon.com
 .a.ecook.cn
 .a.electerious.com
@@ -59155,6 +59160,7 @@ zzzpooeaz-france.com
 .bluedawning.com
 .bluediamondoffers.com
 .blueioabj.com
+.bluejayfacette.com
 .bluekai.com
 .bluelithium.com
 .bluemaulpuffs.com
@@ -64961,6 +64967,7 @@ zzzpooeaz-france.com
 .creator.zmags.com
 .creatrixads.com
 .credentialpetrolenglish.com
+.credentialssagwoo.com
 .crediblegfj.info
 .creditcardapplication.nowcash.com
 .creditcards.shengen.ru
@@ -66857,6 +66864,7 @@ zzzpooeaz-france.com
 .ddpxhq.cn
 .ddrrccck.m.qxs.la
 .ddrsemxv.com
+.ddrvjrfwnij7n.cloudfront.net
 .ddskyuu.com
 .ddvbjehruuj5y.cloudfront.net
 .ddvfoj5yrl2oi.cloudfront.net
@@ -67528,6 +67536,7 @@ zzzpooeaz-france.com
 .dietpills.hut1.ru
 .differukent.co
 .difficerche.biz
+.difficultdisintegrate.com
 .difficultfog.com
 .difficultydilapidationsodium.com
 .diffusion-tracker.com
@@ -68141,6 +68150,7 @@ zzzpooeaz-france.com
 .dmsz.win7sky.com
 .dmt.qcrx.cn
 .dmtgo.upc.biz
+.dmtl.xyz
 .dmtrack.xiu.com
 .dmtracker.com
 .dmtracking.1688.com
@@ -69067,6 +69077,7 @@ zzzpooeaz-france.com
 .dydyhg.com
 .dyecowwhy.com
 .dyfzyg.com
+.dyh1wzegu1j6z.cloudfront.net
 .dyhome.cc
 .dyingdesignscharming.com
 .dyino.com
@@ -70815,6 +70826,7 @@ zzzpooeaz-france.com
 .enmaer.com
 .enmbg.com
 .enmisindingat.info
+.enodiarahnthedon.com
 .enohb.com
 .enoratraffic.com
 .enormitteen.pro
@@ -70829,6 +70841,7 @@ zzzpooeaz-france.com
 .enquiryplewch.cam
 .enquisite.com
 .enquoted.com
+.enqxmgodgkxfoxs.top
 .enrichcouriermagician.com
 .enrilov.info
 .ens-sh.cn
@@ -72578,7 +72591,6 @@ zzzpooeaz-france.com
 .feraciumus.com
 .ferank.fr
 .feredgurned.xyz
-.fergemcot.com
 .fergetson.site
 .fermentsinewencase.com
 .fermerrekrb.bid
@@ -74725,6 +74737,7 @@ zzzpooeaz-france.com
 .gebadu.com
 .gebralefukim.site
 .gecatikonstantin.ru
+.gecauuksehin.com
 .gecko-hl.snssdk.com
 .gecko-lq.snssdk.com
 .geckosg.byteoversea.com
@@ -75367,6 +75380,7 @@ zzzpooeaz-france.com
 .gleambeverleydominate.com
 .gleamingtrade.com
 .gleaminist.info
+.gledqadsdaw.top
 .gleebsex.net
 .gleechie.net
 .gleedaik.net
@@ -75725,6 +75739,7 @@ zzzpooeaz-france.com
 .gold.ibizacourt.com
 .gold.legalidioms.com
 .gold.szonline.net
+.gold2762.com
 .goldadpremium.com
 .goldawm.xyz
 .goldbach.com
@@ -76574,6 +76589,7 @@ zzzpooeaz-france.com
 .gygdmy.com
 .gyh1lh20owj.ru
 .gyhzr.com
+.gyjyjkhp.top
 .gyluheshy.com
 .gynax.com
 .gypsiedjilt.com
@@ -76988,6 +77004,7 @@ zzzpooeaz-france.com
 .hatbiz.cn
 .hatchetlavatory.com
 .hatchord.com
+.hatedgeographical.com
 .hatefulrequest.com
 .hatevery.info
 .hathor.eztonez.com
@@ -78422,6 +78439,7 @@ zzzpooeaz-france.com
 .htreatory.info
 .htsj.vip
 .htsrl.com
+.htsysltuujfjcb.com
 .httpaccess.com
 .httpads.com
 .httpdns.bcelive.com
@@ -78677,6 +78695,7 @@ zzzpooeaz-france.com
 .hxlif.com
 .hxlover.com
 .hxlswibowjf.com
+.hxnfgzotzkhbpw.com
 .hxnzyy.com
 .hxpetm.vava.cars
 .hxqu.com
@@ -80818,6 +80837,7 @@ zzzpooeaz-france.com
 .ipservice.163.com
 .ipsoorel.com
 .ipsowrite.com
+.ipssss.com
 .ipstack.com
 .ipstat.com
 .iptautup.com
@@ -83074,6 +83094,7 @@ zzzpooeaz-france.com
 .kidslovemartialartsomahane.com
 .kieden.com
 .kiees.com
+.kieuqepq.top
 .kiezohky.xyz
 .kighmh.nelson.nl
 .kihoadoa.com
@@ -84634,6 +84655,7 @@ zzzpooeaz-france.com
 .liberty.gedads.com
 .libertycdn.com
 .libertystmedia.com
+.libertywallow.com
 .libfre.obs.cn-east-3.myhuaweicloud.com
 .libfre.obs.cneast3.myhuaweicloud.com
 .librariessunflower.com
@@ -86116,6 +86138,7 @@ zzzpooeaz-france.com
 .lubrifiants-catalogue-prollenge.carte-gr.total.fr
 .lucibad.home.ro
 .lucid.mjhassoc.com
+.lucidahankul.com
 .lucidcommerce.com
 .lucidel.com
 .lucidmedia.com
@@ -87154,6 +87177,7 @@ zzzpooeaz-france.com
 .maebtjn.com
 .maegkrquttm.xyz
 .maetibocieva.info
+.mafenggo.club
 .mafengow.club
 .mafia-linkz.to
 .magararepublic.com
@@ -88613,7 +88637,6 @@ zzzpooeaz-france.com
 .megoszthato.blogspot.hu
 .megricex.com
 .mehebborc.com
-.mehherrig.com
 .mehhueboy.club
 .meibiisheng.com
 .meicubao.cn
@@ -88747,6 +88770,7 @@ zzzpooeaz-france.com
 .merituckia.cam
 .merryemotionally.com
 .merryholidays.org
+.mersionbronze.cam
 .meryjane.pro
 .merylaural.info
 .merzostueru2hu8jr09.com
@@ -90730,6 +90754,7 @@ zzzpooeaz-france.com
 .mond.postauto.ch
 .mondaymornings.co
 .mondayunauthorized.com
+.mondialwering.com
 .mondoecommerce.it
 .moneone.ga
 .monerise.com
@@ -91790,6 +91815,7 @@ zzzpooeaz-france.com
 .mzhuzu.ycmc.com
 .mzirmall.com
 .mzlit.com
+.mzlscqarnm.com
 .mzokqm.cn
 .mzol7lbm.com
 .mzvodacom.info
@@ -91914,6 +91940,7 @@ zzzpooeaz-france.com
 .nanyangqiaoxiang.cn
 .naolifanghealth.com
 .napeau.com
+.napesropes.com
 .napifriss.com
 .napihir.net
 .napihirek.net
@@ -92112,6 +92139,7 @@ zzzpooeaz-france.com
 .ndeooc.bubbleroom.no
 .ndf81.com
 .ndfdwrg.cn
+.ndfsl.com
 .ndg.io
 .ndha4sding6gf.com
 .ndiampartic.biz
@@ -92382,6 +92410,7 @@ zzzpooeaz-france.com
 .neumannsinstallation.de
 .neuronales.xyz
 .neuroticthinner.com
+.neurotrack.neurolake.io
 .neutralpages.com
 .never.ovh
 .neverthelessdepression.com
@@ -92780,6 +92809,7 @@ zzzpooeaz-france.com
 .nicmoomp.net
 .nicoad.nicovideo.jp
 .nicorette.co.kr
+.nicoug.com
 .nidorivo.com
 .niebrundveepursuede.info
 .niecefootagefastest.com
@@ -95480,6 +95510,7 @@ zzzpooeaz-france.com
 .ovnbnsf.pro
 .ovoadv.com
 .ovoawh.com
+.ovoute.com
 .ovtopli.ru
 .ovustav.ru
 .ovvychlvncemea.top
@@ -99044,6 +99075,7 @@ zzzpooeaz-france.com
 .psughooy.com
 .psuhuchize.com
 .psulsobi.net
+.psupaids.com
 .psuphuns.net
 .psurdoak.com
 .psuzoxuma.com
@@ -100772,6 +100804,7 @@ zzzpooeaz-france.com
 .rcpuierp.cn
 .rcsadv.it
 .rcsmetrics.it
+.rctxsrv.cn
 .rctxubn.cn
 .rcurn.com
 .rcv.iclicash.com
@@ -101399,7 +101432,6 @@ zzzpooeaz-france.com
 .removefrommailinglist.com
 .removesubscription.com
 .remox.com
-.remtoaku.net
 .remusclerait.xyz
 .renaissanceregretfulpupil.com
 .renaissanto.com
@@ -104030,6 +104062,7 @@ zzzpooeaz-france.com
 .seal.verisign.com
 .sealinepfuoxcbgd.netdnassl.com
 .sealserver.trustwave.com
+.seamchristmas.com
 .seanov1.com
 .seao.business.samsung.com
 .seaofads.com
@@ -110603,6 +110636,7 @@ zzzpooeaz-france.com
 .sygame.695157.com
 .syiae.com
 .syilm.net
+.syjjd.club
 .sykc.madeindesign.ch
 .sykty.com
 .sylewhywhe.com
@@ -112346,6 +112380,7 @@ zzzpooeaz-france.com
 .thuyki.cn
 .thxnr.com
 .thygrepuwo.pro
+.thyourretyequ.com
 .thypotipu.com
 .thyvjboy.com
 .thywiphegru.com
@@ -113662,6 +113697,7 @@ zzzpooeaz-france.com
 .tr2.kaspersky.com
 .tr553.com
 .tr563.com
+.tr691.cn
 .tr6rfgjix6tlr8bp.info
 .traaaack.com
 .trabro.com
@@ -114066,6 +114102,7 @@ zzzpooeaz-france.com
 .track2.mycliplister.com
 .track2.ultimateinternetoffers.com
 .track3.yourpicks.com
+.track4ref.com
 .tracka.businessleadbuilder.com
 .trackad2.com
 .trackadm.com
@@ -115158,6 +115195,7 @@ zzzpooeaz-france.com
 .trl.upperbooking.com
 .trlf8mmpbfz1.com
 .trmads.eu
+.trmbwfxxj.xyz
 .trmget.eu
 .trmit.com
 .trmnsite.com
@@ -115293,6 +115331,7 @@ zzzpooeaz-france.com
 .tsds.tech
 .tse.telerama.fr
 .tsgyg.cn
+.tshaphjgd.top
 .tshuxi.bbqguys.com
 .tsia1114.top
 .tsinadol.ru
@@ -117245,6 +117284,7 @@ zzzpooeaz-france.com
 .vbieu.com
 .vbillplus.cn
 .vbinu.com
+.vbksrculvld.top
 .vbmay16.com
 .vbmer.com
 .vbnm888.com
@@ -117783,6 +117823,7 @@ zzzpooeaz-france.com
 .vimmenced.club
 .vimvio.ru
 .vinaads.vn
+.vindexcravat.com
 .vindicosuite.com
 .vinegarweb.com
 .vinkelvej12.dk
@@ -117841,7 +117882,6 @@ zzzpooeaz-france.com
 .vipvipvup.com
 .vipwebsc.org
 .vipwm.cc
-.viqirue.ru
 .vir70n.news
 .vira.ru
 .viral481.com
@@ -118259,6 +118299,7 @@ zzzpooeaz-france.com
 .vr4031.com
 .vrewpywootyu.com
 .vrhorus.com
+.vrhug.cn
 .vriwjpzvh.com
 .vrizead.com
 .vrmynha.cn
@@ -119938,6 +119979,7 @@ zzzpooeaz-france.com
 .wjdjcjcm444.cn
 .wjgohz.com
 .wjguc.com
+.wjguxqsiuwta.top
 .wjier.com
 .wjjsskhcqrsbg.com
 .wjlzs.cn
@@ -124377,6 +124419,7 @@ zzzpooeaz-france.com
 .zjwwbznpcqhk.com
 .zjxkdq.cn
 .zjxrg.top
+.zjzs.club
 .zk.91post.com
 .zkba9.cn
 .zkbkat.com
