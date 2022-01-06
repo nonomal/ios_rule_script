@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-06 02:11:05
-# DOMAIN-SUFFIX: 68746
+# UPDATED: 2022-01-07 02:10:59
+# DOMAIN-SUFFIX: 68754
 # DOMAIN: 82
 # IP-CIDR: 9
 # IP-CIDR6: 4
 # DOMAIN-KEYWORD: 1
-# TOTAL: 68842
+# TOTAL: 68850
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -3298,6 +3298,7 @@ payload:
   - DOMAIN-SUFFIX,363u.com
   - DOMAIN-SUFFIX,364000.com
   - DOMAIN-SUFFIX,365128.com
+  - DOMAIN-SUFFIX,365135.com
   - DOMAIN-SUFFIX,36543.com
   - DOMAIN-SUFFIX,365500.com
   - DOMAIN-SUFFIX,365708.com
@@ -5681,7 +5682,6 @@ payload:
   - DOMAIN-SUFFIX,6122.net
   - DOMAIN-SUFFIX,612345.com
   - DOMAIN-SUFFIX,612459.com
-  - DOMAIN-SUFFIX,6132071.com
   - DOMAIN-SUFFIX,6132823.com
   - DOMAIN-SUFFIX,6132979.com
   - DOMAIN-SUFFIX,6137.net
@@ -8568,7 +8568,6 @@ payload:
   - DOMAIN-SUFFIX,aidrive.com
   - DOMAIN-SUFFIX,aiduoka.com
   - DOMAIN-SUFFIX,aiduwenxue.com
-  - DOMAIN-SUFFIX,aidzs.com
   - DOMAIN-SUFFIX,aiec-alliance.com
   - DOMAIN-SUFFIX,aiegle.com
   - DOMAIN-SUFFIX,aiemy.com
@@ -13442,6 +13441,7 @@ payload:
   - DOMAIN-SUFFIX,callda.com
   - DOMAIN-SUFFIX,callmewhy.com
   - DOMAIN-SUFFIX,caloinfo.com
+  - DOMAIN-SUFFIX,calorietech.com
   - DOMAIN-SUFFIX,calt.com
   - DOMAIN-SUFFIX,calvinneo.com
   - DOMAIN-SUFFIX,cambm.com
@@ -13953,6 +13953,7 @@ payload:
   - DOMAIN-SUFFIX,cd-vv.com
   - DOMAIN-SUFFIX,cd-zc.com
   - DOMAIN-SUFFIX,cd120.com
+  - DOMAIN-SUFFIX,cd23f.com
   - DOMAIN-SUFFIX,cd37wan.com
   - DOMAIN-SUFFIX,cdabon.com
   - DOMAIN-SUFFIX,cdadata.com
@@ -19242,6 +19243,7 @@ payload:
   - DOMAIN-SUFFIX,dedezhuji.com
   - DOMAIN-SUFFIX,deehai.com
   - DOMAIN-SUFFIX,deemob.com
+  - DOMAIN-SUFFIX,deemos.com
   - DOMAIN-SUFFIX,deepai.com
   - DOMAIN-SUFFIX,deepano.com
   - DOMAIN-SUFFIX,deepaso.com
@@ -33467,6 +33469,7 @@ payload:
   - DOMAIN-SUFFIX,jiatingdog.com
   - DOMAIN-SUFFIX,jiatui.com
   - DOMAIN-SUFFIX,jiatx.com
+  - DOMAIN-SUFFIX,jiawentrans.com
   - DOMAIN-SUFFIX,jiawin.com
   - DOMAIN-SUFFIX,jiaxiaozhijia.com
   - DOMAIN-SUFFIX,jiaxichina.net
@@ -40627,6 +40630,7 @@ payload:
   - DOMAIN-SUFFIX,menle.com
   - DOMAIN-SUFFIX,menpiao.com
   - DOMAIN-SUFFIX,menqiu.com
+  - DOMAIN-SUFFIX,menubarx.app
   - DOMAIN-SUFFIX,menwee.com
   - DOMAIN-SUFFIX,menww.com
   - DOMAIN-SUFFIX,menwww.com
@@ -41085,6 +41089,7 @@ payload:
   - DOMAIN-SUFFIX,minhangshi.com
   - DOMAIN-SUFFIX,minhow.com
   - DOMAIN-SUFFIX,mini-audio.com
+  - DOMAIN-SUFFIX,mini-program.net
   - DOMAIN-SUFFIX,mini5cn-1.opera-mini.net
   - DOMAIN-SUFFIX,mini5cn.opera-mini.net
   - DOMAIN-SUFFIX,miniadx.com
@@ -44769,6 +44774,7 @@ payload:
   - DOMAIN-SUFFIX,pdfdo.com
   - DOMAIN-SUFFIX,pdfdowell.com
   - DOMAIN-SUFFIX,pdfexpert.cc
+  - DOMAIN-SUFFIX,pdffsy.com
   - DOMAIN-SUFFIX,pdffx.com
   - DOMAIN-SUFFIX,pdfjia.com
   - DOMAIN-SUFFIX,pdflibr.com
@@ -47325,6 +47331,7 @@ payload:
   - DOMAIN-SUFFIX,queenfather.com
   - DOMAIN-SUFFIX,quegame.com
   - DOMAIN-SUFFIX,quegoo.com
+  - DOMAIN-SUFFIX,queji.tw
   - DOMAIN-SUFFIX,queqiaoba.com
   - DOMAIN-SUFFIX,querylist.cc
   - DOMAIN-SUFFIX,queshao.com
@@ -48561,7 +48568,6 @@ payload:
   - DOMAIN-SUFFIX,ruvar.com
   - DOMAIN-SUFFIX,ruvisas.com
   - DOMAIN-SUFFIX,ruwen5.com
-  - DOMAIN-SUFFIX,ruxianke.com
   - DOMAIN-SUFFIX,ruyahui.com
   - DOMAIN-SUFFIX,ruyig.com
   - DOMAIN-SUFFIX,ruyile.com
@@ -53373,6 +53379,7 @@ payload:
   - DOMAIN-SUFFIX,talkwithtrend.com
   - DOMAIN-SUFFIX,talkyun.com
   - DOMAIN-SUFFIX,taluo.com
+  - DOMAIN-SUFFIX,talyscm.com
   - DOMAIN-SUFFIX,talzjsj.com
   - DOMAIN-SUFFIX,tamaegis.com
   - DOMAIN-SUFFIX,tamc8.com
@@ -54943,6 +54950,7 @@ payload:
   - DOMAIN-SUFFIX,touchxd.com
   - DOMAIN-SUFFIX,touclick.com
   - DOMAIN-SUFFIX,touduyu.com
+  - DOMAIN-SUFFIX,toufu321.com
   - DOMAIN-SUFFIX,toughcoder.net
   - DOMAIN-SUFFIX,tougub.com
   - DOMAIN-SUFFIX,touhou.cd
@@ -60680,6 +60688,7 @@ payload:
   - DOMAIN-SUFFIX,xhj.com
   - DOMAIN-SUFFIX,xhjingling.com
   - DOMAIN-SUFFIX,xhkt.tv
+  - DOMAIN-SUFFIX,xhlaowu.com
   - DOMAIN-SUFFIX,xhlgfsc.com
   - DOMAIN-SUFFIX,xhlyjlb.com
   - DOMAIN-SUFFIX,xhma.com
@@ -63931,7 +63940,6 @@ payload:
   - DOMAIN-SUFFIX,yinjiaji.com
   - DOMAIN-SUFFIX,yinjietd.com
   - DOMAIN-SUFFIX,yinka.co
-  - DOMAIN-SUFFIX,yinke.com
   - DOMAIN-SUFFIX,yinker.com
   - DOMAIN-SUFFIX,yinlei.net
   - DOMAIN-SUFFIX,yinliuba.com
@@ -66461,6 +66469,7 @@ payload:
   - DOMAIN-SUFFIX,zgtuku.com
   - DOMAIN-SUFFIX,zgtxw.com
   - DOMAIN-SUFFIX,zgtygg.com
+  - DOMAIN-SUFFIX,zgtzhb.com
   - DOMAIN-SUFFIX,zgui.com
   - DOMAIN-SUFFIX,zguonew.com
   - DOMAIN-SUFFIX,zgw.com
@@ -66638,7 +66647,6 @@ payload:
   - DOMAIN-SUFFIX,zhao163.com
   - DOMAIN-SUFFIX,zhaobeidaxiao.com
   - DOMAIN-SUFFIX,zhaobeijing.com
-  - DOMAIN-SUFFIX,zhaobiao.info
   - DOMAIN-SUFFIX,zhaobuxiu.com
   - DOMAIN-SUFFIX,zhaocaibb.com
   - DOMAIN-SUFFIX,zhaocaihr.com

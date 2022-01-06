@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-06 02:11:03
-# DOMAIN-SUFFIX: 68746
+# UPDATED: 2022-01-07 02:10:57
+# DOMAIN-SUFFIX: 68754
 # USER-AGENT: 31
 # DOMAIN: 82
 # IP-CIDR: 9
 # IP-CIDR6: 4
 # DOMAIN-KEYWORD: 1
-# TOTAL: 68873
+# TOTAL: 68881
 265.com
 2mdn.net
 adservice.google.com
@@ -3298,6 +3298,7 @@ www4-static.gog-statics.com
 .363u.com
 .364000.com
 .365128.com
+.365135.com
 .36543.com
 .365500.com
 .365708.com
@@ -5681,7 +5682,6 @@ www4-static.gog-statics.com
 .6122.net
 .612345.com
 .612459.com
-.6132071.com
 .6132823.com
 .6132979.com
 .6137.net
@@ -8568,7 +8568,6 @@ www4-static.gog-statics.com
 .aidrive.com
 .aiduoka.com
 .aiduwenxue.com
-.aidzs.com
 .aiec-alliance.com
 .aiegle.com
 .aiemy.com
@@ -13442,6 +13441,7 @@ www4-static.gog-statics.com
 .callda.com
 .callmewhy.com
 .caloinfo.com
+.calorietech.com
 .calt.com
 .calvinneo.com
 .cambm.com
@@ -13953,6 +13953,7 @@ www4-static.gog-statics.com
 .cd-vv.com
 .cd-zc.com
 .cd120.com
+.cd23f.com
 .cd37wan.com
 .cdabon.com
 .cdadata.com
@@ -19242,6 +19243,7 @@ www4-static.gog-statics.com
 .dedezhuji.com
 .deehai.com
 .deemob.com
+.deemos.com
 .deepai.com
 .deepano.com
 .deepaso.com
@@ -33467,6 +33469,7 @@ www4-static.gog-statics.com
 .jiatingdog.com
 .jiatui.com
 .jiatx.com
+.jiawentrans.com
 .jiawin.com
 .jiaxiaozhijia.com
 .jiaxichina.net
@@ -40627,6 +40630,7 @@ www4-static.gog-statics.com
 .menle.com
 .menpiao.com
 .menqiu.com
+.menubarx.app
 .menwee.com
 .menww.com
 .menwww.com
@@ -41085,6 +41089,7 @@ www4-static.gog-statics.com
 .minhangshi.com
 .minhow.com
 .mini-audio.com
+.mini-program.net
 .mini5cn-1.opera-mini.net
 .mini5cn.opera-mini.net
 .miniadx.com
@@ -44769,6 +44774,7 @@ www4-static.gog-statics.com
 .pdfdo.com
 .pdfdowell.com
 .pdfexpert.cc
+.pdffsy.com
 .pdffx.com
 .pdfjia.com
 .pdflibr.com
@@ -47325,6 +47331,7 @@ www4-static.gog-statics.com
 .queenfather.com
 .quegame.com
 .quegoo.com
+.queji.tw
 .queqiaoba.com
 .querylist.cc
 .queshao.com
@@ -48561,7 +48568,6 @@ www4-static.gog-statics.com
 .ruvar.com
 .ruvisas.com
 .ruwen5.com
-.ruxianke.com
 .ruyahui.com
 .ruyig.com
 .ruyile.com
@@ -53373,6 +53379,7 @@ www4-static.gog-statics.com
 .talkwithtrend.com
 .talkyun.com
 .taluo.com
+.talyscm.com
 .talzjsj.com
 .tamaegis.com
 .tamc8.com
@@ -54943,6 +54950,7 @@ www4-static.gog-statics.com
 .touchxd.com
 .touclick.com
 .touduyu.com
+.toufu321.com
 .toughcoder.net
 .tougub.com
 .touhou.cd
@@ -60680,6 +60688,7 @@ www4-static.gog-statics.com
 .xhj.com
 .xhjingling.com
 .xhkt.tv
+.xhlaowu.com
 .xhlgfsc.com
 .xhlyjlb.com
 .xhma.com
@@ -63931,7 +63940,6 @@ www4-static.gog-statics.com
 .yinjiaji.com
 .yinjietd.com
 .yinka.co
-.yinke.com
 .yinker.com
 .yinlei.net
 .yinliuba.com
@@ -66461,6 +66469,7 @@ www4-static.gog-statics.com
 .zgtuku.com
 .zgtxw.com
 .zgtygg.com
+.zgtzhb.com
 .zgui.com
 .zguonew.com
 .zgw.com
@@ -66638,7 +66647,6 @@ www4-static.gog-statics.com
 .zhao163.com
 .zhaobeidaxiao.com
 .zhaobeijing.com
-.zhaobiao.info
 .zhaobuxiu.com
 .zhaocaibb.com
 .zhaocaihr.com
