@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:28
+# UPDATED: 2022-02-03 02:11:40
 # HOST: 23359
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 13224
+# HOST-SUFFIX: 13226
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 36769
+# TOTAL: 36771
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -25361,6 +25361,7 @@ HOST-SUFFIX,analysys.cn,AdvertisingLite
 HOST-SUFFIX,analytic.imlive.com,AdvertisingLite
 HOST-SUFFIX,analytic.pho.fm,AdvertisingLite
 HOST-SUFFIX,analyticapi.pho.fm,AdvertisingLite
+HOST-SUFFIX,analytics-static.ugc.bazaarvoice.com,AdvertisingLite
 HOST-SUFFIX,analytics.21cn.com,AdvertisingLite
 HOST-SUFFIX,analytics.arz.at,AdvertisingLite
 HOST-SUFFIX,analytics.bhaskar.com,AdvertisingLite
@@ -33965,6 +33966,7 @@ HOST-SUFFIX,stats.piaggio.com,AdvertisingLite
 HOST-SUFFIX,stats.propublica.org,AdvertisingLite
 HOST-SUFFIX,stats.pusher.com,AdvertisingLite
 HOST-SUFFIX,stats.searchftps.org,AdvertisingLite
+HOST-SUFFIX,stats.shopify.com,AdvertisingLite
 HOST-SUFFIX,stats.shoppydoo.com,AdvertisingLite
 HOST-SUFFIX,stats.sitesuite.org,AdvertisingLite
 HOST-SUFFIX,stats.slideshare.net,AdvertisingLite
@@ -34597,7 +34599,6 @@ HOST-SUFFIX,tracking.military.com,AdvertisingLite
 HOST-SUFFIX,tracking.mobile.de,AdvertisingLite
 HOST-SUFFIX,tracking.mycapture.com,AdvertisingLite
 HOST-SUFFIX,tracking.nextdoor.com,AdvertisingLite
-HOST-SUFFIX,tracking.olx-st.com,AdvertisingLite
 HOST-SUFFIX,tracking.oui.sncf,AdvertisingLite
 HOST-SUFFIX,tracking.porndoelabs.com,AdvertisingLite
 HOST-SUFFIX,tracking.pornhd.com,AdvertisingLite
@@ -35038,6 +35039,7 @@ HOST-SUFFIX,uzotarak.com,AdvertisingLite
 HOST-SUFFIX,uzpmrbek.com,AdvertisingLite
 HOST-SUFFIX,uzyid.cn,AdvertisingLite
 HOST-SUFFIX,v.rmbn.net,AdvertisingLite
+HOST-SUFFIX,v.shopify.com,AdvertisingLite
 HOST-SUFFIX,v.smtcdns.net,AdvertisingLite
 HOST-SUFFIX,v.szpaopao.com,AdvertisingLite
 HOST-SUFFIX,v00087.com,AdvertisingLite

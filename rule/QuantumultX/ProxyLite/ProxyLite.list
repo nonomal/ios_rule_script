@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-30 02:14:01
-# HOST-SUFFIX: 31255
+# UPDATED: 2022-02-03 02:11:41
+# HOST-SUFFIX: 31256
 # USER-AGENT: 5
 # HOST: 18
 # HOST-KEYWORD: 28
 # IP-CIDR: 91
 # IP6-CIDR: 3
-# TOTAL: 31400
+# TOTAL: 31401
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
 HOST,aqi.aqicn.org,ProxyLite
@@ -20904,6 +20904,7 @@ HOST-SUFFIX,scholarsglobe.com,ProxyLite
 HOST-SUFFIX,schonenaci.sk,ProxyLite
 HOST-SUFFIX,schooltunnel.net,ProxyLite
 HOST-SUFFIX,sci.hubg.org,ProxyLite
+HOST-SUFFIX,science.org,ProxyLite
 HOST-SUFFIX,sciencedaily.com,ProxyLite
 HOST-SUFFIX,sciencedirectassets.com,ProxyLite
 HOST-SUFFIX,sciencemag.org,ProxyLite

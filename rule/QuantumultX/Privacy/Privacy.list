@@ -1,7 +1,7 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:28
+# UPDATED: 2022-02-03 02:11:40
 # HOST: 13
 # HOST-SUFFIX: 12633
 # IP-CIDR: 8
@@ -117,6 +117,7 @@ HOST-SUFFIX,a.thexfactorusa.com,Privacy
 HOST-SUFFIX,a.tovarro.com,Privacy
 HOST-SUFFIX,a.visitefoz.com.br,Privacy
 HOST-SUFFIX,a1.api.bbc.co.uk,Privacy
+HOST-SUFFIX,a10.nationalreview.com,Privacy
 HOST-SUFFIX,a10695.actonservice.com,Privacy
 HOST-SUFFIX,a11058.actonservice.com,Privacy
 HOST-SUFFIX,a11413003.actonservice.com,Privacy
@@ -1043,7 +1044,6 @@ HOST-SUFFIX,analytics-proxy.springboard.com,Privacy
 HOST-SUFFIX,analytics-rhwg.rhcloud.com,Privacy
 HOST-SUFFIX,analytics-scripts.cablelabs.com,Privacy
 HOST-SUFFIX,analytics-sg.tiktok.com,Privacy
-HOST-SUFFIX,analytics-static.ugc.bazaarvoice.com,Privacy
 HOST-SUFFIX,analytics.126.net,Privacy
 HOST-SUFFIX,analytics.163.com,Privacy
 HOST-SUFFIX,analytics.30m.com,Privacy
@@ -1339,7 +1339,6 @@ HOST-SUFFIX,app.info.coopenae.fi.cr,Privacy
 HOST-SUFFIX,app.information.maileva.com,Privacy
 HOST-SUFFIX,app.mktg.genesys.com,Privacy
 HOST-SUFFIX,app.response.siemens-info.com,Privacy
-HOST-SUFFIX,app.sephora.com,Privacy
 HOST-SUFFIX,app.thomsonreuters.com,Privacy
 HOST-SUFFIX,app.updates.digicert.com,Privacy
 HOST-SUFFIX,app03.ikk-classic.de,Privacy
@@ -3758,6 +3757,7 @@ HOST-SUFFIX,gdsngr.chainreactioncycles.com,Privacy
 HOST-SUFFIX,gefkkw.cyberport.de,Privacy
 HOST-SUFFIX,gekko.spiceworks.com,Privacy
 HOST-SUFFIX,gemius.mgr.consensu.org,Privacy
+HOST-SUFFIX,genesis.malwarebytes.com,Privacy
 HOST-SUFFIX,geo.emol.cl,Privacy
 HOST-SUFFIX,geo.ertya.com,Privacy
 HOST-SUFFIX,geo.gfycat.com,Privacy
@@ -6218,7 +6218,6 @@ HOST-SUFFIX,metrics.scribblelive.com,Privacy
 HOST-SUFFIX,metrics.seagate.com,Privacy
 HOST-SUFFIX,metrics.seawheeze.com,Privacy
 HOST-SUFFIX,metrics.sen.com.au,Privacy
-HOST-SUFFIX,metrics.sephora.com,Privacy
 HOST-SUFFIX,metrics.sfr.fr,Privacy
 HOST-SUFFIX,metrics.shangri-la.com,Privacy
 HOST-SUFFIX,metrics.sharecare.com,Privacy
@@ -9241,7 +9240,6 @@ HOST-SUFFIX,smetrics.seb.lv,Privacy
 HOST-SUFFIX,smetrics.seguro.mediaset.es,Privacy
 HOST-SUFFIX,smetrics.sen.com.au,Privacy
 HOST-SUFFIX,smetrics.sensai-cosmetics.com,Privacy
-HOST-SUFFIX,smetrics.sephora.com,Privacy
 HOST-SUFFIX,smetrics.sfr.fr,Privacy
 HOST-SUFFIX,smetrics.shangri-la.com,Privacy
 HOST-SUFFIX,smetrics.shannons.com.au,Privacy
@@ -10101,6 +10099,7 @@ HOST-SUFFIX,stats.dailyposter.com,Privacy
 HOST-SUFFIX,stats.dashbit.co,Privacy
 HOST-SUFFIX,stats.datahjaelp.net,Privacy
 HOST-SUFFIX,stats.davestewart.co.uk,Privacy
+HOST-SUFFIX,stats.davidickedelivery.com,Privacy
 HOST-SUFFIX,stats.davidlms.com,Privacy
 HOST-SUFFIX,stats.deutschlandsim.de,Privacy
 HOST-SUFFIX,stats.deva.guru,Privacy
@@ -10326,7 +10325,6 @@ HOST-SUFFIX,stats.shareup.app,Privacy
 HOST-SUFFIX,stats.sheer.tj,Privacy
 HOST-SUFFIX,stats.shell-tips.com,Privacy
 HOST-SUFFIX,stats.shepherd.com,Privacy
-HOST-SUFFIX,stats.shopify.com,Privacy
 HOST-SUFFIX,stats.shoutout.so,Privacy
 HOST-SUFFIX,stats.sim.de,Privacy
 HOST-SUFFIX,stats.simplytel.de,Privacy
@@ -11606,6 +11604,7 @@ HOST-SUFFIX,tracking.novem.pl,Privacy
 HOST-SUFFIX,tracking.oceaneering.com,Privacy
 HOST-SUFFIX,tracking.oe24.at,Privacy
 HOST-SUFFIX,tracking.oldnational.com,Privacy
+HOST-SUFFIX,tracking.olx-st.com,Privacy
 HOST-SUFFIX,tracking.omron.cz,Privacy
 HOST-SUFFIX,tracking.omron.ru,Privacy
 HOST-SUFFIX,tracking.opentable.com,Privacy
@@ -11644,6 +11643,7 @@ HOST-SUFFIX,tracking.sezzle.com,Privacy
 HOST-SUFFIX,tracking.sharplink.us,Privacy
 HOST-SUFFIX,tracking.shl.com,Privacy
 HOST-SUFFIX,tracking.shop.verymobile.it,Privacy
+HOST-SUFFIX,tracking.shopstyle.co.uk,Privacy
 HOST-SUFFIX,tracking.shopstyle.com,Privacy
 HOST-SUFFIX,tracking.sierrawireless.com,Privacy
 HOST-SUFFIX,tracking.smartbets.com,Privacy
@@ -11761,7 +11761,6 @@ HOST-SUFFIX,trk.nuernberger.de,Privacy
 HOST-SUFFIX,trk.nuernberger.digital,Privacy
 HOST-SUFFIX,trk.optum.com,Privacy
 HOST-SUFFIX,trk.plasticstoday.com,Privacy
-HOST-SUFFIX,trk.s.sephora.com,Privacy
 HOST-SUFFIX,trk.techtarget.com,Privacy
 HOST-SUFFIX,trk.thinkhdi.com,Privacy
 HOST-SUFFIX,trk.us.underarmour.com,Privacy
@@ -11887,7 +11886,6 @@ HOST-SUFFIX,uwy4.aegon.es,Privacy
 HOST-SUFFIX,uzd1.madeindesign.com,Privacy
 HOST-SUFFIX,v.emedia.cn,Privacy
 HOST-SUFFIX,v.oui.sncf,Privacy
-HOST-SUFFIX,v.shopify.com,Privacy
 HOST-SUFFIX,v1sts.me,Privacy
 HOST-SUFFIX,v87p9d3uxu13.fjlaboratories.com,Privacy
 HOST-SUFFIX,vanfireworks.com,Privacy
@@ -11944,6 +11942,7 @@ HOST-SUFFIX,visits.quitsocialmedia.club,Privacy
 HOST-SUFFIX,visits.tommi.space,Privacy
 HOST-SUFFIX,vivaciousveil.com,Privacy
 HOST-SUFFIX,vkiais.brendi.pl,Privacy
+HOST-SUFFIX,vlogs.deja.media,Privacy
 HOST-SUFFIX,vlwutxd95syk.www.usa-corporate.com,Privacy
 HOST-SUFFIX,vmstats.varrando.com,Privacy
 HOST-SUFFIX,vmsxzx.buienradar.nl,Privacy
@@ -12605,6 +12604,7 @@ HOST-SUFFIX,yyhijp.g123.jp,Privacy
 HOST-SUFFIX,yzjqqj.emmiol.com,Privacy
 HOST-SUFFIX,z.cdp-dev.cnn.com,Privacy
 HOST-SUFFIX,z0uolej1qnxzub1.info,Privacy
+HOST-SUFFIX,za.zdn.vn,Privacy
 HOST-SUFFIX,zaawds.farmae.it,Privacy
 HOST-SUFFIX,zam.nextinpact.com,Privacy
 HOST-SUFFIX,zaventemdijleland.viessmann.be,Privacy

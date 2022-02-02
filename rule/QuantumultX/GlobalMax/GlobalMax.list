@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-30 02:14:01
-# HOST-SUFFIX: 32655
+# UPDATED: 2022-02-03 02:11:41
+# HOST-SUFFIX: 32656
 # USER-AGENT: 73
 # HOST: 47
 # HOST-KEYWORD: 71
 # IP-CIDR: 1194
 # IP6-CIDR: 31
-# TOTAL: 34071
+# TOTAL: 34072
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -21975,6 +21975,7 @@ HOST-SUFFIX,scholarsglobe.com,GlobalMax
 HOST-SUFFIX,schonenaci.sk,GlobalMax
 HOST-SUFFIX,schooltunnel.net,GlobalMax
 HOST-SUFFIX,sci.hubg.org,GlobalMax
+HOST-SUFFIX,science.org,GlobalMax
 HOST-SUFFIX,sciencedaily.com,GlobalMax
 HOST-SUFFIX,sciencedirectassets.com,GlobalMax
 HOST-SUFFIX,sciencemag.org,GlobalMax

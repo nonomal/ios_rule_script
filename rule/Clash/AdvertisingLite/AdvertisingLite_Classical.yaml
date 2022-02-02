@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:30
+# UPDATED: 2022-02-03 02:11:42
 # DOMAIN: 23359
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13224
+# DOMAIN-SUFFIX: 13226
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 36769
+# TOTAL: 36771
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -25362,6 +25362,7 @@ payload:
   - DOMAIN-SUFFIX,analytic.imlive.com
   - DOMAIN-SUFFIX,analytic.pho.fm
   - DOMAIN-SUFFIX,analyticapi.pho.fm
+  - DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
   - DOMAIN-SUFFIX,analytics.21cn.com
   - DOMAIN-SUFFIX,analytics.arz.at
   - DOMAIN-SUFFIX,analytics.bhaskar.com
@@ -33966,6 +33967,7 @@ payload:
   - DOMAIN-SUFFIX,stats.propublica.org
   - DOMAIN-SUFFIX,stats.pusher.com
   - DOMAIN-SUFFIX,stats.searchftps.org
+  - DOMAIN-SUFFIX,stats.shopify.com
   - DOMAIN-SUFFIX,stats.shoppydoo.com
   - DOMAIN-SUFFIX,stats.sitesuite.org
   - DOMAIN-SUFFIX,stats.slideshare.net
@@ -34598,7 +34600,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.mobile.de
   - DOMAIN-SUFFIX,tracking.mycapture.com
   - DOMAIN-SUFFIX,tracking.nextdoor.com
-  - DOMAIN-SUFFIX,tracking.olx-st.com
   - DOMAIN-SUFFIX,tracking.oui.sncf
   - DOMAIN-SUFFIX,tracking.porndoelabs.com
   - DOMAIN-SUFFIX,tracking.pornhd.com
@@ -35039,6 +35040,7 @@ payload:
   - DOMAIN-SUFFIX,uzpmrbek.com
   - DOMAIN-SUFFIX,uzyid.cn
   - DOMAIN-SUFFIX,v.rmbn.net
+  - DOMAIN-SUFFIX,v.shopify.com
   - DOMAIN-SUFFIX,v.smtcdns.net
   - DOMAIN-SUFFIX,v.szpaopao.com
   - DOMAIN-SUFFIX,v00087.com

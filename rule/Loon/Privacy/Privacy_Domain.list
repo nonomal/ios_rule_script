@@ -1,7 +1,7 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 02:08:29
+# UPDATED: 2022-02-03 02:11:41
 # DOMAIN: 13
 # DOMAIN-SUFFIX: 12633
 # IP-CIDR: 8
@@ -117,6 +117,7 @@ zgsdk.zhugeio.com
 .a.tovarro.com
 .a.visitefoz.com.br
 .a1.api.bbc.co.uk
+.a10.nationalreview.com
 .a10695.actonservice.com
 .a11058.actonservice.com
 .a11413003.actonservice.com
@@ -1043,7 +1044,6 @@ zgsdk.zhugeio.com
 .analytics-rhwg.rhcloud.com
 .analytics-scripts.cablelabs.com
 .analytics-sg.tiktok.com
-.analytics-static.ugc.bazaarvoice.com
 .analytics.126.net
 .analytics.163.com
 .analytics.30m.com
@@ -1339,7 +1339,6 @@ zgsdk.zhugeio.com
 .app.information.maileva.com
 .app.mktg.genesys.com
 .app.response.siemens-info.com
-.app.sephora.com
 .app.thomsonreuters.com
 .app.updates.digicert.com
 .app03.ikk-classic.de
@@ -3758,6 +3757,7 @@ zgsdk.zhugeio.com
 .gefkkw.cyberport.de
 .gekko.spiceworks.com
 .gemius.mgr.consensu.org
+.genesis.malwarebytes.com
 .geo.emol.cl
 .geo.ertya.com
 .geo.gfycat.com
@@ -6218,7 +6218,6 @@ zgsdk.zhugeio.com
 .metrics.seagate.com
 .metrics.seawheeze.com
 .metrics.sen.com.au
-.metrics.sephora.com
 .metrics.sfr.fr
 .metrics.shangri-la.com
 .metrics.sharecare.com
@@ -9241,7 +9240,6 @@ zgsdk.zhugeio.com
 .smetrics.seguro.mediaset.es
 .smetrics.sen.com.au
 .smetrics.sensai-cosmetics.com
-.smetrics.sephora.com
 .smetrics.sfr.fr
 .smetrics.shangri-la.com
 .smetrics.shannons.com.au
@@ -10101,6 +10099,7 @@ zgsdk.zhugeio.com
 .stats.dashbit.co
 .stats.datahjaelp.net
 .stats.davestewart.co.uk
+.stats.davidickedelivery.com
 .stats.davidlms.com
 .stats.deutschlandsim.de
 .stats.deva.guru
@@ -10326,7 +10325,6 @@ zgsdk.zhugeio.com
 .stats.sheer.tj
 .stats.shell-tips.com
 .stats.shepherd.com
-.stats.shopify.com
 .stats.shoutout.so
 .stats.sim.de
 .stats.simplytel.de
@@ -11606,6 +11604,7 @@ zgsdk.zhugeio.com
 .tracking.oceaneering.com
 .tracking.oe24.at
 .tracking.oldnational.com
+.tracking.olx-st.com
 .tracking.omron.cz
 .tracking.omron.ru
 .tracking.opentable.com
@@ -11644,6 +11643,7 @@ zgsdk.zhugeio.com
 .tracking.sharplink.us
 .tracking.shl.com
 .tracking.shop.verymobile.it
+.tracking.shopstyle.co.uk
 .tracking.shopstyle.com
 .tracking.sierrawireless.com
 .tracking.smartbets.com
@@ -11761,7 +11761,6 @@ zgsdk.zhugeio.com
 .trk.nuernberger.digital
 .trk.optum.com
 .trk.plasticstoday.com
-.trk.s.sephora.com
 .trk.techtarget.com
 .trk.thinkhdi.com
 .trk.us.underarmour.com
@@ -11887,7 +11886,6 @@ zgsdk.zhugeio.com
 .uzd1.madeindesign.com
 .v.emedia.cn
 .v.oui.sncf
-.v.shopify.com
 .v1sts.me
 .v87p9d3uxu13.fjlaboratories.com
 .vanfireworks.com
@@ -11944,6 +11942,7 @@ zgsdk.zhugeio.com
 .visits.tommi.space
 .vivaciousveil.com
 .vkiais.brendi.pl
+.vlogs.deja.media
 .vlwutxd95syk.www.usa-corporate.com
 .vmstats.varrando.com
 .vmsxzx.buienradar.nl
@@ -12605,6 +12604,7 @@ zgsdk.zhugeio.com
 .yzjqqj.emmiol.com
 .z.cdp-dev.cnn.com
 .z0uolej1qnxzub1.info
+.za.zdn.vn
 .zaawds.farmae.it
 .zam.nextinpact.com
 .zaventemdijleland.viessmann.be
