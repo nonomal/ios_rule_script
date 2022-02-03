@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-03 02:11:41
-# HOST-SUFFIX: 32656
+# UPDATED: 2022-02-04 02:11:38
+# HOST-SUFFIX: 32657
 # USER-AGENT: 73
 # HOST: 47
 # HOST-KEYWORD: 71
 # IP-CIDR: 1194
 # IP6-CIDR: 31
-# TOTAL: 34072
+# TOTAL: 34073
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -8887,6 +8887,7 @@ HOST-SUFFIX,diretv.com,GlobalMax
 HOST-SUFFIX,dirgaip.com,GlobalMax
 HOST-SUFFIX,dirpy.com,GlobalMax
 HOST-SUFFIX,dirtymilfclub.com,GlobalMax
+HOST-SUFFIX,dis.gd,GlobalMax
 HOST-SUFFIX,discfan.net,GlobalMax
 HOST-SUFFIX,disco-api.com,GlobalMax
 HOST-SUFFIX,discoins.com,GlobalMax
