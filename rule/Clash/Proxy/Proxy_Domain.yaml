@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-30 02:14:03
-# DOMAIN-SUFFIX: 24591
+# UPDATED: 2022-02-06 02:10:17
+# DOMAIN-SUFFIX: 24602
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 32
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 24725
+# TOTAL: 24736
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -2667,6 +2667,7 @@ payload:
   - '+.advanhost.con.hk'
   - '+.advanscene.com'
   - '+.adventist.org'
+  - '+.ae.hao123.com'
   - '+.ae.org'
   - '+.aebn.net'
   - '+.aenhancers.com'
@@ -4415,6 +4416,7 @@ payload:
   - '+.boyxv.com'
   - '+.bp8nyohd6k.com'
   - '+.bpd.com.do'
+  - '+.br.hao123.com'
   - '+.br.st'
   - '+.bradar.cl'
   - '+.braghini.com.ar'
@@ -7062,6 +7064,7 @@ payload:
   - '+.emuparadise.me'
   - '+.en.akinator.com'
   - '+.en.altervista.org'
+  - '+.en.hao123.com'
   - '+.en.howbbs.com'
   - '+.en.ishadowx.net'
   - '+.en.mwikipedia.org'
@@ -9011,8 +9014,6 @@ payload:
   - '+.hanwitprecision.com'
   - '+.hanyelove.weebly.com'
   - '+.hao.news'
-  - '+.hao123.com'
-  - '+.hao123img.com'
   - '+.hao8tv.com'
   - '+.haodiao.org'
   - '+.haoli747.com'
@@ -9349,6 +9350,7 @@ payload:
   - '+.hk.c.cloudss.pw'
   - '+.hk.futu5.com'
   - '+.hk.hacked.jp'
+  - '+.hk.hao123img.com'
   - '+.hk.mssi.pw'
   - '+.hk01.com'
   - '+.hk1.pro.rixcloud.net'
@@ -9780,6 +9782,7 @@ payload:
   - '+.icsin.org'
   - '+.ictsupport.com.pe'
   - '+.icu-project.org'
+  - '+.id.hao123.com'
   - '+.id.t28.net'
   - '+.idaili.club'
   - '+.idaiwan.com'
@@ -10644,6 +10647,7 @@ payload:
   - '+.joymiihub.com'
   - '+.joys999.com'
   - '+.jp-sex.com'
+  - '+.jp.hao123.com'
   - '+.jp.moc.gov.tw'
   - '+.jp.net'
   - '+.jp01-28.ssv4.net'
@@ -11209,6 +11213,7 @@ payload:
   - '+.lc08s3713.friendbitter.com'
   - '+.lcw580.com'
   - '+.lcx.cc'
+  - '+.ld.hao123img.com'
   - '+.ld091.com'
   - '+.ld6.bet'
   - '+.ld88.tv'
@@ -11876,6 +11881,7 @@ payload:
   - '+.m989m989.com'
   - '+.m9909.com'
   - '+.m9955.com'
+  - '+.ma.hao123.com'
   - '+.ma8009.com'
   - '+.maasstadbv.com'
   - '+.mab.mnd.gov.tw'
@@ -12698,6 +12704,7 @@ payload:
   - '+.mvpn.pro'
   - '+.mvpxxtv.com'
   - '+.mwds.co.za'
+  - '+.mx.hao123.com'
   - '+.mx981.com'
   - '+.mxhandroid.com'
   - '+.mxihan.xyz'
@@ -15271,6 +15278,7 @@ payload:
   - '+.s99bet.com'
   - '+.s99bet.net'
   - '+.sa.com'
+  - '+.sa.hao123.com'
   - '+.saalt.org'
   - '+.saboom.com'
   - '+.sacbee.com'
@@ -16878,6 +16886,7 @@ payload:
   - '+.tgpasia.com'
   - '+.tgraph.io'
   - '+.tgs.tca.org.tw'
+  - '+.th.hao123.com'
   - '+.th.thaimazda2.com'
   - '+.thaichix.com'
   - '+.thaicn.com'
@@ -17653,6 +17662,7 @@ payload:
   - '+.tw-npo.org'
   - '+.tw.94funtv.com'
   - '+.tw.daigobang.com'
+  - '+.tw.hao123.com'
   - '+.tw.hotels.com'
   - '+.tw.iqiyi.com'
   - '+.tw.jzbet666.net'
@@ -18394,6 +18404,7 @@ payload:
   - '+.vmpsoft.com'
   - '+.vmwareitacademy.org'
   - '+.vn-lm.jbo25.com'
+  - '+.vn.hao123.com'
   - '+.vn0765.com'
   - '+.vn4.net'
   - '+.vn52888.com'

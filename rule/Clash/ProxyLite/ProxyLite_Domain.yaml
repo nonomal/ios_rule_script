@@ -1,7 +1,7 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-03 02:11:45
+# UPDATED: 2022-02-06 02:10:18
 # DOMAIN-SUFFIX: 31256
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
@@ -12197,8 +12197,6 @@ payload:
   - '+.hanwitprecision.com'
   - '+.hanyelove.weebly.com'
   - '+.hao.news'
-  - '+.hao123.com'
-  - '+.hao123img.com'
   - '+.hao8tv.com'
   - '+.haodiao.org'
   - '+.haoli747.com'
@@ -12605,6 +12603,7 @@ payload:
   - '+.hk.32-b.it'
   - '+.hk.c.cloudss.pw'
   - '+.hk.hacked.jp'
+  - '+.hk.hao123img.com'
   - '+.hk.mssi.pw'
   - '+.hk01.com'
   - '+.hk1.pro.rixcloud.net'
@@ -15132,6 +15131,7 @@ payload:
   - '+.lcsmerch.com'
   - '+.lcw580.com'
   - '+.lcx.cc'
+  - '+.ld.hao123img.com'
   - '+.ld091.com'
   - '+.ld6.bet'
   - '+.ld88.tv'

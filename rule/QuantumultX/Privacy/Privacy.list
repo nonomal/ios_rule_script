@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-03 02:11:40
+# UPDATED: 2022-02-06 02:10:13
 # HOST: 13
-# HOST-SUFFIX: 12633
+# HOST-SUFFIX: 12634
 # IP-CIDR: 8
-# TOTAL: 12654
+# TOTAL: 12655
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
 HOST,js.users.51.la,Privacy
@@ -12631,6 +12631,7 @@ HOST-SUFFIX,zm5d.lexpress.fr,Privacy
 HOST-SUFFIX,zminer.zaloapp.com,Privacy
 HOST-SUFFIX,znq9.destinia.mx,Privacy
 HOST-SUFFIX,zoiajw.yves-rocher.cz,Privacy
+HOST-SUFFIX,zononi.com,Privacy
 HOST-SUFFIX,zoomanalytics.co,Privacy
 HOST-SUFFIX,zoomhead.xyz,Privacy
 HOST-SUFFIX,zopqks.kavehome.com,Privacy

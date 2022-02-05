@@ -1,7 +1,7 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-03 02:11:41
+# UPDATED: 2022-02-06 02:10:14
 # HOST-SUFFIX: 31256
 # USER-AGENT: 5
 # HOST: 18
@@ -12197,8 +12197,6 @@ HOST-SUFFIX,hanunyi.com,ProxyLite
 HOST-SUFFIX,hanwitprecision.com,ProxyLite
 HOST-SUFFIX,hanyelove.weebly.com,ProxyLite
 HOST-SUFFIX,hao.news,ProxyLite
-HOST-SUFFIX,hao123.com,ProxyLite
-HOST-SUFFIX,hao123img.com,ProxyLite
 HOST-SUFFIX,hao8tv.com,ProxyLite
 HOST-SUFFIX,haodiao.org,ProxyLite
 HOST-SUFFIX,haoli747.com,ProxyLite
@@ -12605,6 +12603,7 @@ HOST-SUFFIX,hk-pub.com,ProxyLite
 HOST-SUFFIX,hk.32-b.it,ProxyLite
 HOST-SUFFIX,hk.c.cloudss.pw,ProxyLite
 HOST-SUFFIX,hk.hacked.jp,ProxyLite
+HOST-SUFFIX,hk.hao123img.com,ProxyLite
 HOST-SUFFIX,hk.mssi.pw,ProxyLite
 HOST-SUFFIX,hk01.com,ProxyLite
 HOST-SUFFIX,hk1.pro.rixcloud.net,ProxyLite
@@ -15132,6 +15131,7 @@ HOST-SUFFIX,lc08s3713.friendbitter.com,ProxyLite
 HOST-SUFFIX,lcsmerch.com,ProxyLite
 HOST-SUFFIX,lcw580.com,ProxyLite
 HOST-SUFFIX,lcx.cc,ProxyLite
+HOST-SUFFIX,ld.hao123img.com,ProxyLite
 HOST-SUFFIX,ld091.com,ProxyLite
 HOST-SUFFIX,ld6.bet,ProxyLite
 HOST-SUFFIX,ld88.tv,ProxyLite

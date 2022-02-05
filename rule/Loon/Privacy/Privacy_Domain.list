@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-03 02:11:41
+# UPDATED: 2022-02-06 02:10:14
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 12633
+# DOMAIN-SUFFIX: 12634
 # IP-CIDR: 8
-# TOTAL: 12654
+# TOTAL: 12655
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -12631,6 +12631,7 @@ zgsdk.zhugeio.com
 .zminer.zaloapp.com
 .znq9.destinia.mx
 .zoiajw.yves-rocher.cz
+.zononi.com
 .zoomanalytics.co
 .zoomhead.xyz
 .zopqks.kavehome.com

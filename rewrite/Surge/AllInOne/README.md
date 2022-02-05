@@ -17,8 +17,8 @@
 | mitm | 551 |
 | force_http_engine_hosts | 12 |
 | URL-REGEX | 7 |
-| DOMAIN | 6 |
 | DOMAIN-SUFFIX | 2 |
+| DOMAIN | 6 |
 | USER-AGENT | 1 |
 | IP-CIDR6 | 1 |
 | IP-CIDR | 1 |
