@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-06 02:10:19
+# UPDATED: 2022-02-07 02:11:13
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 44853
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 83500
+# DOMAIN-SUFFIX: 83529
 # IP-CIDR: 257
 # URL-REGEX: 302
-# TOTAL: 128998
+# TOTAL: 129027
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -45645,6 +45645,7 @@ zzzrtrcm2.com
 .1v7.cn
 .1warie.com
 .1web.me
+.1wofaei.xyz
 .1worldonline.com
 .1x26q3.cn
 .1x3x.com
@@ -46543,6 +46544,7 @@ zzzrtrcm2.com
 .51chumoping.com
 .51city.fun
 .51daeka.com
+.51dc.xyz
 .51dengshan.cn
 .51df7z.cn
 .51dianji.cn
@@ -49994,6 +49996,7 @@ zzzrtrcm2.com
 .adblockmetrics.ru
 .adblockotsosal.ru
 .adblockrelief.com
+.adblocksosal.ru
 .adblockstream.com
 .adblockstrtape.link
 .adblockstrtech.link
@@ -52066,6 +52069,7 @@ zzzrtrcm2.com
 .adsassets.waze.com
 .adsatt.espn.go.com
 .adsaturn.com
+.adsb.pub
 .adsb4trk.com
 .adsbang.top
 .adsbanner.game.zing.vn
@@ -55540,6 +55544,7 @@ zzzrtrcm2.com
 .ashow.pcpop.com
 .ashtraysophomore.com
 .asia-northeast1-affiliate-pr.cloudfunctions.net
+.asia999.website
 .asiafriendfinder.com
 .asiangfsex.com
 .asianread.com
@@ -60727,6 +60732,7 @@ zzzrtrcm2.com
 .casino-zilla.com
 .casino.betsson.com
 .casino770.com
+.casino86.club
 .casino888vn.com
 .casinohacksforyou.com
 .casinopays.com
@@ -71688,6 +71694,7 @@ zzzrtrcm2.com
 .events.artirix.com
 .events.attentivemobile.com
 .events.audiate.me
+.events.audioplace.me
 .events.avantisvideo.com
 .events.avaya.com
 .events.bouncex.net
@@ -72881,6 +72888,7 @@ zzzrtrcm2.com
 .feyl4mh5to.com
 .feyxyguwy.com
 .ff-member-ganena.com
+.ff-member-gazeza.com
 .ff-members-garena.vn
 .ff-membership-garena.com
 .ff.astv.ru
@@ -74642,6 +74650,7 @@ zzzrtrcm2.com
 .gadspms.com
 .gadspmz.com
 .gadwhy.com
+.gaerena.vn
 .gafdelins.com
 .gaftaums.com
 .gagacon.com
@@ -74747,6 +74756,7 @@ zzzrtrcm2.com
 .gamelights.ru
 .gameone.com
 .gameporn.org
+.gamequyong.site
 .gamer.mmohuts.com
 .gamerickius.com
 .gameriew.com
@@ -74804,6 +74814,7 @@ zzzrtrcm2.com
 .gaqavrhhgmu.com
 .gar-tech.com
 .garacy.cn
+.garaena.vn
 .garant.bos.ru
 .garciaestelles.com
 .gard4mass.com
@@ -74813,6 +74824,7 @@ zzzrtrcm2.com
 .gareena.vn
 .garena-members.com
 .garena.fan
+.garenaj.vn
 .garera.vn
 .garettygrea.space
 .garglesoon.com
@@ -75252,6 +75264,7 @@ zzzrtrcm2.com
 .gesymphone.site
 .get-ads.ru
 .get-answers-fast.com
+.get-best-prizes.life
 .get-click.net
 .get-click.ru
 .get-downloads.com
@@ -82969,6 +82982,7 @@ zzzrtrcm2.com
 .jqsex.com
 .jquery-cdn.download
 .jquery-uim.download
+.jquery.envi-met.com.cn
 .jquerycdn.co.il
 .jqueryget.com
 .jquerymin.co.il
@@ -85778,6 +85792,7 @@ zzzrtrcm2.com
 .liecso.e-himart.co.kr
 .liehu.ijinshan.com
 .lienquan-garena-giftcode.com
+.lienquanmobilequatang.com
 .lieqitianxia.cn
 .liersmagne.club
 .lieutenantsaviourtones.com
@@ -86510,6 +86525,7 @@ zzzrtrcm2.com
 .load.xxxdb.io
 .load44ont.online
 .loader-tor.ru
+.loader.zeroform.com
 .loadercdn.com
 .loadesecoparc.co.uk
 .loading-delivery1.com
@@ -88659,6 +88675,8 @@ zzzrtrcm2.com
 .manchina.xyz
 .manclub.game
 .manclub.live
+.manclubwin.club
+.manclubwin.uk
 .manconsider.com
 .mandatebright.club
 .mandatorycaptaincountless.com
@@ -90375,10 +90393,12 @@ zzzrtrcm2.com
 .meltdownstake.com
 .meltpiratehamlet.com
 .melvillet.pro
+.member-gaarena.com
 .member-garena.vn
 .member.javtvnow.xyz
 .membergo.club
 .memberprizes.com
+.memberr-garenaa.com
 .members.chello.at
 .members.chello.nl
 .members.iinet.net.au
@@ -99743,6 +99763,8 @@ zzzrtrcm2.com
 .playhaven.com
 .playinfo.gomlab.com
 .playinvaders.com
+.playiwin.biz
+.playiwin.site
 .playjusting.com
 .playlink.pl
 .playlog.youku.com
@@ -102477,6 +102499,7 @@ zzzrtrcm2.com
 .qqmilk.ru
 .qqotmtadpamrwho.top
 .qqppz.com
+.qqq-www-987.site
 .qqq123987.site
 .qqqmmm.top
 .qqqwes.com
@@ -104542,6 +104565,7 @@ zzzrtrcm2.com
 .rmcxw.cn
 .rmcxw.net
 .rmcxyfqbm.com
+.rmdzsw.top
 .rmedessents.club
 .rmedia.boston.com
 .rmetop.com
@@ -107945,6 +107969,7 @@ zzzrtrcm2.com
 .sielsmaats.com
 .sierraclumsy.com
 .sieubomtan.com
+.sieukeo.live
 .sieveinterposed.com
 .siewmi.uncommongoods.com
 .sifakaoshi360.com
@@ -108474,6 +108499,7 @@ zzzrtrcm2.com
 .smaclick.com
 .smadex.com
 .smagod.com
+.smallapp.club
 .smallbeginner.com
 .smallentpation.pro
 .smallmovieapp.com
@@ -114970,6 +114996,7 @@ zzzrtrcm2.com
 .tbskip.taobao.com
 .tbtrck.com
 .tbv157xq.com
+.tbxprvf.cn
 .tc-bic.appspot.com
 .tc-clicks.com
 .tc-log.mattel163.com
@@ -116707,6 +116734,7 @@ zzzrtrcm2.com
 .topblogging.com
 .topbucks.com
 .topcashvibes.com
+.topcc88.me
 .topclickguru.com
 .topconsumergifts.com
 .topcpa.ru
@@ -127636,6 +127664,7 @@ zzzrtrcm2.com
 .zhh8886.com
 .zhhoeyksp.com
 .zhiad.com
+.zhiai.space
 .zhiboiot.cn
 .zhichangwo.com
 .zhichi08.com

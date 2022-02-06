@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-06 02:10:14
+# UPDATED: 2022-02-07 02:11:08
 # USER-AGENT: 62
 # HOST-SUFFIX: 71719
 # HOST: 53
-# IP-CIDR: 6176
+# IP-CIDR: 6177
 # HOST-KEYWORD: 14
 # IP6-CIDR: 5546
-# TOTAL: 83570
+# TOTAL: 83571
 HOST,265.com,ChinaMax
 HOST,c.android.clients.google.com,ChinaMax
 HOST,cache.pack.google.com,ChinaMax
@@ -77994,6 +77994,7 @@ IP-CIDR,67.198.188.0/23,ChinaMax
 IP-CIDR,67.198.192.0/23,ChinaMax
 IP-CIDR,67.198.195.0/24,ChinaMax
 IP-CIDR,67.198.199.0/24,ChinaMax
+IP-CIDR,67.198.201.0/24,ChinaMax
 IP-CIDR,67.198.207.0/24,ChinaMax
 IP-CIDR,67.198.208.0/24,ChinaMax
 IP-CIDR,67.198.221.0/24,ChinaMax

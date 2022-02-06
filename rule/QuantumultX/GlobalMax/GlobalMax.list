@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-04 02:11:38
-# HOST-SUFFIX: 32657
+# UPDATED: 2022-02-07 02:11:09
+# HOST-SUFFIX: 32658
 # USER-AGENT: 73
 # HOST: 47
 # HOST-KEYWORD: 71
 # IP-CIDR: 1194
 # IP6-CIDR: 31
-# TOTAL: 34073
+# TOTAL: 34074
 HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
@@ -19385,6 +19385,7 @@ HOST-SUFFIX,oktube.net,GlobalMax
 HOST-SUFFIX,oktvusa.com,GlobalMax
 HOST-SUFFIX,oktw.6te.net,GlobalMax
 HOST-SUFFIX,okvpn.cn,GlobalMax
+HOST-SUFFIX,okx.com,GlobalMax
 HOST-SUFFIX,olabloga.pl,GlobalMax
 HOST-SUFFIX,olcl.com,GlobalMax
 HOST-SUFFIX,old-cat.net,GlobalMax
