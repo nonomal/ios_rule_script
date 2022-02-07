@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-06 02:10:18
-# DOMAIN-SUFFIX: 31256
+# UPDATED: 2022-02-08 02:12:01
+# DOMAIN-SUFFIX: 31260
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
 # IP-CIDR: 91
 # IP-CIDR6: 3
-# TOTAL: 31396
+# TOTAL: 31400
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,api.waqi.info
@@ -3633,6 +3633,7 @@ payload:
   - DOMAIN-SUFFIX,apple-hk.com
   - DOMAIN-SUFFIX,apple-imac.com
   - DOMAIN-SUFFIX,apple-inc.net
+  - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-online.com
   - DOMAIN-SUFFIX,apple-pay.com
   - DOMAIN-SUFFIX,apple-pay.rs
@@ -3642,6 +3643,8 @@ payload:
   - DOMAIN-SUFFIX,apple-usa.net
   - DOMAIN-SUFFIX,apple.be
   - DOMAIN-SUFFIX,apple.ch
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.co
   - DOMAIN-SUFFIX,apple.com.do
   - DOMAIN-SUFFIX,apple.com.pr
@@ -14029,6 +14032,7 @@ payload:
   - DOMAIN-SUFFIX,ituneas.com
   - DOMAIN-SUFFIX,itunes-radio.net
   - DOMAIN-SUFFIX,itunes.co
+  - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,itunes.org
   - DOMAIN-SUFFIX,itunes.rio
   - DOMAIN-SUFFIX,itunes12days.com

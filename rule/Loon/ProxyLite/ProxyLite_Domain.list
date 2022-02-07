@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-06 02:10:15
-# DOMAIN-SUFFIX: 31256
+# UPDATED: 2022-02-08 02:11:58
+# DOMAIN-SUFFIX: 31260
 # USER-AGENT: 5
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
 # IP-CIDR: 91
 # IP-CIDR6: 3
-# TOTAL: 31401
+# TOTAL: 31405
 api-p.videomarket.jp
 api.waqi.info
 aqi.aqicn.org
@@ -3633,6 +3633,7 @@ widgets.stripst.com
 .apple-hk.com
 .apple-imac.com
 .apple-inc.net
+.apple-mapkit.com
 .apple-online.com
 .apple-pay.com
 .apple-pay.rs
@@ -3642,6 +3643,8 @@ widgets.stripst.com
 .apple-usa.net
 .apple.be
 .apple.ch
+.apple.co
+.apple.com
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -14029,6 +14032,7 @@ widgets.stripst.com
 .ituneas.com
 .itunes-radio.net
 .itunes.co
+.itunes.com
 .itunes.org
 .itunes.rio
 .itunes12days.com
