@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-08 02:12:01
-# DOMAIN-SUFFIX: 32656
+# UPDATED: 2022-02-09 02:10:55
+# DOMAIN-SUFFIX: 32663
 # DOMAIN: 26
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1194
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34034
+# TOTAL: 34041
 payload:
   - 'api-p014.ribob01.net'
   - 'api.okzy.tv'
@@ -7523,6 +7523,7 @@ payload:
   - '+.climatedatalibrary.cl'
   - '+.climb.ro'
   - '+.clinica-tibet.ru'
+  - '+.clinicalkey.com'
   - '+.cliowelt.de'
   - '+.clipconverter.cc'
   - '+.clipfish.de'
@@ -11682,6 +11683,7 @@ payload:
   - '+.funball78.com'
   - '+.fundaiphone5s.com'
   - '+.fundfire.com'
+  - '+.fundinginstitutional.com'
   - '+.funf.tw'
   - '+.funimation.com'
   - '+.funkyimg.com'
@@ -17171,6 +17173,7 @@ payload:
   - '+.men9.net'
   - '+.menatplay.com'
   - '+.menck.com'
+  - '+.mendeley.com'
   - '+.menicon.com'
   - '+.menonedge.com'
   - '+.menoopiu.it'
@@ -18392,6 +18395,7 @@ payload:
   - '+.nationsonline.org'
   - '+.nationwide.com'
   - '+.naturalvoices.com'
+  - '+.naturemag.org'
   - '+.naughtyamerica.com'
   - '+.naughtyblog.org'
   - '+.naughtymag.com'
@@ -21305,6 +21309,7 @@ payload:
   - '+.realvision.com'
   - '+.reason.com'
   - '+.reastatic.net'
+  - '+.reaxys.com'
   - '+.rebates.jp'
   - '+.rebatesrule.net'
   - '+.reborn.fi'
@@ -21957,6 +21962,7 @@ payload:
   - '+.schonenaci.sk'
   - '+.schooltunnel.net'
   - '+.sci.hubg.org'
+  - '+.science.com'
   - '+.science.org'
   - '+.sciencedaily.com'
   - '+.sciencedirectassets.com'
@@ -21970,6 +21976,7 @@ payload:
   - '+.scientology.tv'
   - '+.scieron.com'
   - '+.scitation.org'
+  - '+.scival.com'
   - '+.scmp.com'
   - '+.scmp.hk'
   - '+.scmp.tv'

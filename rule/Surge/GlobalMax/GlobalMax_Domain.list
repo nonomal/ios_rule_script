@@ -1,9 +1,9 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-08 02:11:56
+# UPDATED: 2022-02-09 02:10:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 32656
+# DOMAIN-SUFFIX: 32663
 # USER-AGENT: 73
 # DOMAIN: 26
 # DOMAIN-KEYWORD: 71
@@ -11,7 +11,7 @@
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # URL-REGEX: 9
-# TOTAL: 34116
+# TOTAL: 34123
 api-p014.ribob01.net
 api.okzy.tv
 api.waqi.info
@@ -7525,6 +7525,7 @@ zeke.scea.com
 .climatedatalibrary.cl
 .climb.ro
 .clinica-tibet.ru
+.clinicalkey.com
 .cliowelt.de
 .clipconverter.cc
 .clipfish.de
@@ -11684,6 +11685,7 @@ zeke.scea.com
 .funball78.com
 .fundaiphone5s.com
 .fundfire.com
+.fundinginstitutional.com
 .funf.tw
 .funimation.com
 .funkyimg.com
@@ -17173,6 +17175,7 @@ zeke.scea.com
 .men9.net
 .menatplay.com
 .menck.com
+.mendeley.com
 .menicon.com
 .menonedge.com
 .menoopiu.it
@@ -18394,6 +18397,7 @@ zeke.scea.com
 .nationsonline.org
 .nationwide.com
 .naturalvoices.com
+.naturemag.org
 .naughtyamerica.com
 .naughtyblog.org
 .naughtymag.com
@@ -21307,6 +21311,7 @@ zeke.scea.com
 .realvision.com
 .reason.com
 .reastatic.net
+.reaxys.com
 .rebates.jp
 .rebatesrule.net
 .reborn.fi
@@ -21959,6 +21964,7 @@ zeke.scea.com
 .schonenaci.sk
 .schooltunnel.net
 .sci.hubg.org
+.science.com
 .science.org
 .sciencedaily.com
 .sciencedirectassets.com
@@ -21972,6 +21978,7 @@ zeke.scea.com
 .scientology.tv
 .scieron.com
 .scitation.org
+.scival.com
 .scmp.com
 .scmp.hk
 .scmp.tv

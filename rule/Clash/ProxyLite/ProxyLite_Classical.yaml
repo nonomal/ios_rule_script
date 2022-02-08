@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-08 02:12:01
-# DOMAIN-SUFFIX: 31260
+# UPDATED: 2022-02-09 02:10:54
+# DOMAIN-SUFFIX: 31271
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
 # IP-CIDR: 91
 # IP-CIDR6: 3
-# TOTAL: 31400
+# TOTAL: 31411
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,api.waqi.info
@@ -4892,6 +4892,7 @@ payload:
   - DOMAIN-SUFFIX,benchprep.org
   - DOMAIN-SUFFIX,benchworkforce.com.au
   - DOMAIN-SUFFIX,benditabreja.com.br
+  - DOMAIN-SUFFIX,benghuai.com
   - DOMAIN-SUFFIX,benjibot.xyz
   - DOMAIN-SUFFIX,benliton.com
   - DOMAIN-SUFFIX,bennyp.net
@@ -5002,6 +5003,7 @@ payload:
   - DOMAIN-SUFFIX,bgproxy.org
   - DOMAIN-SUFFIX,bgsystem.1680210.com
   - DOMAIN-SUFFIX,bgvpn.com
+  - DOMAIN-SUFFIX,bh3.com
   - DOMAIN-SUFFIX,bhaktivedantacollege.com
   - DOMAIN-SUFFIX,bhkta.org
   - DOMAIN-SUFFIX,bhpho.to
@@ -7164,6 +7166,7 @@ payload:
   - DOMAIN-SUFFIX,climatedatalibrary.cl
   - DOMAIN-SUFFIX,climb.ro
   - DOMAIN-SUFFIX,clinica-tibet.ru
+  - DOMAIN-SUFFIX,clinicalkey.com
   - DOMAIN-SUFFIX,cliowelt.de
   - DOMAIN-SUFFIX,clipconverter.cc
   - DOMAIN-SUFFIX,clipfish.de
@@ -10582,7 +10585,6 @@ payload:
   - DOMAIN-SUFFIX,forumosa.com
   - DOMAIN-SUFFIX,forums-free.com
   - DOMAIN-SUFFIX,forums.catholic.com
-  - DOMAIN-SUFFIX,forums.mihoyo.com
   - DOMAIN-SUFFIX,forums.tripwireinteractive.com
   - DOMAIN-SUFFIX,forusex.com
   - DOMAIN-SUFFIX,forwarddemocracy.com
@@ -11126,6 +11128,7 @@ payload:
   - DOMAIN-SUFFIX,funball78.com
   - DOMAIN-SUFFIX,fundaiphone5s.com
   - DOMAIN-SUFFIX,fundfire.com
+  - DOMAIN-SUFFIX,fundinginstitutional.com
   - DOMAIN-SUFFIX,funf.tw
   - DOMAIN-SUFFIX,funimation.com
   - DOMAIN-SUFFIX,funkyimg.com
@@ -16397,6 +16400,7 @@ payload:
   - DOMAIN-SUFFIX,men9.net
   - DOMAIN-SUFFIX,menatplay.com
   - DOMAIN-SUFFIX,menck.com
+  - DOMAIN-SUFFIX,mendeley.com
   - DOMAIN-SUFFIX,menicon.com
   - DOMAIN-SUFFIX,menonedge.com
   - DOMAIN-SUFFIX,menoopiu.it
@@ -16518,7 +16522,9 @@ payload:
   - DOMAIN-SUFFIX,midentsolutions.com
   - DOMAIN-SUFFIX,midnightfever.com
   - DOMAIN-SUFFIX,miguelsuarez.cl
+  - DOMAIN-SUFFIX,mihayou.com
   - DOMAIN-SUFFIX,mihk.hk
+  - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,mihr.com
   - DOMAIN-SUFFIX,mihua.org
   - DOMAIN-SUFFIX,miijqghk1.dtd999.com
@@ -17487,6 +17493,7 @@ payload:
   - DOMAIN-SUFFIX,nationsonline.org
   - DOMAIN-SUFFIX,nationwide.com
   - DOMAIN-SUFFIX,naturalvoices.com
+  - DOMAIN-SUFFIX,naturemag.org
   - DOMAIN-SUFFIX,naughtyamerica.com
   - DOMAIN-SUFFIX,naughtyblog.org
   - DOMAIN-SUFFIX,naughtymag.com
@@ -20280,6 +20287,7 @@ payload:
   - DOMAIN-SUFFIX,realvision.com
   - DOMAIN-SUFFIX,reason.com
   - DOMAIN-SUFFIX,reastatic.net
+  - DOMAIN-SUFFIX,reaxys.com
   - DOMAIN-SUFFIX,rebatesrule.net
   - DOMAIN-SUFFIX,reborn.fi
   - DOMAIN-SUFFIX,reboyc.com
@@ -20908,6 +20916,7 @@ payload:
   - DOMAIN-SUFFIX,schonenaci.sk
   - DOMAIN-SUFFIX,schooltunnel.net
   - DOMAIN-SUFFIX,sci.hubg.org
+  - DOMAIN-SUFFIX,science.com
   - DOMAIN-SUFFIX,science.org
   - DOMAIN-SUFFIX,sciencedaily.com
   - DOMAIN-SUFFIX,sciencedirectassets.com
@@ -20921,6 +20930,7 @@ payload:
   - DOMAIN-SUFFIX,scientology.tv
   - DOMAIN-SUFFIX,scieron.com
   - DOMAIN-SUFFIX,scitation.org
+  - DOMAIN-SUFFIX,scival.com
   - DOMAIN-SUFFIX,scmc-db.weebly.com
   - DOMAIN-SUFFIX,scmp.com
   - DOMAIN-SUFFIX,scmp.hk
@@ -30921,6 +30931,7 @@ payload:
   - DOMAIN-SUFFIX,ytvpn.com
   - DOMAIN-SUFFIX,yu33.net
   - DOMAIN-SUFFIX,yuan.idv.tw
+  - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,yuanzhengtang.org
   - DOMAIN-SUFFIX,yuanzone.no-ip.net
   - DOMAIN-SUFFIX,yubew.com

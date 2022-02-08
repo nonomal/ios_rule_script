@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-08 02:11:57
-# HOST-SUFFIX: 32656
+# UPDATED: 2022-02-09 02:10:51
+# HOST-SUFFIX: 32663
 # USER-AGENT: 73
 # HOST: 26
 # HOST-KEYWORD: 71
 # IP-CIDR: 1194
 # IP6-CIDR: 31
-# TOTAL: 34051
+# TOTAL: 34058
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
 HOST,api.waqi.info,GlobalMax
@@ -7522,6 +7522,7 @@ HOST-SUFFIX,client.meethue.com,GlobalMax
 HOST-SUFFIX,climatedatalibrary.cl,GlobalMax
 HOST-SUFFIX,climb.ro,GlobalMax
 HOST-SUFFIX,clinica-tibet.ru,GlobalMax
+HOST-SUFFIX,clinicalkey.com,GlobalMax
 HOST-SUFFIX,cliowelt.de,GlobalMax
 HOST-SUFFIX,clipconverter.cc,GlobalMax
 HOST-SUFFIX,clipfish.de,GlobalMax
@@ -11681,6 +11682,7 @@ HOST-SUFFIX,fun88asia1.com,GlobalMax
 HOST-SUFFIX,funball78.com,GlobalMax
 HOST-SUFFIX,fundaiphone5s.com,GlobalMax
 HOST-SUFFIX,fundfire.com,GlobalMax
+HOST-SUFFIX,fundinginstitutional.com,GlobalMax
 HOST-SUFFIX,funf.tw,GlobalMax
 HOST-SUFFIX,funimation.com,GlobalMax
 HOST-SUFFIX,funkyimg.com,GlobalMax
@@ -17170,6 +17172,7 @@ HOST-SUFFIX,men.com,GlobalMax
 HOST-SUFFIX,men9.net,GlobalMax
 HOST-SUFFIX,menatplay.com,GlobalMax
 HOST-SUFFIX,menck.com,GlobalMax
+HOST-SUFFIX,mendeley.com,GlobalMax
 HOST-SUFFIX,menicon.com,GlobalMax
 HOST-SUFFIX,menonedge.com,GlobalMax
 HOST-SUFFIX,menoopiu.it,GlobalMax
@@ -18391,6 +18394,7 @@ HOST-SUFFIX,nationbuilder.com,GlobalMax
 HOST-SUFFIX,nationsonline.org,GlobalMax
 HOST-SUFFIX,nationwide.com,GlobalMax
 HOST-SUFFIX,naturalvoices.com,GlobalMax
+HOST-SUFFIX,naturemag.org,GlobalMax
 HOST-SUFFIX,naughtyamerica.com,GlobalMax
 HOST-SUFFIX,naughtyblog.org,GlobalMax
 HOST-SUFFIX,naughtymag.com,GlobalMax
@@ -21304,6 +21308,7 @@ HOST-SUFFIX,realtor.com,GlobalMax
 HOST-SUFFIX,realvision.com,GlobalMax
 HOST-SUFFIX,reason.com,GlobalMax
 HOST-SUFFIX,reastatic.net,GlobalMax
+HOST-SUFFIX,reaxys.com,GlobalMax
 HOST-SUFFIX,rebates.jp,GlobalMax
 HOST-SUFFIX,rebatesrule.net,GlobalMax
 HOST-SUFFIX,reborn.fi,GlobalMax
@@ -21956,6 +21961,7 @@ HOST-SUFFIX,scholarsglobe.com,GlobalMax
 HOST-SUFFIX,schonenaci.sk,GlobalMax
 HOST-SUFFIX,schooltunnel.net,GlobalMax
 HOST-SUFFIX,sci.hubg.org,GlobalMax
+HOST-SUFFIX,science.com,GlobalMax
 HOST-SUFFIX,science.org,GlobalMax
 HOST-SUFFIX,sciencedaily.com,GlobalMax
 HOST-SUFFIX,sciencedirectassets.com,GlobalMax
@@ -21969,6 +21975,7 @@ HOST-SUFFIX,scientology.org.tw,GlobalMax
 HOST-SUFFIX,scientology.tv,GlobalMax
 HOST-SUFFIX,scieron.com,GlobalMax
 HOST-SUFFIX,scitation.org,GlobalMax
+HOST-SUFFIX,scival.com,GlobalMax
 HOST-SUFFIX,scmp.com,GlobalMax
 HOST-SUFFIX,scmp.hk,GlobalMax
 HOST-SUFFIX,scmp.tv,GlobalMax
