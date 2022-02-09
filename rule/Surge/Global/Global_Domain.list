@@ -1,21 +1,18 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-06 02:10:13
-# DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 24463
+# UPDATED: 2022-02-10 02:11:45
+# DOMAIN-SUFFIX: 24512
 # USER-AGENT: 44
 # DOMAIN: 28
-# DOMAIN-KEYWORD: 44
-# IP-CIDR: 133
+# DOMAIN-KEYWORD: 45
+# IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# URL-REGEX: 1
-# TOTAL: 24718
+# TOTAL: 24744
 amp-api.podcasts.apple.com
 api.waqi.info
 apple.comscoreresearch.com
-appleid.apple.com
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
 beta.music.apple.com
@@ -23,10 +20,12 @@ books.apple.com
 cdn.apple-cloudkit.com
 cf-images.ap-southeast-1.prod.boltdns.net
 clubhouse.pubnubapi.com
+cvws.icloud-content.com
 developer.apple.com
 devimages-cdn.apple.com
 devstreaming-cdn.apple.com
 edge.api.brightcove.com
+gateway.icloud.com
 hamifans.emome.net
 js-cdn.music.apple.com
 kktv-theater.kk.stream
@@ -36,7 +35,6 @@ news-client-search.apple.com
 news-client.apple.com
 news-edge.apple.com
 news-events.apple.com
-ocsp.apple.com
 players.brightcove.net
 testflight.apple.com
 tv.apple.com
@@ -683,6 +681,7 @@ tv.apple.com
 .2015didi.com
 .201688894.com
 .2017.hk
+.20171127.weebly.com
 .20188a.com
 .20188b.com
 .20188c.com
@@ -700,6 +699,7 @@ tv.apple.com
 .203186077128.static.ctinets.com
 .2047.name
 .2049bbs.xyz
+.2050lyo.weebly.com
 .20539546.com
 .205987.com
 .2085179.com
@@ -1381,6 +1381,7 @@ tv.apple.com
 .523838.com
 .5246427.com
 .525019.cc
+.525148908332748171.weebly.com
 .52668.com
 .52682.com
 .5269535.com
@@ -2460,6 +2461,7 @@ tv.apple.com
 .99btgc01.com
 .99c3.cc
 .99cn.info
+.99taiwan168.weebly.com
 .99xin6.com
 .9aaa2.com
 .9aaa7.com
@@ -3154,6 +3156,7 @@ tv.apple.com
 .anticcp.net
 .antichristendom.com
 .antiek.com
+.antigfw.weebly.com
 .antiq.com
 .antiwave.net
 .antoinette.cl
@@ -3405,6 +3408,7 @@ tv.apple.com
 .assimp.org
 .assisass.com
 .assitport.co.za
+.asso-zerodistance.weebly.com
 .assortednotions.com
 .asstr.org
 .assult.com
@@ -3861,6 +3865,7 @@ tv.apple.com
 .bdsmtv.co
 .bdsmtv.me
 .bdsmvideos.net
+.bdxxgroup.weebly.com
 .bdy365.com
 .be4.herokuapp.com
 .beaconevents.com
@@ -4025,6 +4030,7 @@ tv.apple.com
 .bijakids.com
 .bild.de
 .bilet.intercity.pl
+.bilibiliba.weebly.com
 .biliworld.com
 .bill2-software.com
 .billerickson.net
@@ -4211,6 +4217,7 @@ tv.apple.com
 .blog.usejournal.com
 .blog.vipin.us
 .blog.wan-ifra.org
+.blog.weebly.com
 .blog.x188.cn
 .blog.xlfmguanyin.com
 .blog.yandere.moe
@@ -4384,6 +4391,7 @@ tv.apple.com
 .boomssr.com
 .boomtrain.com
 .boostmobile.com
+.borderexperience.weebly.com
 .borderlandindustry.ml
 .borderlands-books.com
 .borgenmagazine.com
@@ -4655,7 +4663,6 @@ tv.apple.com
 .buyu9911.com
 .buyu9955.com
 .buzzav.com
-.buzzfeed.com
 .buzzhand.com
 .buzzhand.net
 .buzzorange.com
@@ -5010,6 +5017,7 @@ tv.apple.com
 .cccat.cc
 .cccat.co
 .cccat.io
+.ccchinatour2017.weebly.com
 .cccp004.com
 .cccruises.com
 .ccdtr.org
@@ -5151,6 +5159,7 @@ tv.apple.com
 .charitygames.net
 .charlesworth.nom.za
 .charliehebdo.fr
+.charliewebpage.weebly.com
 .charter.com
 .charter08.com
 .chase.com
@@ -5192,6 +5201,7 @@ tv.apple.com
 .chhy01.com
 .chi.xtvcname.com
 .chicagoncmtv.com
+.chichiao.weebly.com
 .chickenbarrel.org
 .chickenkiller.com
 .chiemtinhviet.com
@@ -5466,7 +5476,6 @@ tv.apple.com
 .cloud.ntpc.gov.tw
 .cloud8521.tk
 .cloudcone.com
-.cloudcone.com.cn
 .cloudfare.com
 .cloudfire.com
 .cloudflare-dns.com
@@ -5556,7 +5565,6 @@ tv.apple.com
 .cn.mebtx7.com
 .cn.nowvue.live
 .cn.tdna.me
-.cn.theaustralian.com.au
 .cn.timesofisrael.com
 .cn.venetianmacau.com
 .cn1069.org
@@ -5596,6 +5604,7 @@ tv.apple.com
 .cobinhood.com
 .cochina.co
 .cochina.org
+.coco-master.weebly.com
 .cocoa.zonble.net
 .cocoapods.org
 .cocp.trade.gov.tw
@@ -5985,7 +5994,6 @@ tv.apple.com
 .cyberguerrilla.org
 .cybersyndrome.net
 .cybertv.tv
-.cyclingnews.com
 .cydia.ifuckgfw.com
 .cygames.jp
 .cyit.xyz
@@ -6324,6 +6332,7 @@ tv.apple.com
 .democrats.org
 .demonoid.pw
 .demosisto.hk
+.denceportfolio.weebly.com
 .dengeki.com
 .dengfeng666.com
 .denizgunes.net
@@ -6356,6 +6365,8 @@ tv.apple.com
 .devpn.com
 .dewarp.me
 .dexknows.com
+.df2global.weebly.com
+.df2world.weebly.com
 .df369369.com
 .df888788.com
 .df8aa.com
@@ -6741,7 +6752,6 @@ tv.apple.com
 .duanzhihu.com
 .dubandko.com
 .dubox.com
-.duboxcdn.com
 .duc-tran.com
 .duck.com
 .duckdns.org
@@ -6887,6 +6897,7 @@ tv.apple.com
 .easybib.com
 .easyca.ca
 .easycanada.net
+.easychinese.weebly.com
 .easygals.com
 .easygoingppp.com
 .easyjet.com
@@ -7029,6 +7040,7 @@ tv.apple.com
 .ellawine.org
 .ellery.tw
 .elmundo.es
+.elmurtw.weebly.com
 .elnorte.com
 .elnuevoherald.com
 .elpais.com
@@ -7466,6 +7478,7 @@ tv.apple.com
 .fanqiang.tk
 .fanqiangcn.net
 .fanqiangdang.com
+.fanqianggfw.weebly.com
 .fanqianghou.com
 .fanqiangyakexi.net
 .fanqiangzhe.com
@@ -7502,6 +7515,7 @@ tv.apple.com
 .fastusaproxy.com
 .fastxzp.com
 .fatbtc.com
+.fate2013.weebly.com
 .fatew.com
 .favotter.net
 .favstar.fm
@@ -7777,7 +7791,6 @@ tv.apple.com
 .formatovariable.cl
 .formhemmet.se
 .forratti.com.br
-.fortawesome.com
 .fortressco.com
 .fortune-solution.com
 .fortuneinsight.com
@@ -7896,6 +7909,7 @@ tv.apple.com
 .freefuckvids.com
 .freegao.com
 .freegroup.org
+.freeguide4u.weebly.com
 .freehaven.net
 .freehentaimanga.net
 .freehongkong.org
@@ -8276,6 +8290,7 @@ tv.apple.com
 .garageperucchi.ch
 .gardennetworks.com
 .gardennetworks.org
+.gardenofyouth.weebly.com
 .garena.com
 .garizo.com
 .garoblogz.com
@@ -8554,6 +8569,7 @@ tv.apple.com
 .git3.wft44maqbweb.xyz
 .gitbook.com
 .gitbooks.io
+.githack.com
 .gitlab.com
 .gitlab.io
 .giveawaylist.com
@@ -9026,6 +9042,7 @@ tv.apple.com
 .hanminzu.org
 .hanunyi.com
 .hanwitprecision.com
+.hanyelove.weebly.com
 .hao.news
 .hao8tv.com
 .haodiao.org
@@ -9035,6 +9052,7 @@ tv.apple.com
 .happy-science.jp
 .happy-vpn.com
 .happyon.jp
+.happyproblog.weebly.com
 .happysocks.com
 .haproxy.org
 .haptic.al
@@ -9756,6 +9774,7 @@ tv.apple.com
 .iav19.com
 .iav99.com
 .iavnight.com
+.ib.metapix.net
 .ib6662.com
 .ibc6.com
 .ibcp07.com
@@ -10084,6 +10103,7 @@ tv.apple.com
 .intralot.it
 .inversionesmatulic.cl
 .investing.com
+.investusa-eb5.weebly.com
 .invidio.us
 .invidious.fdn.fr
 .invidious.snopyta.org
@@ -10345,6 +10365,7 @@ tv.apple.com
 .jacobi.com.ar
 .jadebuddha.org
 .jadeguedes.com
+.jaedo415.weebly.com
 .jafa888.com
 .jagex.com
 .jahangiri.us
@@ -10367,6 +10388,7 @@ tv.apple.com
 .jansolo.com
 .janwongphoto.com
 .japan-whores.com
+.japancoconut.weebly.com
 .japancupid.com
 .japanese.xxx
 .japanesepod101.com
@@ -10980,6 +11002,7 @@ tv.apple.com
 .kreyness.com
 .kripaludrummers.com
 .krishab786.com
+.krishnaflashmobs.weebly.com
 .krsnavision.com
 .krtco.com.tw
 .kryoniikka.fi
@@ -11258,6 +11281,7 @@ tv.apple.com
 .legendvps.net
 .leggycash.com
 .leglegs.com
+.legra.ph
 .legsjapan.com
 .lehaofa.com
 .leirentv.ca
@@ -11554,7 +11578,6 @@ tv.apple.com
 .lodzpost.com
 .logbot.net
 .logicalmedia.com
-.logimg.jp
 .login.qltx1.com
 .loginza.ru
 .logiqx.com
@@ -11871,6 +11894,8 @@ tv.apple.com
 .magazine.godsdirectcontact.net
 .maggiebears.com
 .magic-net.info
+.magic346cn.weebly.com
+.magicalaska-form.weebly.com
 .magiccloak.net
 .magiccloud.i234.me
 .magictea.xyz
@@ -11961,7 +11986,6 @@ tv.apple.com
 .mangafox.com
 .mangafox.me
 .mangago.me
-.mangakakalot.com
 .mangareader.com
 .mangashot.com
 .mangaup.jp
@@ -12072,6 +12096,7 @@ tv.apple.com
 .mbtrx.com
 .mbuat.dahsing.com
 .mbxqwe6.com
+.mc-prgs.weebly.com
 .mcadforums.com
 .mcaf.ee
 .mcat58.com
@@ -12189,7 +12214,6 @@ tv.apple.com
 .mercurynews.com
 .mercyprophet.org
 .merelisting.ca
-.mergersandinquisitions.com
 .mergersandinquisitions.org
 .merics.org
 .meridian-trust.org
@@ -12206,7 +12230,6 @@ tv.apple.com
 .met-art.com
 .metacafe.com
 .metafilter.com
-.metapix.net
 .metart.com
 .metart1.com
 .metarthunter.com
@@ -12332,6 +12355,7 @@ tv.apple.com
 .minzhuhua.net
 .minzhuzhanxian.com
 .minzhuzhongguo.org
+.miracleyoga.weebly.com
 .mirai.ca
 .miroguide.com
 .mirrorbooks.com
@@ -12419,6 +12443,7 @@ tv.apple.com
 .mobypicture.com
 .mochimedia.com
 .mocovideo.jp
+.mod-reborn.weebly.com
 .mod.red
 .mod.run
 .modelhub.com
@@ -12759,6 +12784,7 @@ tv.apple.com
 .mynetav.org
 .myntuemba.com
 .mynumber.org
+.myothantsinaung.weebly.com
 .mypaper.sg
 .myparagliding.com
 .mypets.ws
@@ -12914,6 +12940,7 @@ tv.apple.com
 .ncdc.gov.ng
 .nch.com.tw
 .nchrd.org
+.ncku-letsgo.weebly.com
 .ncn.org
 .ncol.com
 .nd.joyphoto.ro
@@ -13111,6 +13138,7 @@ tv.apple.com
 .nianticlabs.com
 .nibor.com.au
 .nic.gov
+.nicchurch.weebly.com
 .nicesextube.com
 .niceyoungteens.com
 .nichegalz.com
@@ -13153,6 +13181,7 @@ tv.apple.com
 .nintendium.com
 .nintendo.com
 .nintendo.net
+.nintendomariogames.weebly.com
 .ninth.biz
 .nipponhd.com
 .nisdtx.org
@@ -13344,7 +13373,6 @@ tv.apple.com
 .nudevista.com
 .nudezz.com
 .nuexpo.com
-.nuget.org
 .nukistream.com
 .numbr.com
 .nuovelle.ee
@@ -13502,6 +13530,7 @@ tv.apple.com
 .oktvusa.com
 .oktw.6te.net
 .okvpn.cn
+.okx.com
 .olabloga.pl
 .olcl.com
 .old-cat.net
@@ -14247,6 +14276,7 @@ tv.apple.com
 .ponz.me
 .poofx.com
 .poojaescorts.in
+.pool.ntp.org
 .poolin.com
 .poow.ga
 .pop.com.br
@@ -14825,8 +14855,6 @@ tv.apple.com
 .rationalwiki.org
 .ratujtybet.org
 .rauchmeldershop.ch
-.raw.githack.com
-.rawcdn.githack.com
 .rawdirect.com
 .rawgit.com
 .rawstory.com
@@ -14868,6 +14896,7 @@ tv.apple.com
 .readmoo.com
 .readmyblog.org
 .readwriteweb.com
+.readyatdawn.com
 .readydown.com
 .readythoughts.com
 .real-brandflow.com
@@ -14897,6 +14926,7 @@ tv.apple.com
 .red-lang.org
 .red5.co.uk
 .redballoonsolidarity.org
+.redbeanphotos.weebly.com
 .redboardcircuits.com
 .redbubble.com
 .redbudford.com
@@ -15027,6 +15057,7 @@ tv.apple.com
 .richardssarah.iforums.us
 .richart.tw
 .richbelson.co.uk
+.richdad-joinus.weebly.com
 .riche88.com
 .riche99.com
 .richkindle.com
@@ -15383,6 +15414,7 @@ tv.apple.com
 .scientology.org.tw
 .scientology.tv
 .scieron.com
+.scmc-db.weebly.com
 .scmp.com
 .scmp.hk
 .scmp.tv
@@ -15681,8 +15713,8 @@ tv.apple.com
 .shiksha.com
 .shile.xyz
 .shiming.t28.net
-.shindanmaker.com
 .shinjiru.com.cn
+.shinning-way.weebly.com
 .shinnoca.byethost7.com
 .shinobi.jp
 .shinychan.com
@@ -15703,7 +15735,6 @@ tv.apple.com
 .shop2000.com.tw
 .shopee.co.id
 .shopee.tw
-.shopeemobile.com
 .shophq.com
 .shopnbc.com
 .shopping.com
@@ -15726,6 +15757,7 @@ tv.apple.com
 .shwchurch.org
 .shwchurch3.com
 .si.shop.tm
+.siblount.weebly.com
 .sibmarino.com.br
 .sibnet.ru
 .sibylcloud.com
@@ -15920,6 +15952,7 @@ tv.apple.com
 .sn88cn.com
 .snabbo.co.uk
 .snai.it
+.snakemonkey.weebly.com
 .snapchat.com
 .snaptu.com
 .sndcdn.com
@@ -16237,6 +16270,7 @@ tv.apple.com
 .starlink.one
 .starnerd.com
 .starp2p.com
+.starthereright.weebly.com
 .startingpage.com
 .startpage.com
 .startuplivingchina.com
@@ -16815,6 +16849,7 @@ tv.apple.com
 .test.hao999.ml
 .test.nadeo.com
 .testapi.xinbet.net
+.testmakeer.weebly.com
 .tew.org
 .texasartsacademics.org
 .texasboyschoir.org
@@ -16849,6 +16884,7 @@ tv.apple.com
 .theatlantic.com
 .theatlanticcities.com
 .theatrum-belli.com
+.theaustralian.com.au
 .thebcomplex.com
 .thebestvpn.com
 .thebl.com
@@ -16856,6 +16892,7 @@ tv.apple.com
 .theblemish.com
 .thebobs.com
 .thebodyshop-usa.com
+.thecaliforniagoldrushyay.weebly.com
 .thechildacademy.lin14.siteonlinetest.com
 .thechinabeat.org
 .thechinacollection.org
@@ -17368,6 +17405,7 @@ tv.apple.com
 .traeumtgerade.de
 .traffichaus.com
 .trakt.tv
+.transferstudentcn.weebly.com
 .translate.goog
 .transmissionzero.co.uk
 .transparency.org
@@ -17380,6 +17418,7 @@ tv.apple.com
 .tre.9aex1.com
 .tre.9bah1.com
 .tre.9bar1.com
+.treadgfw.weebly.com
 .treasureislandgame.1731788.com
 .treasureweb.net
 .treasurysource.bokf.com
@@ -18196,6 +18235,7 @@ tv.apple.com
 .velkaepocha.sk
 .venbbs.com
 .venchina.com
+.vending24.weebly.com
 .venetianmacao.com
 .venturebeat.com
 .ventureswell.com
@@ -18720,6 +18760,7 @@ tv.apple.com
 .watchout.tw
 .watchtowerdocuments.com
 .water.kinmen.gov.tw
+.watermanfilms.weebly.com
 .watter.cc
 .wattpad.com
 .watv.org
@@ -18777,6 +18818,7 @@ tv.apple.com
 .webapptv.com
 .webbang.net
 .webbrain.com
+.webcallme.weebly.com
 .webcarstory.com
 .webcitation.org
 .webdisk.andong.org.tw
@@ -18837,8 +18879,8 @@ tv.apple.com
 .webzen.com
 .wechat.kanfb.com
 .wechatlawsuit.com
+.wedding1314.weebly.com
 .weddingchannel.com
-.weebly.com
 .weekly.com
 .weeklystandard.com
 .weekmag.info
@@ -18998,6 +19040,7 @@ tv.apple.com
 .win77.vip
 .winandmac.com
 .windowsphoneme.com
+.windowsxpsucks.weebly.com
 .windscribe.com
 .windscribe.net
 .windy.com
@@ -21852,6 +21895,7 @@ tv.apple.com
 .www.menglolita.com
 .www.mensgame.cn
 .www.meomiao.xyz
+.www.mergersandinquisitions.com
 .www.merics.de
 .www.merxsmart.com
 .www.mes.org
@@ -22541,6 +22585,7 @@ tv.apple.com
 .www.shibo8888.com
 .www.shidaixianfeng.tk
 .www.shikoto.com
+.www.shinechai.weebly.com
 .www.shireyishunjian.club
 .www.shireyishunjian.net
 .www.shireyishunjian.org
@@ -24027,6 +24072,7 @@ tv.apple.com
 .yhcw.net
 .yhguoji2019.com
 .yhguoji99.com
+.yhwh-peoples.weebly.com
 .yi822.com
 .yi8333.com
 .yi855.com
@@ -24300,6 +24346,7 @@ tv.apple.com
 .zeobit.com
 .zerohedge.com
 .zeronet.io
+.zeronettv.weebly.com
 .zerossl.com
 .zerozero.pt
 .zeta.zentek.net

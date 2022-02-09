@@ -1,12 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:27
+# UPDATED: 2022-02-10 02:11:45
 # HOST-SUFFIX: 5
 # HOST-KEYWORD: 1
-# HOST: 16
+# HOST: 15
 # USER-AGENT: 4
-# TOTAL: 26
+# TOTAL: 25
 HOST,ad.10010.com,Direct
 HOST,analytics.95516.com,Direct
 HOST,analytics.strava.com,Direct
@@ -19,7 +19,6 @@ HOST,msg.umeng.com,Direct
 HOST,msg.umengcloud.com,Direct
 HOST,origin-a.akamaihd.net,Direct
 HOST,picanalysis.vivo.com.cn,Direct
-HOST,pubads.g.doubleclick.net,Direct
 HOST,sycm.mmstat.com,Direct
 HOST,tracking.miui.com,Direct
 HOST,xivanalysis.com,Direct

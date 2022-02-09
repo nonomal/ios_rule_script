@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-09 02:10:54
-# DOMAIN-SUFFIX: 68277
+# UPDATED: 2022-02-10 02:11:49
+# DOMAIN-SUFFIX: 68276
 # DOMAIN: 78
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68375
+# TOTAL: 68374
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -4202,6 +4202,7 @@ payload:
   - DOMAIN-SUFFIX,51callcenter.com
   - DOMAIN-SUFFIX,51callu.net
   - DOMAIN-SUFFIX,51camel.com
+  - DOMAIN-SUFFIX,51ccd.com
   - DOMAIN-SUFFIX,51ccdn.com
   - DOMAIN-SUFFIX,51cdcs.com
   - DOMAIN-SUFFIX,51cdn.com
@@ -11891,6 +11892,7 @@ payload:
   - DOMAIN-SUFFIX,bjicjm.com
   - DOMAIN-SUFFIX,bjidc.net
   - DOMAIN-SUFFIX,bjidit.com
+  - DOMAIN-SUFFIX,bjinfobank.com
   - DOMAIN-SUFFIX,bjinternet.com
   - DOMAIN-SUFFIX,bjipwqzx.com
   - DOMAIN-SUFFIX,bjiwex.com
@@ -16242,6 +16244,7 @@ payload:
   - DOMAIN-SUFFIX,cmpay.com
   - DOMAIN-SUFFIX,cmread.com
   - DOMAIN-SUFFIX,cmri.cc
+  - DOMAIN-SUFFIX,cms.ibm.com
   - DOMAIN-SUFFIX,cms1924.org
   - DOMAIN-SUFFIX,cmsblogs.com
   - DOMAIN-SUFFIX,cmschina.com
@@ -19733,7 +19736,6 @@ payload:
   - DOMAIN-SUFFIX,djeconomic.com
   - DOMAIN-SUFFIX,djf.com
   - DOMAIN-SUFFIX,djhgyy.com
-  - DOMAIN-SUFFIX,dji.net
   - DOMAIN-SUFFIX,djiavip.com
   - DOMAIN-SUFFIX,djjlseo.com
   - DOMAIN-SUFFIX,djjw.com
@@ -29957,6 +29959,7 @@ payload:
   - DOMAIN-SUFFIX,hwlpz.com
   - DOMAIN-SUFFIX,hwrecruit.com
   - DOMAIN-SUFFIX,hwsem.com
+  - DOMAIN-SUFFIX,hwshu.com
   - DOMAIN-SUFFIX,hwtelcloud.com
   - DOMAIN-SUFFIX,hwtrip.com
   - DOMAIN-SUFFIX,hwtxfilm.com
@@ -30430,7 +30433,6 @@ payload:
   - DOMAIN-SUFFIX,iblue.me
   - DOMAIN-SUFFIX,ibluefrog.com
   - DOMAIN-SUFFIX,ibluesocial.com
-  - DOMAIN-SUFFIX,ibm.com
   - DOMAIN-SUFFIX,ibmwclub.com
   - DOMAIN-SUFFIX,ibook8.com
   - DOMAIN-SUFFIX,ibooker.cc
@@ -30583,8 +30585,6 @@ payload:
   - DOMAIN-SUFFIX,ickimg.com
   - DOMAIN-SUFFIX,iclicash.com
   - DOMAIN-SUFFIX,iclickstatic.com
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloudgslb.com
   - DOMAIN-SUFFIX,icloudnews.net
   - DOMAIN-SUFFIX,iclouds.work
@@ -40918,7 +40918,6 @@ payload:
   - DOMAIN-SUFFIX,mlog.club
   - DOMAIN-SUFFIX,mlogcn.com
   - DOMAIN-SUFFIX,mlrzsj.com
-  - DOMAIN-SUFFIX,mls-cdn.com
   - DOMAIN-SUFFIX,mlsub.net
   - DOMAIN-SUFFIX,mlt01.com
   - DOMAIN-SUFFIX,mlwanwan.com
@@ -43081,7 +43080,6 @@ payload:
   - DOMAIN-SUFFIX,ntjymall.com
   - DOMAIN-SUFFIX,ntneuro.org
   - DOMAIN-SUFFIX,ntp.felixc.at
-  - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,ntpcb.com
   - DOMAIN-SUFFIX,ntqcct.com
   - DOMAIN-SUFFIX,ntrcb.com
@@ -44991,7 +44989,6 @@ payload:
   - DOMAIN-SUFFIX,plcloud.com
   - DOMAIN-SUFFIX,plcsq.com
   - DOMAIN-SUFFIX,pldba.com
-  - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,plexjiasuqi.com
   - DOMAIN-SUFFIX,plob.org
   - DOMAIN-SUFFIX,plotcup.com
@@ -47393,6 +47390,7 @@ payload:
   - DOMAIN-SUFFIX,rdbuy.com
   - DOMAIN-SUFFIX,rddoc.com
   - DOMAIN-SUFFIX,rdezbie.com
+  - DOMAIN-SUFFIX,rdfybk.com
   - DOMAIN-SUFFIX,rdgz.org
   - DOMAIN-SUFFIX,rdidc.com
   - DOMAIN-SUFFIX,rdnsdb.com
@@ -51927,7 +51925,6 @@ payload:
   - DOMAIN-SUFFIX,suapp.me
   - DOMAIN-SUFFIX,subaonet.com
   - DOMAIN-SUFFIX,subaotuan.com
-  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,subingkang.com
   - DOMAIN-SUFFIX,subinwechat.com
   - DOMAIN-SUFFIX,sublimetextcn.com
@@ -59561,10 +59558,12 @@ payload:
   - DOMAIN-SUFFIX,wwjia.com
   - DOMAIN-SUFFIX,wwleww.com
   - DOMAIN-SUFFIX,wwmhdq.com
+  - DOMAIN-SUFFIX,www-05.ibm.com
   - DOMAIN-SUFFIX,www-123490.com
   - DOMAIN-SUFFIX,www-175345.com
   - DOMAIN-SUFFIX,www-4620.com
   - DOMAIN-SUFFIX,www-63608.com
+  - DOMAIN-SUFFIX,www-api.ibm.com
   - DOMAIN-SUFFIX,www.adobe.com
   - DOMAIN-SUFFIX,www.agoda.com
   - DOMAIN-SUFFIX,www.akamai.com

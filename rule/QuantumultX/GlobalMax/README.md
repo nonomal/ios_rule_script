@@ -21,17 +21,17 @@
 
 ## 规则统计
 
-总计规则：34058 条。
+总计规则：34123 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 32663 |
+| HOST-SUFFIX | 32739 |
 | USER-AGENT | 73 |
-| HOST | 26 |
-| HOST-KEYWORD | 71 |
-| IP-CIDR | 1194 |
+| HOST | 28 |
+| HOST-KEYWORD | 72 |
+| IP-CIDR | 1180 |
 | IP6-CIDR | 31 |
 ## 配置说明
 

@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-09 02:10:52
+# UPDATED: 2022-02-10 02:11:47
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 71655
+# DOMAIN-SUFFIX: 71654
 # DOMAIN: 53
 # IP-CIDR: 6177
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5546
-# TOTAL: 83507
+# TOTAL: 83506
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -4303,6 +4303,7 @@ www4-static.gog-statics.com
 .51callcenter.com
 .51callu.net
 .51camel.com
+.51ccd.com
 .51ccdn.com
 .51cdcs.com
 .51cdn.com
@@ -12199,6 +12200,7 @@ www4-static.gog-statics.com
 .bjicjm.com
 .bjidc.net
 .bjidit.com
+.bjinfobank.com
 .bjinternet.com
 .bjipwqzx.com
 .bjiwex.com
@@ -16838,6 +16840,7 @@ www4-static.gog-statics.com
 .cmpay.com
 .cmread.com
 .cmri.cc
+.cms.ibm.com
 .cms1924.org
 .cmsblogs.com
 .cmschina.com
@@ -20482,7 +20485,6 @@ www4-static.gog-statics.com
 .djeconomic.com
 .djf.com
 .djhgyy.com
-.dji.net
 .djiavip.com
 .djjlseo.com
 .djjw.com
@@ -31431,6 +31433,7 @@ www4-static.gog-statics.com
 .hwpan.com
 .hwrecruit.com
 .hwsem.com
+.hwshu.com
 .hwtelcloud.com
 .hwtrip.com
 .hwtxfilm.com
@@ -31914,7 +31917,6 @@ www4-static.gog-statics.com
 .iblue.me
 .ibluefrog.com
 .ibluesocial.com
-.ibm.com
 .ibmcampus.com
 .ibmwclub.com
 .ibook8.com
@@ -32082,8 +32084,6 @@ www4-static.gog-statics.com
 .ickimg.com
 .iclicash.com
 .iclickstatic.com
-.icloud-content.com
-.icloud.com
 .icloudgslb.com
 .icloudnews.net
 .iclouds.work
@@ -42891,7 +42891,6 @@ www4-static.gog-statics.com
 .mlog.club
 .mlogcn.com
 .mlrzsj.com
-.mls-cdn.com
 .mlsub.net
 .mlt.pub
 .mlwanwan.com
@@ -45155,7 +45154,6 @@ www4-static.gog-statics.com
 .ntjymall.com
 .ntneuro.org
 .ntp.felixc.at
-.ntp.org
 .ntpcb.com
 .ntqcct.com
 .ntrcb.com
@@ -47180,7 +47178,6 @@ www4-static.gog-statics.com
 .plcloud.com
 .plcsq.com
 .pldba.com
-.plex.tv
 .plexjiasuqi.com
 .plob.org
 .plotcup.com
@@ -49730,6 +49727,7 @@ www4-static.gog-statics.com
 .rdbuy.com
 .rddoc.com
 .rdezbie.com
+.rdfybk.com
 .rdgz.org
 .rdidc.com
 .rdnsdb.com
@@ -54554,7 +54552,6 @@ www4-static.gog-statics.com
 .suapp.me
 .subaonet.com
 .subaotuan.com
-.subhd.tv
 .subingkang.com
 .subinwechat.com
 .sublimetextcn.com
@@ -62572,10 +62569,12 @@ www4-static.gog-statics.com
 .wwjia.com
 .wwleww.com
 .wwmhdq.com
+.www-05.ibm.com
 .www-123490.com
 .www-175345.com
 .www-4620.com
 .www-63608.com
+.www-api.ibm.com
 .www.adobe.com
 .www.agoda.com
 .www.akamai.com
