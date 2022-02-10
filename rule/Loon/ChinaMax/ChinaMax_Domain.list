@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-10 02:11:47
+# UPDATED: 2022-02-11 02:10:20
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 71654
+# DOMAIN-SUFFIX: 71638
 # DOMAIN: 53
-# IP-CIDR: 6177
+# IP-CIDR: 6176
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5546
-# TOTAL: 83506
+# TOTAL: 83489
 265.com
 c.android.clients.google.com
 cache.pack.google.com
@@ -1374,7 +1374,6 @@ www4-static.gog-statics.com
 .13377608388.com
 .133998.com
 .133china.com
-.133jz.com
 .13400.com
 .13482896776.com
 .135-139.com
@@ -2244,7 +2243,6 @@ www4-static.gog-statics.com
 .1ziyou.com
 .1zjob.com
 .1zr.com
-.1zsoft.com
 .1zu.com
 .1zw.com
 .2-class.com
@@ -6083,7 +6081,6 @@ www4-static.gog-statics.com
 .6fanyi.com
 .6fcsj.com
 .6fok.com
-.6fwq.com
 .6g5fd1a.com
 .6gh4.com
 .6ght.com
@@ -6885,7 +6882,6 @@ www4-static.gog-statics.com
 .86qc.com
 .86sb.com
 .86shouji.com
-.86szs.com
 .86tec.com
 .86uuu.com
 .86wan.com
@@ -10754,7 +10750,6 @@ www4-static.gog-statics.com
 .bamaol.cc
 .bamaol.com
 .bamatea.com
-.bamayigou.com
 .bamaying.com
 .bamboo18.com
 .bamenzhushou.com
@@ -13294,6 +13289,7 @@ www4-static.gog-statics.com
 .bytesfield.com
 .bytesmanager.com
 .bytestacks.com
+.bytetcc.com
 .bytetos.com
 .bytexns.com
 .bytexservice.com
@@ -14306,7 +14302,6 @@ www4-static.gog-statics.com
 .cdnok.com
 .cdnpan.com
 .cdnpe.com
-.cdnren.com
 .cdns.cn
 .cdnsvc.com
 .cdntip.com
@@ -18924,7 +18919,6 @@ www4-static.gog-statics.com
 .d1cy.com
 .d1ev.com
 .d1fm.com
-.d1h.net
 .d1lx.com
 .d1net.com
 .d1sm.net
@@ -21082,6 +21076,7 @@ www4-static.gog-statics.com
 .douyinact.net
 .douyincdn.com
 .douyinclips.com
+.douyinec.com
 .douyinmusicclips.com
 .douyinmusicvideo.com
 .douyinpic.com
@@ -24396,7 +24391,6 @@ www4-static.gog-statics.com
 .flintos.com
 .flip.fun
 .fliplus.com
-.flmjx.com
 .flnet.com
 .flnetiot.com
 .flo52.com
@@ -26285,7 +26279,6 @@ www4-static.gog-statics.com
 .ggytc.com
 .ggzgg.com
 .ggzuhao.com
-.gh5e.vip
 .gh6.org
 .gh8s.com
 .ghatg.com
@@ -27124,6 +27117,7 @@ www4-static.gog-statics.com
 .gtadata.com
 .gtan.com
 .gtanhao.com
+.gtarsc.com
 .gtaxqh.com
 .gtcedu.com
 .gtcim.com
@@ -28121,7 +28115,6 @@ www4-static.gog-statics.com
 .haitunzixi.com
 .haituoqi.com
 .haitutech.com
-.haiwailoushi.com
 .haiwaimoney.com
 .haiwaioo.com
 .haiwaituiguang.com
@@ -32450,6 +32443,7 @@ www4-static.gog-statics.com
 .ifmicro.com
 .ifmtech.com
 .ifmx.cc
+.ifonelab.net
 .iforce-media.com
 .iforl.com
 .ifoxfactory.com
@@ -34450,7 +34444,6 @@ www4-static.gog-statics.com
 .jeffjade.com
 .jeffstudio.net
 .jegotrip.com
-.jelivor.com
 .jelleybrown.com
 .jellow.club
 .jellow.site
@@ -34551,7 +34544,6 @@ www4-static.gog-statics.com
 .jhnsyh.com
 .jhonge.net
 .jhonse.com
-.jhpz58.com
 .jhqshfly.com
 .jhrcbank.com
 .jhsbggw.com
@@ -38835,7 +38827,6 @@ www4-static.gog-statics.com
 .lckiss.com
 .lcofjp.com
 .lcouncil.com
-.lcpxxx.net
 .lcrcbank.com
 .lcread.com
 .lcshzgy.com
@@ -44901,7 +44892,6 @@ www4-static.gog-statics.com
 .nmgjzjn.com
 .nmgkjzx.com
 .nmglawyer.com
-.nmgrwjz.com
 .nmgwyw.org
 .nmgyjszx.com
 .nmgyljs.com
@@ -47593,7 +47583,6 @@ www4-static.gog-statics.com
 .pszyzxh.org
 .pt-bus.com
 .pt-link.com
-.pt008.com
 .pt80.com
 .pt80.net
 .ptalking.com
@@ -49515,7 +49504,6 @@ www4-static.gog-statics.com
 .qyule.org
 .qyvqg.com
 .qywl777.com
-.qywqc.com
 .qyxxpd.com
 .qyyqyj.com
 .qyzc.net
@@ -51423,7 +51411,6 @@ www4-static.gog-statics.com
 .seebug.org
 .seebyleegee.com
 .seecmedia.net
-.seecsee.com
 .seed-china.com
 .seedasdan.org
 .seeddsp.com
@@ -51474,7 +51461,6 @@ www4-static.gog-statics.com
 .seisman.info
 .sejai.com
 .sejie16.xyz
-.sejie9.xyz
 .sekede.net
 .sekorm.com
 .selboo.com
@@ -54738,7 +54724,6 @@ www4-static.gog-statics.com
 .sunmnet.com
 .sunnada.com
 .sunny90.com
-.sunnyaction.com
 .sunnychina.com
 .sunnyos.com
 .sunnyqi.com
@@ -60170,7 +60155,6 @@ www4-static.gog-statics.com
 .wanplus.com
 .wanqianyun.com
 .wanquankan.com
-.wanredian.com
 .wanrenxing.net
 .wansege.info
 .wansf.com
@@ -60970,7 +60954,6 @@ www4-static.gog-statics.com
 .wenzhouchayuan.com
 .wenzhoumajiang.com
 .wenzhousx.com
-.wenzidi.com
 .wenzon.com
 .wepiao.com
 .wepie.com
@@ -70678,6 +70661,7 @@ www4-static.gog-statics.com
 .zjkings.com
 .zjknews.com
 .zjks.com
+.zjlcwg.com
 .zjldrcb.com
 .zjlottery.com
 .zjlsbz.com

@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-10 02:11:46
-# HOST-SUFFIX: 32739
+# UPDATED: 2022-02-11 02:10:19
+# HOST-SUFFIX: 32748
 # USER-AGENT: 73
 # HOST: 28
 # HOST-KEYWORD: 72
 # IP-CIDR: 1180
 # IP6-CIDR: 31
-# TOTAL: 34123
+# TOTAL: 34132
 HOST,api-p014.ribob01.net,GlobalMax
 HOST,api.okzy.tv,GlobalMax
 HOST,api.waqi.info,GlobalMax
@@ -2918,6 +2918,7 @@ HOST-SUFFIX,aidoru-online.me,GlobalMax
 HOST-SUFFIX,aikeji.tk,GlobalMax
 HOST-SUFFIX,aimei133.com,GlobalMax
 HOST-SUFFIX,aimoon.com,GlobalMax
+HOST-SUFFIX,aimsciences.org,GlobalMax
 HOST-SUFFIX,aing01.com,GlobalMax
 HOST-SUFFIX,aint2late.com,GlobalMax
 HOST-SUFFIX,aiot7.com,GlobalMax
@@ -3980,6 +3981,7 @@ HOST-SUFFIX,asminternational.org,GlobalMax
 HOST-SUFFIX,asnebula.cf,GlobalMax
 HOST-SUFFIX,asp-cc.com,GlobalMax
 HOST-SUFFIX,asp.net,GlobalMax
+HOST-SUFFIX,aspbjournals.org,GlobalMax
 HOST-SUFFIX,aspenpublishing.com,GlobalMax
 HOST-SUFFIX,aspi.org.au,GlobalMax
 HOST-SUFFIX,aspistrategist.org.au,GlobalMax
@@ -7361,6 +7363,7 @@ HOST-SUFFIX,chocalanwines.com,GlobalMax
 HOST-SUFFIX,chocolatey.org,GlobalMax
 HOST-SUFFIX,chocolatkey.com,GlobalMax
 HOST-SUFFIX,chocotv.com.tw,GlobalMax
+HOST-SUFFIX,choicereviews.org,GlobalMax
 HOST-SUFFIX,chomp.com,GlobalMax
 HOST-SUFFIX,chordscenter.net,GlobalMax
 HOST-SUFFIX,chosun.com,GlobalMax
@@ -7422,6 +7425,7 @@ HOST-SUFFIX,cinemageddon.net,GlobalMax
 HOST-SUFFIX,cinematik.net,GlobalMax
 HOST-SUFFIX,cinemax.com,GlobalMax
 HOST-SUFFIX,cinemaz.to,GlobalMax
+HOST-SUFFIX,cios.org,GlobalMax
 HOST-SUFFIX,cipfg.org,GlobalMax
 HOST-SUFFIX,cipher.to,GlobalMax
 HOST-SUFFIX,ciprianman.net,GlobalMax
@@ -7750,6 +7754,7 @@ HOST-SUFFIX,cobuz.fr,GlobalMax
 HOST-SUFFIX,cobuzz.fr,GlobalMax
 HOST-SUFFIX,cochina.co,GlobalMax
 HOST-SUFFIX,cochina.org,GlobalMax
+HOST-SUFFIX,cochranelibrary.com,GlobalMax
 HOST-SUFFIX,coco-master.weebly.com,GlobalMax
 HOST-SUFFIX,cocoa.zonble.net,GlobalMax
 HOST-SUFFIX,cocoapods.org,GlobalMax
@@ -9992,6 +9997,7 @@ HOST-SUFFIX,electionsmeter.com,GlobalMax
 HOST-SUFFIX,electrek.co,GlobalMax
 HOST-SUFFIX,electric.bg,GlobalMax
 HOST-SUFFIX,electricluxury.com,GlobalMax
+HOST-SUFFIX,electrochem.org,GlobalMax
 HOST-SUFFIX,electronicarts.com,GlobalMax
 HOST-SUFFIX,electronjs.org,GlobalMax
 HOST-SUFFIX,element.io,GlobalMax
@@ -10000,6 +10006,7 @@ HOST-SUFFIX,elenasandu.com,GlobalMax
 HOST-SUFFIX,elephantsdream.org,GlobalMax
 HOST-SUFFIX,elephantvpn.com,GlobalMax
 HOST-SUFFIX,eletrica.eng.br,GlobalMax
+HOST-SUFFIX,elgaronline.com,GlobalMax
 HOST-SUFFIX,elgoog.im,GlobalMax
 HOST-SUFFIX,elianapinzon.com,GlobalMax
 HOST-SUFFIX,elifesciences.org,GlobalMax
@@ -10041,6 +10048,7 @@ HOST-SUFFIX,email.collegeplanning.com,GlobalMax
 HOST-SUFFIX,emanna.com,GlobalMax
 HOST-SUFFIX,emarsys.net,GlobalMax
 HOST-SUFFIX,emaw.com.br,GlobalMax
+HOST-SUFFIX,embase.com,GlobalMax
 HOST-SUFFIX,embed-cdn.com,GlobalMax
 HOST-SUFFIX,embeddedsw.org,GlobalMax
 HOST-SUFFIX,embedly.com,GlobalMax
@@ -10304,6 +10312,7 @@ HOST-SUFFIX,eulam.com,GlobalMax
 HOST-SUFFIX,euphotravel.com,GlobalMax
 HOST-SUFFIX,eurashe.be,GlobalMax
 HOST-SUFFIX,eurasianet.org,GlobalMax
+HOST-SUFFIX,eurekaselect.com,GlobalMax
 HOST-SUFFIX,eurekavpt.com,GlobalMax
 HOST-SUFFIX,euro.com.pl,GlobalMax
 HOST-SUFFIX,eurogirlsongirls.com,GlobalMax

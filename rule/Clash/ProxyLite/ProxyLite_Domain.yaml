@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-10 02:11:50
-# DOMAIN-SUFFIX: 31297
+# UPDATED: 2022-02-11 02:10:22
+# DOMAIN-SUFFIX: 31306
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 28
 # IP-CIDR: 91
 # IP-CIDR6: 3
-# TOTAL: 31437
+# TOTAL: 31446
 payload:
   - 'api-p.videomarket.jp'
   - 'api.waqi.info'
@@ -2919,6 +2919,7 @@ payload:
   - '+.aibaobei.me'
   - '+.aikeji.tk'
   - '+.aimei133.com'
+  - '+.aimsciences.org'
   - '+.aing01.com'
   - '+.aint2late.com'
   - '+.aiot7.com'
@@ -3939,6 +3940,7 @@ payload:
   - '+.asnebula.cf'
   - '+.asp-cc.com'
   - '+.asp.net'
+  - '+.aspbjournals.org'
   - '+.aspenpublishing.com'
   - '+.aspi.org.au'
   - '+.aspistrategist.org.au'
@@ -7002,6 +7004,7 @@ payload:
   - '+.chocalanwines.com'
   - '+.chocolatey.org'
   - '+.chocolatkey.com'
+  - '+.choicereviews.org'
   - '+.chomp.com'
   - '+.chordscenter.net'
   - '+.chosun.com'
@@ -7058,6 +7061,7 @@ payload:
   - '+.cineastentreff.de'
   - '+.cineblog01.com'
   - '+.cinemax.com'
+  - '+.cios.org'
   - '+.cipfg.org'
   - '+.cipher.to'
   - '+.ciprianman.net'
@@ -7376,6 +7380,7 @@ payload:
   - '+.cobrasearch.com'
   - '+.cochina.co'
   - '+.cochina.org'
+  - '+.cochranelibrary.com'
   - '+.coco-master.weebly.com'
   - '+.cocoa.zonble.net'
   - '+.cocoapods.org'
@@ -9468,6 +9473,7 @@ payload:
   - '+.electrek.co'
   - '+.electric.bg'
   - '+.electricluxury.com'
+  - '+.electrochem.org'
   - '+.electronicarts.com'
   - '+.electronjs.org'
   - '+.element.io'
@@ -9476,6 +9482,7 @@ payload:
   - '+.elephantsdream.org'
   - '+.elephantvpn.com'
   - '+.eletrica.eng.br'
+  - '+.elgaronline.com'
   - '+.elgoog.im'
   - '+.elianapinzon.com'
   - '+.elifesciences.org'
@@ -9515,6 +9522,7 @@ payload:
   - '+.email.collegeplanning.com'
   - '+.emanna.com'
   - '+.emaw.com.br'
+  - '+.embase.com'
   - '+.embed-cdn.com'
   - '+.embeddedsw.org'
   - '+.embedly.com'
@@ -9767,6 +9775,7 @@ payload:
   - '+.euphotravel.com'
   - '+.eurashe.be'
   - '+.eurasianet.org'
+  - '+.eurekaselect.com'
   - '+.eurekavpt.com'
   - '+.euro.com.pl'
   - '+.eurogirlsongirls.com'

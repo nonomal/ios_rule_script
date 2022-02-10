@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-10 02:11:50
-# DOMAIN-SUFFIX: 32739
+# UPDATED: 2022-02-11 02:10:22
+# DOMAIN-SUFFIX: 32748
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 72
 # IP-CIDR: 1180
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34106
+# TOTAL: 34115
 payload:
   - DOMAIN,api-p014.ribob01.net
   - DOMAIN,api.okzy.tv
@@ -2919,6 +2919,7 @@ payload:
   - DOMAIN-SUFFIX,aikeji.tk
   - DOMAIN-SUFFIX,aimei133.com
   - DOMAIN-SUFFIX,aimoon.com
+  - DOMAIN-SUFFIX,aimsciences.org
   - DOMAIN-SUFFIX,aing01.com
   - DOMAIN-SUFFIX,aint2late.com
   - DOMAIN-SUFFIX,aiot7.com
@@ -3981,6 +3982,7 @@ payload:
   - DOMAIN-SUFFIX,asnebula.cf
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,asp.net
+  - DOMAIN-SUFFIX,aspbjournals.org
   - DOMAIN-SUFFIX,aspenpublishing.com
   - DOMAIN-SUFFIX,aspi.org.au
   - DOMAIN-SUFFIX,aspistrategist.org.au
@@ -7362,6 +7364,7 @@ payload:
   - DOMAIN-SUFFIX,chocolatey.org
   - DOMAIN-SUFFIX,chocolatkey.com
   - DOMAIN-SUFFIX,chocotv.com.tw
+  - DOMAIN-SUFFIX,choicereviews.org
   - DOMAIN-SUFFIX,chomp.com
   - DOMAIN-SUFFIX,chordscenter.net
   - DOMAIN-SUFFIX,chosun.com
@@ -7423,6 +7426,7 @@ payload:
   - DOMAIN-SUFFIX,cinematik.net
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,cinemaz.to
+  - DOMAIN-SUFFIX,cios.org
   - DOMAIN-SUFFIX,cipfg.org
   - DOMAIN-SUFFIX,cipher.to
   - DOMAIN-SUFFIX,ciprianman.net
@@ -7751,6 +7755,7 @@ payload:
   - DOMAIN-SUFFIX,cobuzz.fr
   - DOMAIN-SUFFIX,cochina.co
   - DOMAIN-SUFFIX,cochina.org
+  - DOMAIN-SUFFIX,cochranelibrary.com
   - DOMAIN-SUFFIX,coco-master.weebly.com
   - DOMAIN-SUFFIX,cocoa.zonble.net
   - DOMAIN-SUFFIX,cocoapods.org
@@ -9993,6 +9998,7 @@ payload:
   - DOMAIN-SUFFIX,electrek.co
   - DOMAIN-SUFFIX,electric.bg
   - DOMAIN-SUFFIX,electricluxury.com
+  - DOMAIN-SUFFIX,electrochem.org
   - DOMAIN-SUFFIX,electronicarts.com
   - DOMAIN-SUFFIX,electronjs.org
   - DOMAIN-SUFFIX,element.io
@@ -10001,6 +10007,7 @@ payload:
   - DOMAIN-SUFFIX,elephantsdream.org
   - DOMAIN-SUFFIX,elephantvpn.com
   - DOMAIN-SUFFIX,eletrica.eng.br
+  - DOMAIN-SUFFIX,elgaronline.com
   - DOMAIN-SUFFIX,elgoog.im
   - DOMAIN-SUFFIX,elianapinzon.com
   - DOMAIN-SUFFIX,elifesciences.org
@@ -10042,6 +10049,7 @@ payload:
   - DOMAIN-SUFFIX,emanna.com
   - DOMAIN-SUFFIX,emarsys.net
   - DOMAIN-SUFFIX,emaw.com.br
+  - DOMAIN-SUFFIX,embase.com
   - DOMAIN-SUFFIX,embed-cdn.com
   - DOMAIN-SUFFIX,embeddedsw.org
   - DOMAIN-SUFFIX,embedly.com
@@ -10305,6 +10313,7 @@ payload:
   - DOMAIN-SUFFIX,euphotravel.com
   - DOMAIN-SUFFIX,eurashe.be
   - DOMAIN-SUFFIX,eurasianet.org
+  - DOMAIN-SUFFIX,eurekaselect.com
   - DOMAIN-SUFFIX,eurekavpt.com
   - DOMAIN-SUFFIX,euro.com.pl
   - DOMAIN-SUFFIX,eurogirlsongirls.com

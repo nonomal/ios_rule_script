@@ -1,16 +1,16 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-10 02:11:47
+# UPDATED: 2022-02-11 02:10:20
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 32739
+# DOMAIN-SUFFIX: 32748
 # USER-AGENT: 73
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 72
 # IP-CIDR: 1180
 # IP-CIDR6: 31
 # URL-REGEX: 8
-# TOTAL: 34131
+# TOTAL: 34140
 api-p014.ribob01.net
 api.okzy.tv
 api.waqi.info
@@ -2920,6 +2920,7 @@ zeke.scea.com
 .aikeji.tk
 .aimei133.com
 .aimoon.com
+.aimsciences.org
 .aing01.com
 .aint2late.com
 .aiot7.com
@@ -3982,6 +3983,7 @@ zeke.scea.com
 .asnebula.cf
 .asp-cc.com
 .asp.net
+.aspbjournals.org
 .aspenpublishing.com
 .aspi.org.au
 .aspistrategist.org.au
@@ -7363,6 +7365,7 @@ zeke.scea.com
 .chocolatey.org
 .chocolatkey.com
 .chocotv.com.tw
+.choicereviews.org
 .chomp.com
 .chordscenter.net
 .chosun.com
@@ -7424,6 +7427,7 @@ zeke.scea.com
 .cinematik.net
 .cinemax.com
 .cinemaz.to
+.cios.org
 .cipfg.org
 .cipher.to
 .ciprianman.net
@@ -7752,6 +7756,7 @@ zeke.scea.com
 .cobuzz.fr
 .cochina.co
 .cochina.org
+.cochranelibrary.com
 .coco-master.weebly.com
 .cocoa.zonble.net
 .cocoapods.org
@@ -9994,6 +9999,7 @@ zeke.scea.com
 .electrek.co
 .electric.bg
 .electricluxury.com
+.electrochem.org
 .electronicarts.com
 .electronjs.org
 .element.io
@@ -10002,6 +10008,7 @@ zeke.scea.com
 .elephantsdream.org
 .elephantvpn.com
 .eletrica.eng.br
+.elgaronline.com
 .elgoog.im
 .elianapinzon.com
 .elifesciences.org
@@ -10043,6 +10050,7 @@ zeke.scea.com
 .emanna.com
 .emarsys.net
 .emaw.com.br
+.embase.com
 .embed-cdn.com
 .embeddedsw.org
 .embedly.com
@@ -10306,6 +10314,7 @@ zeke.scea.com
 .euphotravel.com
 .eurashe.be
 .eurasianet.org
+.eurekaselect.com
 .eurekavpt.com
 .euro.com.pl
 .eurogirlsongirls.com
