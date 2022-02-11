@@ -1,13 +1,13 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-25 23:47:07
-# DOMAIN-SUFFIX: 482
+# UPDATED: 2022-02-11 16:03:15
+# DOMAIN-SUFFIX: 483
 # IP-CIDR: 45
 # DOMAIN: 21
 # DOMAIN-KEYWORD: 1
 # PROTOCOL: 1
-# TOTAL: 550
+# TOTAL: 551
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
+DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,excitebots.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fifastreet.com
