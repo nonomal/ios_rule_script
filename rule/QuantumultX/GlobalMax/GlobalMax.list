@@ -1,17 +1,16 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:15
-# HOST-SUFFIX: 34439
+# UPDATED: 2022-02-12 02:10:56
+# HOST-SUFFIX: 34699
 # USER-AGENT: 73
-# HOST: 74
+# HOST: 55
 # HOST-KEYWORD: 72
 # IP-CIDR: 1180
 # IP6-CIDR: 31
-# TOTAL: 35869
+# TOTAL: 36110
 HOST,akmcdnoversea-tw.inter.iqiyi.com,GlobalMax
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,GlobalMax
-HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,ap-oversea-tls.agora.io,GlobalMax
 HOST,ap-oversea.agora.io,GlobalMax
 HOST,ap-oversea2.agora.io,GlobalMax
@@ -23,9 +22,7 @@ HOST,apple.com.akadns.net,GlobalMax
 HOST,aqi.aqicn.org,GlobalMax
 HOST,artcdnsecure.ribob01.net,GlobalMax
 HOST,beck-online.beck.de,GlobalMax
-HOST,beta.music.apple.com,GlobalMax
 HOST,blizzard.nefficient.co.kr,GlobalMax
-HOST,books.apple.com,GlobalMax
 HOST,cache.video.iqiyi.com,GlobalMax
 HOST,cdn.apple-cloudkit.com,GlobalMax
 HOST,cdn77.scoreuniverse.com,GlobalMax
@@ -37,9 +34,6 @@ HOST,commerce1.api.np.km.playstation.n,GlobalMax
 HOST,courier-push-apple.com.akadns.net,GlobalMax
 HOST,cvws.icloud-content.com,GlobalMax
 HOST,deutschewelle.h-cdn.com,GlobalMax
-HOST,developer.apple.com,GlobalMax
-HOST,devimages-cdn.apple.com,GlobalMax
-HOST,devstreaming-cdn.apple.com,GlobalMax
 HOST,dl.begellhouse.com,GlobalMax
 HOST,edge.cwtv-vod-ext.top.comcast.net,GlobalMax
 HOST,elib.maruzen.co.jp,GlobalMax
@@ -49,34 +43,21 @@ HOST,gateway.icloud.com,GlobalMax
 HOST,github-avatars.oss-cn-hongkong.aliyuncs.com,GlobalMax
 HOST,gs-sec.ww.np.dl.playstation.n,GlobalMax
 HOST,gs2.ww.prod.dl.playstation.ne,GlobalMax
-HOST,gspe1-ssl.ls.apple.com,GlobalMax
 HOST,i.jeded.com,GlobalMax
 HOST,imap-mail.outlook.com,GlobalMax
 HOST,intl-rcd.iqiyi.com,GlobalMax
 HOST,intl-subscription.iqiyi.com,GlobalMax
 HOST,intl.iqiyi.com,GlobalMax
-HOST,js-cdn.music.apple.com,GlobalMax
-HOST,lookup-api.apple.com,GlobalMax
 HOST,mobileso.bz.mgtv.com,GlobalMax
-HOST,news-assets.apple.com,GlobalMax
-HOST,news-client-search.apple.com,GlobalMax
-HOST,news-client.apple.com,GlobalMax
-HOST,news-edge.apple.com,GlobalMax
-HOST,news-events.apple.com,GlobalMax
-HOST,np-edge.itunes.apple.com,GlobalMax
 HOST,p.bstarstatic.com,GlobalMax
 HOST,pchomeonline.com.tw,GlobalMax
-HOST,play-edge.itunes.apple.com,GlobalMax
 HOST,playstation.sony.akadns.net,GlobalMax
 HOST,push-apple.com.akadns.net,GlobalMax
-HOST,radio.itunes.apple.com,GlobalMax
 HOST,report-oversea.agora.io,GlobalMax
 HOST,rpg.pic-imges.com,GlobalMax
 HOST,smtp-mail.outlook.com,GlobalMax
 HOST,static-resource.np.community.playstation.n,GlobalMax
 HOST,tesla-cdn.thron.com,GlobalMax
-HOST,testflight.apple.com,GlobalMax
-HOST,uts-api.itunes.apple.com,GlobalMax
 HOST,widgets.stripst.com,GlobalMax
 HOST,wmff.warnermediacdn.com,GlobalMax
 HOST,wrds-www.wharton.upenn.edu,GlobalMax
@@ -2815,7 +2796,6 @@ HOST-SUFFIX,acmetoy.com,GlobalMax
 HOST-SUFFIX,acmvalidations.com,GlobalMax
 HOST-SUFFIX,acmvalidationsaws.com,GlobalMax
 HOST-SUFFIX,acnw.com.au,GlobalMax
-HOST-SUFFIX,acom.azurecomcdn.net,GlobalMax
 HOST-SUFFIX,acpica.com,GlobalMax
 HOST-SUFFIX,acproxy.com,GlobalMax
 HOST-SUFFIX,acrobat.com,GlobalMax
@@ -2836,6 +2816,7 @@ HOST-SUFFIX,adad06.com,GlobalMax
 HOST-SUFFIX,adad09.com,GlobalMax
 HOST-SUFFIX,adam-modellbau.pl,GlobalMax
 HOST-SUFFIX,adanwebnet.site44.com,GlobalMax
+HOST-SUFFIX,adaptivecards.io,GlobalMax
 HOST-SUFFIX,adblockplus.org,GlobalMax
 HOST-SUFFIX,adcdownload.apple.com.akadns.net,GlobalMax
 HOST-SUFFIX,adcex.com,GlobalMax
@@ -3670,6 +3651,7 @@ HOST-SUFFIX,anisearch.de,GlobalMax
 HOST-SUFFIX,aniseedballs.co.uk,GlobalMax
 HOST-SUFFIX,anit.ro,GlobalMax
 HOST-SUFFIX,anitracksub.ml,GlobalMax
+HOST-SUFFIX,ankarazirvesi2018.com,GlobalMax
 HOST-SUFFIX,anm.co.uk,GlobalMax
 HOST-SUFFIX,annatam.com,GlobalMax
 HOST-SUFFIX,anne66.com,GlobalMax
@@ -3768,6 +3750,7 @@ HOST-SUFFIX,apetube.com,GlobalMax
 HOST-SUFFIX,apexlegends.com,GlobalMax
 HOST-SUFFIX,apfi-jatim.org,GlobalMax
 HOST-SUFFIX,apfritts.com,GlobalMax
+HOST-SUFFIX,api-extractor.com,GlobalMax
 HOST-SUFFIX,api-p.videomarket.jp,GlobalMax
 HOST-SUFFIX,api.a5188yes.com,GlobalMax
 HOST-SUFFIX,api.ai,GlobalMax
@@ -3801,6 +3784,7 @@ HOST-SUFFIX,apic.pinnacle.com,GlobalMax
 HOST-SUFFIX,apigame.yunbo11.com,GlobalMax
 HOST-SUFFIX,apigame.yunbo333.com,GlobalMax
 HOST-SUFFIX,apigee.com,GlobalMax
+HOST-SUFFIX,apisof.net,GlobalMax
 HOST-SUFFIX,apjforex.com,GlobalMax
 HOST-SUFFIX,apk-dl.com,GlobalMax
 HOST-SUFFIX,apk.asso.st,GlobalMax
@@ -3864,6 +3848,7 @@ HOST-SUFFIX,appali.hnlsht.com,GlobalMax
 HOST-SUFFIX,appboxes.co,GlobalMax
 HOST-SUFFIX,appbridge.io,GlobalMax
 HOST-SUFFIX,appbridge.it,GlobalMax
+HOST-SUFFIX,appcenter.ms,GlobalMax
 HOST-SUFFIX,appcloud.com,GlobalMax
 HOST-SUFFIX,appdomain.cloud,GlobalMax
 HOST-SUFFIX,appdownload.qm2500.com,GlobalMax
@@ -3892,6 +3877,7 @@ HOST-SUFFIX,apple-expo.com,GlobalMax
 HOST-SUFFIX,apple-hk.com,GlobalMax
 HOST-SUFFIX,apple-imac.com,GlobalMax
 HOST-SUFFIX,apple-inc.net,GlobalMax
+HOST-SUFFIX,apple-mapkit.com,GlobalMax
 HOST-SUFFIX,apple-online.com,GlobalMax
 HOST-SUFFIX,apple-pay.com,GlobalMax
 HOST-SUFFIX,apple-pay.rs,GlobalMax
@@ -3902,6 +3888,7 @@ HOST-SUFFIX,apple-usa.net,GlobalMax
 HOST-SUFFIX,apple.be,GlobalMax
 HOST-SUFFIX,apple.ch,GlobalMax
 HOST-SUFFIX,apple.co,GlobalMax
+HOST-SUFFIX,apple.com,GlobalMax
 HOST-SUFFIX,apple.com.co,GlobalMax
 HOST-SUFFIX,apple.com.do,GlobalMax
 HOST-SUFFIX,apple.com.pr,GlobalMax
@@ -4124,6 +4111,7 @@ HOST-SUFFIX,arewereadyyet.com,GlobalMax
 HOST-SUFFIX,arexv.com,GlobalMax
 HOST-SUFFIX,areyouawesome.net84.net,GlobalMax
 HOST-SUFFIX,areyoucreditwise.com,GlobalMax
+HOST-SUFFIX,aria.ms,GlobalMax
 HOST-SUFFIX,arieltorres.com.ar,GlobalMax
 HOST-SUFFIX,aritzcracker.ca,GlobalMax
 HOST-SUFFIX,arizona-friends-of-tibet.org,GlobalMax
@@ -4206,6 +4194,7 @@ HOST-SUFFIX,asminternational.org,GlobalMax
 HOST-SUFFIX,asn-online.org,GlobalMax
 HOST-SUFFIX,asnebula.cf,GlobalMax
 HOST-SUFFIX,asp-cc.com,GlobalMax
+HOST-SUFFIX,asp.net,GlobalMax
 HOST-SUFFIX,aspbjournals.org,GlobalMax
 HOST-SUFFIX,aspenpublishing.com,GlobalMax
 HOST-SUFFIX,aspi.org.au,GlobalMax
@@ -4505,18 +4494,35 @@ HOST-SUFFIX,azure-dns.com,GlobalMax
 HOST-SUFFIX,azure-dns.info,GlobalMax
 HOST-SUFFIX,azure-dns.net,GlobalMax
 HOST-SUFFIX,azure-dns.org,GlobalMax
+HOST-SUFFIX,azure-mobile.net,GlobalMax
+HOST-SUFFIX,azure-sphere.com,GlobalMax
+HOST-SUFFIX,azure-test.net,GlobalMax
 HOST-SUFFIX,azure.com,GlobalMax
+HOST-SUFFIX,azure.net,GlobalMax
+HOST-SUFFIX,azurecomcdn.net,GlobalMax
+HOST-SUFFIX,azurecontainer.io,GlobalMax
+HOST-SUFFIX,azurecosmos.net,GlobalMax
 HOST-SUFFIX,azurecosmosdb.com,GlobalMax
 HOST-SUFFIX,azurecosmosdb.info,GlobalMax
 HOST-SUFFIX,azurecosmosdb.net,GlobalMax
+HOST-SUFFIX,azuredatabricks.net,GlobalMax
+HOST-SUFFIX,azuredevopslaunch.com,GlobalMax
+HOST-SUFFIX,azuredigitaltwin.com,GlobalMax
 HOST-SUFFIX,azuredigitaltwins.com,GlobalMax
 HOST-SUFFIX,azuredigitaltwins.net,GlobalMax
 HOST-SUFFIX,azuredns-prd.info,GlobalMax
 HOST-SUFFIX,azuredns-prd.org,GlobalMax
+HOST-SUFFIX,azureedge-test.net,GlobalMax
 HOST-SUFFIX,azureedge.net,GlobalMax
+HOST-SUFFIX,azureiotcentral.com,GlobalMax
+HOST-SUFFIX,azureiotsolutions.com,GlobalMax
+HOST-SUFFIX,azureiotsuite.com,GlobalMax
 HOST-SUFFIX,azureplanetscale.info,GlobalMax
 HOST-SUFFIX,azureplanetscale.net,GlobalMax
+HOST-SUFFIX,azureserviceprofiler.com,GlobalMax
+HOST-SUFFIX,azuresmartspaces.net,GlobalMax
 HOST-SUFFIX,azurespeed.com,GlobalMax
+HOST-SUFFIX,azurestackvalidation.com,GlobalMax
 HOST-SUFFIX,azurewebsites.net,GlobalMax
 HOST-SUFFIX,b-ok.as,GlobalMax
 HOST-SUFFIX,b-ok.asia,GlobalMax
@@ -5270,7 +5276,11 @@ HOST-SUFFIX,beta.usejump.com,GlobalMax
 HOST-SUFFIX,betboy.cc,GlobalMax
 HOST-SUFFIX,betfair.com,GlobalMax
 HOST-SUFFIX,betflag.it,GlobalMax
+HOST-SUFFIX,beth.games,GlobalMax
 HOST-SUFFIX,bethelhs.co.za,GlobalMax
+HOST-SUFFIX,bethesda.net,GlobalMax
+HOST-SUFFIX,bethesdagamestudios.com,GlobalMax
+HOST-SUFFIX,bethsoft.com,GlobalMax
 HOST-SUFFIX,betslip.hkjcfootball.com,GlobalMax
 HOST-SUFFIX,betterexplained.com,GlobalMax
 HOST-SUFFIX,betternet.co,GlobalMax
@@ -5394,6 +5404,7 @@ HOST-SUFFIX,billyclack.com,GlobalMax
 HOST-SUFFIX,billypan.com,GlobalMax
 HOST-SUFFIX,billzhu.com,GlobalMax
 HOST-SUFFIX,bilyoner.com,GlobalMax
+HOST-SUFFIX,binads.com,GlobalMax
 HOST-SUFFIX,binance-cn.com,GlobalMax
 HOST-SUFFIX,binance.cc,GlobalMax
 HOST-SUFFIX,binance.charity,GlobalMax
@@ -5428,7 +5439,13 @@ HOST-SUFFIX,bind2.com,GlobalMax
 HOST-SUFFIX,bine.me,GlobalMax
 HOST-SUFFIX,bing.com,GlobalMax
 HOST-SUFFIX,bing.net,GlobalMax
+HOST-SUFFIX,bingads.com,GlobalMax
+HOST-SUFFIX,bingagencyawards.com,GlobalMax
+HOST-SUFFIX,bingapistatistics.com,GlobalMax
 HOST-SUFFIX,bingfeng.tw,GlobalMax
+HOST-SUFFIX,bingsandbox.com,GlobalMax
+HOST-SUFFIX,bingvisualsearch.com,GlobalMax
+HOST-SUFFIX,bingworld.com,GlobalMax
 HOST-SUFFIX,binoculus.com,GlobalMax
 HOST-SUFFIX,binomo.com.br,GlobalMax
 HOST-SUFFIX,bintray.com,GlobalMax
@@ -5554,6 +5571,7 @@ HOST-SUFFIX,blackwell-synergy.com,GlobalMax
 HOST-SUFFIX,blackwell.co.uk,GlobalMax
 HOST-SUFFIX,blainecorp.com,GlobalMax
 HOST-SUFFIX,blazebox.net,GlobalMax
+HOST-SUFFIX,blazor.net,GlobalMax
 HOST-SUFFIX,blbest.xyz,GlobalMax
 HOST-SUFFIX,bldaily.com,GlobalMax
 HOST-SUFFIX,bldlive.com,GlobalMax
@@ -5583,7 +5601,6 @@ HOST-SUFFIX,blm77.net,GlobalMax
 HOST-SUFFIX,blm888888.com,GlobalMax
 HOST-SUFFIX,blm898.com,GlobalMax
 HOST-SUFFIX,blmdc7.com,GlobalMax
-HOST-SUFFIX,blobstore.apple.com,GlobalMax
 HOST-SUFFIX,blockbuster.com,GlobalMax
 HOST-SUFFIX,blockcn.com,GlobalMax
 HOST-SUFFIX,blockedbyhk.com,GlobalMax
@@ -5811,6 +5828,8 @@ HOST-SUFFIX,bluedimg.cn,GlobalMax
 HOST-SUFFIX,bluedimg.com,GlobalMax
 HOST-SUFFIX,bluefire.gq,GlobalMax
 HOST-SUFFIX,bluefootcms.com,GlobalMax
+HOST-SUFFIX,bluehatil.com,GlobalMax
+HOST-SUFFIX,bluehatnights.com,GlobalMax
 HOST-SUFFIX,bluekoff.net,GlobalMax
 HOST-SUFFIX,bluelight.link,GlobalMax
 HOST-SUFFIX,bluemix.com,GlobalMax
@@ -6359,6 +6378,7 @@ HOST-SUFFIX,bostonherald.com,GlobalMax
 HOST-SUFFIX,bostontibet.org,GlobalMax
 HOST-SUFFIX,bot.nu,GlobalMax
 HOST-SUFFIX,botanwang.com,GlobalMax
+HOST-SUFFIX,botframework.com,GlobalMax
 HOST-SUFFIX,botorch.org,GlobalMax
 HOST-SUFFIX,botstop.com,GlobalMax
 HOST-SUFFIX,boulevard-sa.com.ar,GlobalMax
@@ -6426,11 +6446,13 @@ HOST-SUFFIX,bravoteens.com,GlobalMax
 HOST-SUFFIX,bravotube.com,GlobalMax
 HOST-SUFFIX,bravotube.net,GlobalMax
 HOST-SUFFIX,bravotv.com,GlobalMax
+HOST-SUFFIX,brazilpartneruniversity.com,GlobalMax
 HOST-SUFFIX,brazzers.com,GlobalMax
 HOST-SUFFIX,brazzersnetwork.com,GlobalMax
 HOST-SUFFIX,brazzerstveurope.com,GlobalMax
 HOST-SUFFIX,break.com,GlobalMax
 HOST-SUFFIX,breakblack.net,GlobalMax
+HOST-SUFFIX,breakdown.me,GlobalMax
 HOST-SUFFIX,breakgfw.com,GlobalMax
 HOST-SUFFIX,breaking911.com,GlobalMax
 HOST-SUFFIX,breakingtweets.com,GlobalMax
@@ -6974,6 +6996,7 @@ HOST-SUFFIX,calgoncarbon.com,GlobalMax
 HOST-SUFFIX,calgonit.com,GlobalMax
 HOST-SUFFIX,calibre-ebook.com,GlobalMax
 HOST-SUFFIX,call-3u8633.com,GlobalMax
+HOST-SUFFIX,callersbane.com,GlobalMax
 HOST-SUFFIX,callhulu.com,GlobalMax
 HOST-SUFFIX,calstate.edu,GlobalMax
 HOST-SUFFIX,caltech.edu,GlobalMax
@@ -7377,6 +7400,7 @@ HOST-SUFFIX,central64.com,GlobalMax
 HOST-SUFFIX,central64.net,GlobalMax
 HOST-SUFFIX,centralnation.com,GlobalMax
 HOST-SUFFIX,centraltv.fr,GlobalMax
+HOST-SUFFIX,centralvalidation.com,GlobalMax
 HOST-SUFFIX,centrelink.gov.au,GlobalMax
 HOST-SUFFIX,centresuite.com,GlobalMax
 HOST-SUFFIX,centrino.com,GlobalMax
@@ -7408,6 +7432,7 @@ HOST-SUFFIX,cgpeers.com,GlobalMax
 HOST-SUFFIX,cgst.edu,GlobalMax
 HOST-SUFFIX,ch23.ga,GlobalMax
 HOST-SUFFIX,ch5.cc,GlobalMax
+HOST-SUFFIX,ch9.ms,GlobalMax
 HOST-SUFFIX,chadsherrell.com,GlobalMax
 HOST-SUFFIX,chaikair.cc,GlobalMax
 HOST-SUFFIX,chain.net,GlobalMax
@@ -7443,6 +7468,7 @@ HOST-SUFFIX,charliehebdo.fr,GlobalMax
 HOST-SUFFIX,charliewebpage.weebly.com,GlobalMax
 HOST-SUFFIX,charter.com,GlobalMax
 HOST-SUFFIX,charter08.com,GlobalMax
+HOST-SUFFIX,charticulator.com,GlobalMax
 HOST-SUFFIX,chase.com,GlobalMax
 HOST-SUFFIX,chatango.com,GlobalMax
 HOST-SUFFIX,chaterbate.com,GlobalMax
@@ -7898,6 +7924,8 @@ HOST-SUFFIX,cloud.myscript.com,GlobalMax
 HOST-SUFFIX,cloud.ntpc.gov.tw,GlobalMax
 HOST-SUFFIX,cloud.oracle.com,GlobalMax
 HOST-SUFFIX,cloud8521.tk,GlobalMax
+HOST-SUFFIX,cloudapp.net,GlobalMax
+HOST-SUFFIX,cloudappsecurity.com,GlobalMax
 HOST-SUFFIX,cloudburstresearch.com,GlobalMax
 HOST-SUFFIX,cloudc.one,GlobalMax
 HOST-SUFFIX,cloudchoose.com,GlobalMax
@@ -8109,6 +8137,7 @@ HOST-SUFFIX,codepunk.io,GlobalMax
 HOST-SUFFIX,codeshare.io,GlobalMax
 HOST-SUFFIX,codeskulptor.org,GlobalMax
 HOST-SUFFIX,codespot.com,GlobalMax
+HOST-SUFFIX,codethemicrobit.com,GlobalMax
 HOST-SUFFIX,coedcherry.com,GlobalMax
 HOST-SUFFIX,coeus.co.uk,GlobalMax
 HOST-SUFFIX,cofelca.com,GlobalMax
@@ -8272,6 +8301,8 @@ HOST-SUFFIX,corona-tracing.org,GlobalMax
 HOST-SUFFIX,coronavirusnow.com,GlobalMax
 HOST-SUFFIX,corporatecashpassport.com,GlobalMax
 HOST-SUFFIX,corriere.it,GlobalMax
+HOST-SUFFIX,cortanaanalytics.com,GlobalMax
+HOST-SUFFIX,cortanaskills.com,GlobalMax
 HOST-SUFFIX,corumcollege.com,GlobalMax
 HOST-SUFFIX,cos-moe.com,GlobalMax
 HOST-SUFFIX,cosersuki.net,GlobalMax
@@ -8371,8 +8402,11 @@ HOST-SUFFIX,crisp.chat,GlobalMax
 HOST-SUFFIX,cristyli.com,GlobalMax
 HOST-SUFFIX,crit-staging.com,GlobalMax
 HOST-SUFFIX,crittercism.com,GlobalMax
+HOST-SUFFIX,crmdynint-gcc.com,GlobalMax
+HOST-SUFFIX,crmdynint.com,GlobalMax
 HOST-SUFFIX,crocotube.com,GlobalMax
 HOST-SUFFIX,crola.xyz,GlobalMax
+HOST-SUFFIX,crossborderexpansion.com,GlobalMax
 HOST-SUFFIX,crossfire.co.kr,GlobalMax
 HOST-SUFFIX,crossfireyouthministry.com,GlobalMax
 HOST-SUFFIX,crossfitfirestone.com,GlobalMax
@@ -9096,6 +9130,8 @@ HOST-SUFFIX,deviantart.net,GlobalMax
 HOST-SUFFIX,devilsfilm.com,GlobalMax
 HOST-SUFFIX,devio.us,GlobalMax
 HOST-SUFFIX,devm2m.com,GlobalMax
+HOST-SUFFIX,devopsassessment.net,GlobalMax
+HOST-SUFFIX,devopsms.com,GlobalMax
 HOST-SUFFIX,devpn.com,GlobalMax
 HOST-SUFFIX,devsitetest.how,GlobalMax
 HOST-SUFFIX,devtools-paypal.com,GlobalMax
@@ -9141,6 +9177,7 @@ HOST-SUFFIX,dicela.com,GlobalMax
 HOST-SUFFIX,dicela.net,GlobalMax
 HOST-SUFFIX,dicionar.io,GlobalMax
 HOST-SUFFIX,dicmusic.club,GlobalMax
+HOST-SUFFIX,dictate.ms,GlobalMax
 HOST-SUFFIX,dictatorwatch.org,GlobalMax
 HOST-SUFFIX,dictionary.com,GlobalMax
 HOST-SUFFIX,didce.com,GlobalMax
@@ -9514,6 +9551,7 @@ HOST-SUFFIX,docker.com,GlobalMax
 HOST-SUFFIX,docker.io,GlobalMax
 HOST-SUFFIX,dockerhub.com,GlobalMax
 HOST-SUFFIX,dockerizer.com,GlobalMax
+HOST-SUFFIX,docs.com,GlobalMax
 HOST-SUFFIX,docs.rs,GlobalMax
 HOST-SUFFIX,docstoc.com,GlobalMax
 HOST-SUFFIX,docstrans.com,GlobalMax
@@ -9541,7 +9579,6 @@ HOST-SUFFIX,doh.42l.fr,GlobalMax
 HOST-SUFFIX,doh.applied-privacy.net,GlobalMax
 HOST-SUFFIX,doh.appliedprivacy.net,GlobalMax
 HOST-SUFFIX,doh.au.ahadns.net,GlobalMax
-HOST-SUFFIX,doh.dns.apple.com,GlobalMax
 HOST-SUFFIX,doh.dnslify.com,GlobalMax
 HOST-SUFFIX,doh.doh.my.id,GlobalMax
 HOST-SUFFIX,doh.eastus.pi-dns.com,GlobalMax
@@ -9604,6 +9641,7 @@ HOST-SUFFIX,dorcel.com,GlobalMax
 HOST-SUFFIX,dorcelclub.com,GlobalMax
 HOST-SUFFIX,dorceltv.com,GlobalMax
 HOST-SUFFIX,dorjeshugden.com,GlobalMax
+HOST-SUFFIX,dot.net,GlobalMax
 HOST-SUFFIX,dotcernpilot.info,GlobalMax
 HOST-SUFFIX,dotclub.com,GlobalMax
 HOST-SUFFIX,dotdeb.org,GlobalMax
@@ -9936,6 +9974,7 @@ HOST-SUFFIX,dynamicdns.biz,GlobalMax
 HOST-SUFFIX,dynamicdns.co.uk,GlobalMax
 HOST-SUFFIX,dynamicdns.me.uk,GlobalMax
 HOST-SUFFIX,dynamicdns.org.uk,GlobalMax
+HOST-SUFFIX,dynamics.com,GlobalMax
 HOST-SUFFIX,dynathome.net,GlobalMax
 HOST-SUFFIX,dynawebinc.com,GlobalMax
 HOST-SUFFIX,dyncdn.me,GlobalMax
@@ -10320,6 +10359,7 @@ HOST-SUFFIX,efhc.mx,GlobalMax
 HOST-SUFFIX,efksoft.com,GlobalMax
 HOST-SUFFIX,efmoe.com,GlobalMax
 HOST-SUFFIX,efoodking.com,GlobalMax
+HOST-SUFFIX,efproject.net,GlobalMax
 HOST-SUFFIX,efukt.com,GlobalMax
 HOST-SUFFIX,eg1111.com,GlobalMax
 HOST-SUFFIX,eg1900.com,GlobalMax
@@ -11254,6 +11294,7 @@ HOST-SUFFIX,fastpriv.com,GlobalMax
 HOST-SUFFIX,fastssh.com,GlobalMax
 HOST-SUFFIX,faststone.org,GlobalMax
 HOST-SUFFIX,fasttext.cc,GlobalMax
+HOST-SUFFIX,fasttrackreadysupport.com,GlobalMax
 HOST-SUFFIX,fastusaproxy.com,GlobalMax
 HOST-SUFFIX,fastxzp.com,GlobalMax
 HOST-SUFFIX,fatbtc.com,GlobalMax
@@ -11377,6 +11418,7 @@ HOST-SUFFIX,feitian-california.org,GlobalMax
 HOST-SUFFIX,feitianacademy.org,GlobalMax
 HOST-SUFFIX,feixiaohao.com,GlobalMax
 HOST-SUFFIX,felixcat.net,GlobalMax
+HOST-SUFFIX,femalefounderscomp.com,GlobalMax
 HOST-SUFFIX,fembed.com,GlobalMax
 HOST-SUFFIX,femefun.com,GlobalMax
 HOST-SUFFIX,feministteacher.com,GlobalMax
@@ -11586,6 +11628,7 @@ HOST-SUFFIX,flipchina.cn,GlobalMax
 HOST-SUFFIX,flipkart.com,GlobalMax
 HOST-SUFFIX,flipnotestudio.com,GlobalMax
 HOST-SUFFIX,flipshare.com,GlobalMax
+HOST-SUFFIX,flipwithsurface.com,GlobalMax
 HOST-SUFFIX,flitto.com,GlobalMax
 HOST-SUFFIX,fljsq.cn,GlobalMax
 HOST-SUFFIX,fll.cc,GlobalMax
@@ -11596,6 +11639,7 @@ HOST-SUFFIX,flow.dev,GlobalMax
 HOST-SUFFIX,flow.org,GlobalMax
 HOST-SUFFIX,flowerofchange.de,GlobalMax
 HOST-SUFFIX,flowtype.org,GlobalMax
+HOST-SUFFIX,fluidpreview.com,GlobalMax
 HOST-SUFFIX,fluimec.com.br,GlobalMax
 HOST-SUFFIX,flushingcn.com,GlobalMax
 HOST-SUFFIX,flutter.dev,GlobalMax
@@ -11694,6 +11738,9 @@ HOST-SUFFIX,forums.catholic.com,GlobalMax
 HOST-SUFFIX,forums.tripwireinteractive.com,GlobalMax
 HOST-SUFFIX,forusex.com,GlobalMax
 HOST-SUFFIX,forwarddemocracy.com,GlobalMax
+HOST-SUFFIX,forzamotorsport.net,GlobalMax
+HOST-SUFFIX,forzaracingchampionship.com,GlobalMax
+HOST-SUFFIX,forzarc.com,GlobalMax
 HOST-SUFFIX,fos-ff.net,GlobalMax
 HOST-SUFFIX,fosebook.com,GlobalMax
 HOST-SUFFIX,fosunhani.com,GlobalMax
@@ -12419,10 +12466,12 @@ HOST-SUFFIX,gamepedia.com,GlobalMax
 HOST-SUFFIX,gamer.com.tw,GlobalMax
 HOST-SUFFIX,gameroom.com,GlobalMax
 HOST-SUFFIX,gamerp.jp,GlobalMax
+HOST-SUFFIX,gamesstack.com,GlobalMax
 HOST-SUFFIX,gamestlbb.com,GlobalMax
 HOST-SUFFIX,gametime.in,GlobalMax
 HOST-SUFFIX,gametrailer.com,GlobalMax
 HOST-SUFFIX,gametrailers.com,GlobalMax
+HOST-SUFFIX,gameuxmasterguide.com,GlobalMax
 HOST-SUFFIX,gamez.com.tw,GlobalMax
 HOST-SUFFIX,gaming-notebooks.com,GlobalMax
 HOST-SUFFIX,gamingbrowsers.com,GlobalMax
@@ -12569,6 +12618,9 @@ HOST-SUFFIX,gdgdocs.org,GlobalMax
 HOST-SUFFIX,gdssecurity.com,GlobalMax
 HOST-SUFFIX,gdthing.com,GlobalMax
 HOST-SUFFIX,gdzf.org,GlobalMax
+HOST-SUFFIX,gears5.com,GlobalMax
+HOST-SUFFIX,gearspop.com,GlobalMax
+HOST-SUFFIX,gearstactics.com,GlobalMax
 HOST-SUFFIX,geek-art.net,GlobalMax
 HOST-SUFFIX,geek-squad-support.com,GlobalMax
 HOST-SUFFIX,geek-squad.net,GlobalMax
@@ -12802,6 +12854,7 @@ HOST-SUFFIX,gigacircle.com,GlobalMax
 HOST-SUFFIX,gigadomo.com,GlobalMax
 HOST-SUFFIX,giganews.com,GlobalMax
 HOST-SUFFIX,gigavest.com,GlobalMax
+HOST-SUFFIX,gigjam.com,GlobalMax
 HOST-SUFFIX,gigporno.ru,GlobalMax
 HOST-SUFFIX,gigscity.com,GlobalMax
 HOST-SUFFIX,giize.com,GlobalMax
@@ -13347,6 +13400,7 @@ HOST-SUFFIX,gosq.co,GlobalMax
 HOST-SUFFIX,gosq.com,GlobalMax
 HOST-SUFFIX,gostorego.com,GlobalMax
 HOST-SUFFIX,got-game.org,GlobalMax
+HOST-SUFFIX,gotcosmos.com,GlobalMax
 HOST-SUFFIX,gotdns.ch,GlobalMax
 HOST-SUFFIX,gotgayporn.com,GlobalMax
 HOST-SUFFIX,gotgeeks.com,GlobalMax
@@ -13393,6 +13447,7 @@ HOST-SUFFIX,grangorz.org,GlobalMax
 HOST-SUFFIX,grantland.com,GlobalMax
 HOST-SUFFIX,grapecartoons.com,GlobalMax
 HOST-SUFFIX,graph.org,GlobalMax
+HOST-SUFFIX,graphengine.io,GlobalMax
 HOST-SUFFIX,graphic-line.at,GlobalMax
 HOST-SUFFIX,graphis.ne.jp,GlobalMax
 HOST-SUFFIX,graphql.org,GlobalMax
@@ -14291,6 +14346,7 @@ HOST-SUFFIX,hola.com,GlobalMax
 HOST-SUFFIX,hola.org,GlobalMax
 HOST-SUFFIX,holeinthewallhosting.net,GlobalMax
 HOST-SUFFIX,holeyfuck.com,GlobalMax
+HOST-SUFFIX,hololens.com,GlobalMax
 HOST-SUFFIX,holymountaincn.com,GlobalMax
 HOST-SUFFIX,holyshit.com,GlobalMax
 HOST-SUFFIX,holyspiritspeaks.org,GlobalMax
@@ -14674,6 +14730,7 @@ HOST-SUFFIX,humanrightsfoundation.org,GlobalMax
 HOST-SUFFIX,humanrightshouse.org,GlobalMax
 HOST-SUFFIX,humansofnewyork.com,GlobalMax
 HOST-SUFFIX,humblebundle.com,GlobalMax
+HOST-SUFFIX,hummingbird.ms,GlobalMax
 HOST-SUFFIX,hung-ya.com,GlobalMax
 HOST-SUFFIX,hungerstrikeforaids.org,GlobalMax
 HOST-SUFFIX,hungyatw.com,GlobalMax
@@ -14870,10 +14927,14 @@ HOST-SUFFIX,ids-apple.com,GlobalMax
 HOST-SUFFIX,idsam.com,GlobalMax
 HOST-SUFFIX,idservice.inc,GlobalMax
 HOST-SUFFIX,idv.tw,GlobalMax
+HOST-SUFFIX,ie10.com,GlobalMax
+HOST-SUFFIX,ie11.com,GlobalMax
 HOST-SUFFIX,ie1810.com,GlobalMax
 HOST-SUFFIX,ie2201.com,GlobalMax
 HOST-SUFFIX,ie2205.com,GlobalMax
 HOST-SUFFIX,ie2206.com,GlobalMax
+HOST-SUFFIX,ie8.co,GlobalMax
+HOST-SUFFIX,ie9.com,GlobalMax
 HOST-SUFFIX,ieasy5.com,GlobalMax
 HOST-SUFFIX,iebay.com,GlobalMax
 HOST-SUFFIX,ied2k.net,GlobalMax
@@ -15180,6 +15241,7 @@ HOST-SUFFIX,infotmj.com,GlobalMax
 HOST-SUFFIX,infowars.com,GlobalMax
 HOST-SUFFIX,infowarsmedia.com,GlobalMax
 HOST-SUFFIX,infrapedia.com,GlobalMax
+HOST-SUFFIX,ingads.com,GlobalMax
 HOST-SUFFIX,ingarden.pt,GlobalMax
 HOST-SUFFIX,ingka.com,GlobalMax
 HOST-SUFFIX,ingka.dev,GlobalMax
@@ -15227,6 +15289,7 @@ HOST-SUFFIX,insideinternetsecurity.com,GlobalMax
 HOST-SUFFIX,insidemacintosh.com,GlobalMax
 HOST-SUFFIX,insider-intelligence.com,GlobalMax
 HOST-SUFFIX,insider.com,GlobalMax
+HOST-SUFFIX,insiderdevtour.com,GlobalMax
 HOST-SUFFIX,insiderintelligence.com,GlobalMax
 HOST-SUFFIX,insidevoa.com,GlobalMax
 HOST-SUFFIX,insightcced.com,GlobalMax
@@ -15519,6 +15582,7 @@ HOST-SUFFIX,intouchweekly.com,GlobalMax
 HOST-SUFFIX,intporn.com,GlobalMax
 HOST-SUFFIX,intrade.com,GlobalMax
 HOST-SUFFIX,intralot.it,GlobalMax
+HOST-SUFFIX,intunewiki.com,GlobalMax
 HOST-SUFFIX,inversionesmatulic.cl,GlobalMax
 HOST-SUFFIX,investing.com,GlobalMax
 HOST-SUFFIX,investusa-eb5.weebly.com,GlobalMax
@@ -15537,6 +15601,7 @@ HOST-SUFFIX,ioffergift.com,GlobalMax
 HOST-SUFFIX,ionic.cf,GlobalMax
 HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,GlobalMax
 HOST-SUFFIX,iosinthecar.com,GlobalMax
+HOST-SUFFIX,iotinactionevents.com,GlobalMax
 HOST-SUFFIX,iownyour.biz,GlobalMax
 HOST-SUFFIX,iownyour.org,GlobalMax
 HOST-SUFFIX,ioxoxi.club,GlobalMax
@@ -15815,6 +15880,7 @@ HOST-SUFFIX,ituneas.com,GlobalMax
 HOST-SUFFIX,itunes-apple.com.akadns.net,GlobalMax
 HOST-SUFFIX,itunes-radio.net,GlobalMax
 HOST-SUFFIX,itunes.co,GlobalMax
+HOST-SUFFIX,itunes.com,GlobalMax
 HOST-SUFFIX,itunes.org,GlobalMax
 HOST-SUFFIX,itunes.rio,GlobalMax
 HOST-SUFFIX,itunes12days.com,GlobalMax
@@ -16388,6 +16454,7 @@ HOST-SUFFIX,jwpcdn.com,GlobalMax
 HOST-SUFFIX,jwplatform.com,GlobalMax
 HOST-SUFFIX,jwplayer.com,GlobalMax
 HOST-SUFFIX,jwpsrv.com,GlobalMax
+HOST-SUFFIX,jwt.ms,GlobalMax
 HOST-SUFFIX,jwzzgw6.com,GlobalMax
 HOST-SUFFIX,jx2833.com,GlobalMax
 HOST-SUFFIX,jx3747.com,GlobalMax
@@ -16577,6 +16644,7 @@ HOST-SUFFIX,kickshatchannel.com,GlobalMax
 HOST-SUFFIX,kicksnike1.com,GlobalMax
 HOST-SUFFIX,kicu.tv,GlobalMax
 HOST-SUFFIX,kidc.net,GlobalMax
+HOST-SUFFIX,kidgrid.tv,GlobalMax
 HOST-SUFFIX,kids.president.gov.tw,GlobalMax
 HOST-SUFFIX,kidsnikeshoes.com,GlobalMax
 HOST-SUFFIX,kielconsulting.org,GlobalMax
@@ -16938,6 +17006,7 @@ HOST-SUFFIX,lastfmpresents.com,GlobalMax
 HOST-SUFFIX,lastpass.com,GlobalMax
 HOST-SUFFIX,lasvegasbmw.com,GlobalMax
 HOST-SUFFIX,lasvegaschinesedailynews.com,GlobalMax
+HOST-SUFFIX,latampartneruniversity.com,GlobalMax
 HOST-SUFFIX,latamvmwareforum.com,GlobalMax
 HOST-SUFFIX,latelinenews.com,GlobalMax
 HOST-SUFFIX,latencytop.com,GlobalMax
@@ -17391,6 +17460,7 @@ HOST-SUFFIX,livinghouse.hk,GlobalMax
 HOST-SUFFIX,livingonline.us,GlobalMax
 HOST-SUFFIX,livingotherwise.com,GlobalMax
 HOST-SUFFIX,livingstream.com,GlobalMax
+HOST-SUFFIX,livingyourambition.com,GlobalMax
 HOST-SUFFIX,livrariart.com.br,GlobalMax
 HOST-SUFFIX,liwangyang.com,GlobalMax
 HOST-SUFFIX,liyuwiki.com,GlobalMax
@@ -17921,6 +17991,7 @@ HOST-SUFFIX,majorschampionships.com,GlobalMax
 HOST-SUFFIX,mak.com.au,GlobalMax
 HOST-SUFFIX,makaan.com,GlobalMax
 HOST-SUFFIX,makebettercode.com,GlobalMax
+HOST-SUFFIX,makecode.org,GlobalMax
 HOST-SUFFIX,makeeu.com,GlobalMax
 HOST-SUFFIX,makeitopen.com,GlobalMax
 HOST-SUFFIX,makemymood.com,GlobalMax
@@ -17943,6 +18014,7 @@ HOST-SUFFIX,mamaxtv.com,GlobalMax
 HOST-SUFFIX,mamingzhe.com,GlobalMax
 HOST-SUFFIX,mammothtube.com,GlobalMax
 HOST-SUFFIX,managed-pki.ch,GlobalMax
+HOST-SUFFIX,managedmeetingrooms.com,GlobalMax
 HOST-SUFFIX,manager-magazin.de,GlobalMax
 HOST-SUFFIX,manarat.com,GlobalMax
 HOST-SUFFIX,manausclass.com.br,GlobalMax
@@ -18050,6 +18122,7 @@ HOST-SUFFIX,marxists.org,GlobalMax
 HOST-SUFFIX,maryfloo.cl,GlobalMax
 HOST-SUFFIX,masalalu.gq,GlobalMax
 HOST-SUFFIX,masalili.tw,GlobalMax
+HOST-SUFFIX,masalladeloslimites.com,GlobalMax
 HOST-SUFFIX,mash.to,GlobalMax
 HOST-SUFFIX,mashaalradio.com,GlobalMax
 HOST-SUFFIX,mashable.com,GlobalMax
@@ -18232,11 +18305,13 @@ HOST-SUFFIX,medrxiv.org,GlobalMax
 HOST-SUFFIX,meet.new,GlobalMax
 HOST-SUFFIX,meetav.com,GlobalMax
 HOST-SUFFIX,meetchat.club,GlobalMax
+HOST-SUFFIX,meetfasttrack.com,GlobalMax
 HOST-SUFFIX,meeting.yunghsuan.me,GlobalMax
 HOST-SUFFIX,meetme.com,GlobalMax
 HOST-SUFFIX,meetsexygirls.org,GlobalMax
 HOST-SUFFIX,meetsmartbook.com,GlobalMax
 HOST-SUFFIX,meetup.com,GlobalMax
+HOST-SUFFIX,meetyourdevices.com,GlobalMax
 HOST-SUFFIX,meexpress.net,GlobalMax
 HOST-SUFFIX,mefeedia.com,GlobalMax
 HOST-SUFFIX,meforum.org,GlobalMax
@@ -18292,6 +18367,7 @@ HOST-SUFFIX,mensrush.tv,GlobalMax
 HOST-SUFFIX,mentadulce.cl,GlobalMax
 HOST-SUFFIX,meow.idv.tw,GlobalMax
 HOST-SUFFIX,mephistonet.nl,GlobalMax
+HOST-SUFFIX,mepn.com,GlobalMax
 HOST-SUFFIX,meraki-go.com,GlobalMax
 HOST-SUFFIX,meraki.hk,GlobalMax
 HOST-SUFFIX,merakigo.com,GlobalMax
@@ -18401,7 +18477,13 @@ HOST-SUFFIX,mickey.tv,GlobalMax
 HOST-SUFFIX,mickymouse.site44.com,GlobalMax
 HOST-SUFFIX,micorsoft.com.br,GlobalMax
 HOST-SUFFIX,micro.blog,GlobalMax
+HOST-SUFFIX,microbit.org,GlobalMax
 HOST-SUFFIX,microcycas.com,GlobalMax
+HOST-SUFFIX,microsoft-give.com,GlobalMax
+HOST-SUFFIX,microsoft-int.com,GlobalMax
+HOST-SUFFIX,microsoft-ppe.com,GlobalMax
+HOST-SUFFIX,microsoft-sap-events.com,GlobalMax
+HOST-SUFFIX,microsoft-sbs-domains.com,GlobalMax
 HOST-SUFFIX,microsoft.be,GlobalMax
 HOST-SUFFIX,microsoft.cat,GlobalMax
 HOST-SUFFIX,microsoft.ch,GlobalMax
@@ -18415,8 +18497,30 @@ HOST-SUFFIX,microsoft.pt,GlobalMax
 HOST-SUFFIX,microsoft.red,GlobalMax
 HOST-SUFFIX,microsoft.rs,GlobalMax
 HOST-SUFFIX,microsoft.tv,GlobalMax
+HOST-SUFFIX,microsoft365.com,GlobalMax
+HOST-SUFFIX,microsoftaccountguard.com,GlobalMax
+HOST-SUFFIX,microsoftadc.com,GlobalMax
+HOST-SUFFIX,microsoftads.com,GlobalMax
+HOST-SUFFIX,microsoftadvertising.com,GlobalMax
+HOST-SUFFIX,microsoftadvertisingregionalawards.com,GlobalMax
+HOST-SUFFIX,microsoftaffiliates.com,GlobalMax
+HOST-SUFFIX,microsoftcloud.com,GlobalMax
+HOST-SUFFIX,microsoftcloudsummit.com,GlobalMax
+HOST-SUFFIX,microsoftcloudworkshop.com,GlobalMax
+HOST-SUFFIX,microsoftcommunitytraining.com,GlobalMax
+HOST-SUFFIX,microsoftdiplomados.com,GlobalMax
+HOST-SUFFIX,microsofteca.com,GlobalMax
+HOST-SUFFIX,microsoftedge.com,GlobalMax
+HOST-SUFFIX,microsoftgamestack.com,GlobalMax
 HOST-SUFFIX,microsofthouse.com,GlobalMax
 HOST-SUFFIX,microsofthouse.net,GlobalMax
+HOST-SUFFIX,microsoftinternetsafety.net,GlobalMax
+HOST-SUFFIX,microsoftiotcentral.com,GlobalMax
+HOST-SUFFIX,microsoftiotinsiderlabs.com,GlobalMax
+HOST-SUFFIX,microsoftlatamaitour.com,GlobalMax
+HOST-SUFFIX,microsoftlatamholiday.com,GlobalMax
+HOST-SUFFIX,microsoftlinc.com,GlobalMax
+HOST-SUFFIX,microsoftmxfilantropia.com,GlobalMax
 HOST-SUFFIX,microsoftnews.cc,GlobalMax
 HOST-SUFFIX,microsoftnews.com,GlobalMax
 HOST-SUFFIX,microsoftnews.net,GlobalMax
@@ -18427,14 +18531,24 @@ HOST-SUFFIX,microsoftnewsforkids.org,GlobalMax
 HOST-SUFFIX,microsoftnewskids.com,GlobalMax
 HOST-SUFFIX,microsoftnewskids.net,GlobalMax
 HOST-SUFFIX,microsoftnewskids.org,GlobalMax
+HOST-SUFFIX,microsoftonline-p.com,GlobalMax
+HOST-SUFFIX,microsoftpartnercommunity.com,GlobalMax
+HOST-SUFFIX,microsoftpartnersolutions.com,GlobalMax
 HOST-SUFFIX,microsoftreactor.info,GlobalMax
 HOST-SUFFIX,microsoftreactor.net,GlobalMax
 HOST-SUFFIX,microsoftreactor.org,GlobalMax
+HOST-SUFFIX,microsoftready.com,GlobalMax
 HOST-SUFFIX,microsoftsilverlight.com,GlobalMax
 HOST-SUFFIX,microsoftsilverlight.net,GlobalMax
 HOST-SUFFIX,microsoftsilverlight.org,GlobalMax
+HOST-SUFFIX,microsoftsiteselection.com,GlobalMax
+HOST-SUFFIX,microsoftsqlserver.com,GlobalMax
 HOST-SUFFIX,microsoftstore.com,GlobalMax
+HOST-SUFFIX,microsoftstream.com,GlobalMax
+HOST-SUFFIX,microsoftteams.com,GlobalMax
+HOST-SUFFIX,microsofttradein.com,GlobalMax
 HOST-SUFFIX,microsofttranslator.com,GlobalMax
+HOST-SUFFIX,microsoftuwp.com,GlobalMax
 HOST-SUFFIX,microvpn.com,GlobalMax
 HOST-SUFFIX,micstl.com,GlobalMax
 HOST-SUFFIX,midatlanticbmwmotorcycles.com,GlobalMax
@@ -18470,7 +18584,9 @@ HOST-SUFFIX,mindandlife.org,GlobalMax
 HOST-SUFFIX,mindmeld.com,GlobalMax
 HOST-SUFFIX,mindnode.com,GlobalMax
 HOST-SUFFIX,mindrolling.org,GlobalMax
+HOST-SUFFIX,minecraft.net,GlobalMax
 HOST-SUFFIX,minecraftr.us,GlobalMax
+HOST-SUFFIX,minecraftshop.com,GlobalMax
 HOST-SUFFIX,mineirinhanalemanha.de,GlobalMax
 HOST-SUFFIX,minesword.ml,GlobalMax
 HOST-SUFFIX,mingbairen.com.au,GlobalMax
@@ -18803,6 +18919,7 @@ HOST-SUFFIX,mm366.net,GlobalMax
 HOST-SUFFIX,mm831.com,GlobalMax
 HOST-SUFFIX,mm94168.com,GlobalMax
 HOST-SUFFIX,mmacademyedu.com,GlobalMax
+HOST-SUFFIX,mmdnn.com,GlobalMax
 HOST-SUFFIX,mmgal.com,GlobalMax
 HOST-SUFFIX,mmk.dyn.mk,GlobalMax
 HOST-SUFFIX,mmm-office.com,GlobalMax
@@ -18866,6 +18983,7 @@ HOST-SUFFIX,mohu.ml,GlobalMax
 HOST-SUFFIX,mohu.rocks,GlobalMax
 HOST-SUFFIX,mohu.tw,GlobalMax
 HOST-SUFFIX,moi.gov.sa,GlobalMax
+HOST-SUFFIX,mojang.com,GlobalMax
 HOST-SUFFIX,mojim.com,GlobalMax
 HOST-SUFFIX,mok.com.my,GlobalMax
 HOST-SUFFIX,mokagames.com,GlobalMax
@@ -18874,6 +18992,7 @@ HOST-SUFFIX,mol.gov.tw,GlobalMax
 HOST-SUFFIX,mol.im,GlobalMax
 HOST-SUFFIX,molesports.com,GlobalMax
 HOST-SUFFIX,molihua.org,GlobalMax
+HOST-SUFFIX,momentumms.com,GlobalMax
 HOST-SUFFIX,mommyfucktube.com,GlobalMax
 HOST-SUFFIX,mommyninicenter.ir,GlobalMax
 HOST-SUFFIX,momo.dm,GlobalMax
@@ -18904,6 +19023,7 @@ HOST-SUFFIX,monitorware.com,GlobalMax
 HOST-SUFFIX,monitrix.net,GlobalMax
 HOST-SUFFIX,monkeywerks.net,GlobalMax
 HOST-SUFFIX,monlamit.org,GlobalMax
+HOST-SUFFIX,mono-project.com,GlobalMax
 HOST-SUFFIX,monocloud.com.au,GlobalMax
 HOST-SUFFIX,monotype.com,GlobalMax
 HOST-SUFFIX,monotypeimaging.com,GlobalMax
@@ -18998,6 +19118,7 @@ HOST-SUFFIX,morlive.com,GlobalMax
 HOST-SUFFIX,morningsun.org,GlobalMax
 HOST-SUFFIX,moromie-av.com,GlobalMax
 HOST-SUFFIX,moroneta.com,GlobalMax
+HOST-SUFFIX,morphcharts.com,GlobalMax
 HOST-SUFFIX,mortein.com,GlobalMax
 HOST-SUFFIX,mortein.com.pk,GlobalMax
 HOST-SUFFIX,morteincam.com,GlobalMax
@@ -19067,6 +19188,7 @@ HOST-SUFFIX,mpettis.com,GlobalMax
 HOST-SUFFIX,mpfinance.com,GlobalMax
 HOST-SUFFIX,mpfive.com,GlobalMax
 HOST-SUFFIX,mpinews.com,GlobalMax
+HOST-SUFFIX,mpnevolution.com,GlobalMax
 HOST-SUFFIX,mponline.hk,GlobalMax
 HOST-SUFFIX,mps.kcg.gov.tw,GlobalMax
 HOST-SUFFIX,mpv.io,GlobalMax
@@ -19108,9 +19230,11 @@ HOST-SUFFIX,mrtc28.com,GlobalMax
 HOST-SUFFIX,mrtc88.com,GlobalMax
 HOST-SUFFIX,mrtweet.com,GlobalMax
 HOST-SUFFIX,mrvip100.com,GlobalMax
+HOST-SUFFIX,ms-studiosmedia.com,GlobalMax
 HOST-SUFFIX,ms014.com,GlobalMax
 HOST-SUFFIX,ms196.com,GlobalMax
 HOST-SUFFIX,ms196.net,GlobalMax
+HOST-SUFFIX,ms365surfaceoffer.com,GlobalMax
 HOST-SUFFIX,ms378.com,GlobalMax
 HOST-SUFFIX,ms4dre.com,GlobalMax
 HOST-SUFFIX,ms52.cf,GlobalMax
@@ -19118,12 +19242,19 @@ HOST-SUFFIX,ms52.ga,GlobalMax
 HOST-SUFFIX,ms6588.com,GlobalMax
 HOST-SUFFIX,msa-it.org,GlobalMax
 HOST-SUFFIX,msb.strikewin.com,GlobalMax
+HOST-SUFFIX,mschallenge2018.com,GlobalMax
+HOST-SUFFIX,msdn.com,GlobalMax
 HOST-SUFFIX,msedge.net,GlobalMax
 HOST-SUFFIX,msft.info,GlobalMax
+HOST-SUFFIX,msft.net,GlobalMax
+HOST-SUFFIX,msftauth.net,GlobalMax
+HOST-SUFFIX,msftnet.org,GlobalMax
 HOST-SUFFIX,msg.vg,GlobalMax
+HOST-SUFFIX,msgamesresearch.com,GlobalMax
 HOST-SUFFIX,msgforex.com,GlobalMax
 HOST-SUFFIX,msguancha.com,GlobalMax
 HOST-SUFFIX,msha.gov,GlobalMax
+HOST-SUFFIX,msinnovationchallenge.com,GlobalMax
 HOST-SUFFIX,msn.com,GlobalMax
 HOST-SUFFIX,msn.com.tw,GlobalMax
 HOST-SUFFIX,msnapk.com,GlobalMax
@@ -19131,10 +19262,17 @@ HOST-SUFFIX,msnbc.com,GlobalMax
 HOST-SUFFIX,msnewskids.com,GlobalMax
 HOST-SUFFIX,msnewskids.net,GlobalMax
 HOST-SUFFIX,msnewskids.org,GlobalMax
+HOST-SUFFIX,msnkids.com,GlobalMax
+HOST-SUFFIX,msocsp.com,GlobalMax
 HOST-SUFFIX,msp2.czxujiwq.com,GlobalMax
+HOST-SUFFIX,mspairlift.com,GlobalMax
 HOST-SUFFIX,msper.freeiz.com,GlobalMax
+HOST-SUFFIX,msropendata.com,GlobalMax
 HOST-SUFFIX,mstage.io,GlobalMax
 HOST-SUFFIX,mstdn.io,GlobalMax
+HOST-SUFFIX,msturing.org,GlobalMax
+HOST-SUFFIX,msudalosti.com,GlobalMax
+HOST-SUFFIX,msunlimitedcloudsummit.com,GlobalMax
 HOST-SUFFIX,mswe1.org,GlobalMax
 HOST-SUFFIX,mtanos.com,GlobalMax
 HOST-SUFFIX,mthruf.com,GlobalMax
@@ -19365,6 +19503,7 @@ HOST-SUFFIX,mylftv.com,GlobalMax
 HOST-SUFFIX,mylogiclab.com,GlobalMax
 HOST-SUFFIX,mymaji.com,GlobalMax
 HOST-SUFFIX,mymediarom.com,GlobalMax
+HOST-SUFFIX,mymicrosoft.com,GlobalMax
 HOST-SUFFIX,myminiso.com,GlobalMax
 HOST-SUFFIX,mymmode.com,GlobalMax
 HOST-SUFFIX,mymoe.moe,GlobalMax
@@ -19806,6 +19945,7 @@ HOST-SUFFIX,nextbigfuture.com,GlobalMax
 HOST-SUFFIX,nextcomm.com.ar,GlobalMax
 HOST-SUFFIX,nextdigital.com.hk,GlobalMax
 HOST-SUFFIX,nextdoor.com,GlobalMax
+HOST-SUFFIX,nextechafrica.net,GlobalMax
 HOST-SUFFIX,nextgenerationcenter.com,GlobalMax
 HOST-SUFFIX,nextgenvpn.com,GlobalMax
 HOST-SUFFIX,nextjav.com,GlobalMax
@@ -20292,6 +20432,8 @@ HOST-SUFFIX,nudeflix.com,GlobalMax
 HOST-SUFFIX,nudevista.com,GlobalMax
 HOST-SUFFIX,nudezz.com,GlobalMax
 HOST-SUFFIX,nuexpo.com,GlobalMax
+HOST-SUFFIX,nuget.org,GlobalMax
+HOST-SUFFIX,nugettest.org,GlobalMax
 HOST-SUFFIX,nukistream.com,GlobalMax
 HOST-SUFFIX,numbr.com,GlobalMax
 HOST-SUFFIX,nunuyy.cc,GlobalMax
@@ -20363,6 +20505,7 @@ HOST-SUFFIX,nwsource.com,GlobalMax
 HOST-SUFFIX,nwsuaf6.edu.cn,GlobalMax
 HOST-SUFFIX,nwtca.org,GlobalMax
 HOST-SUFFIX,nxgx.com,GlobalMax
+HOST-SUFFIX,nxta.org,GlobalMax
 HOST-SUFFIX,ny1.com,GlobalMax
 HOST-SUFFIX,nyaa.com,GlobalMax
 HOST-SUFFIX,nyaa.eu,GlobalMax
@@ -20409,6 +20552,9 @@ HOST-SUFFIX,nztdsm.com,GlobalMax
 HOST-SUFFIX,nzz.ch,GlobalMax
 HOST-SUFFIX,o0-2.com,GlobalMax
 HOST-SUFFIX,o33285.com,GlobalMax
+HOST-SUFFIX,o365weve-dev.com,GlobalMax
+HOST-SUFFIX,o365weve-ppe.com,GlobalMax
+HOST-SUFFIX,o365weve.com,GlobalMax
 HOST-SUFFIX,o50.jp,GlobalMax
 HOST-SUFFIX,o53xo.pfxxk5dvmjss4y3pnu.nblk.ru,GlobalMax
 HOST-SUFFIX,o8919.com,GlobalMax
@@ -20478,6 +20624,8 @@ HOST-SUFFIX,oex.com,GlobalMax
 HOST-SUFFIX,offbeatchina.com,GlobalMax
 HOST-SUFFIX,offerairjordanlebron.com,GlobalMax
 HOST-SUFFIX,office365.com,GlobalMax
+HOST-SUFFIX,office365love.com,GlobalMax
+HOST-SUFFIX,office365tw.com,GlobalMax
 HOST-SUFFIX,officemax.com,GlobalMax
 HOST-SUFFIX,officeoftibet.com,GlobalMax
 HOST-SUFFIX,officialbeatsbydreshop.com,GlobalMax
@@ -20606,6 +20754,7 @@ HOST-SUFFIX,oneintranet.veolia.com,GlobalMax
 HOST-SUFFIX,onejav.com,GlobalMax
 HOST-SUFFIX,onenote.com,GlobalMax
 HOST-SUFFIX,onestore.co.kr,GlobalMax
+HOST-SUFFIX,onestore.ms,GlobalMax
 HOST-SUFFIX,onetechsa.com.ar,GlobalMax
 HOST-SUFFIX,onevps.com,GlobalMax
 HOST-SUFFIX,oneworldgaming.com,GlobalMax
@@ -20708,6 +20857,7 @@ HOST-SUFFIX,opentable.com,GlobalMax
 HOST-SUFFIX,opentech.fund,GlobalMax
 HOST-SUFFIX,opentechfund.org,GlobalMax
 HOST-SUFFIX,openthread.io,GlobalMax
+HOST-SUFFIX,opentranslatorstothings.org,GlobalMax
 HOST-SUFFIX,openvinotoolkit.org,GlobalMax
 HOST-SUFFIX,openvpn.com,GlobalMax
 HOST-SUFFIX,openvpn.net,GlobalMax
@@ -20736,6 +20886,7 @@ HOST-SUFFIX,optanedifference.com,GlobalMax
 HOST-SUFFIX,optibrium.co.uk,GlobalMax
 HOST-SUFFIX,optica.org,GlobalMax
 HOST-SUFFIX,opticalize.com,GlobalMax
+HOST-SUFFIX,opticsforthecloud.net,GlobalMax
 HOST-SUFFIX,optimumssl.com,GlobalMax
 HOST-SUFFIX,opus-gaming.com,GlobalMax
 HOST-SUFFIX,oraclecloud.com,GlobalMax
@@ -20776,6 +20927,7 @@ HOST-SUFFIX,origin.com,GlobalMax
 HOST-SUFFIX,origin.tv,GlobalMax
 HOST-SUFFIX,originalhulu.com,GlobalMax
 HOST-SUFFIX,originsoft.co.uk,GlobalMax
+HOST-SUFFIX,orithegame.com,GlobalMax
 HOST-SUFFIX,orkut.co.in,GlobalMax
 HOST-SUFFIX,orkut.com,GlobalMax
 HOST-SUFFIX,orl.ly,GlobalMax
@@ -20831,6 +20983,7 @@ HOST-SUFFIX,ourtv.hk,GlobalMax
 HOST-SUFFIX,ourxxtv.com,GlobalMax
 HOST-SUFFIX,outbound.io,GlobalMax
 HOST-SUFFIX,outfw.net,GlobalMax
+HOST-SUFFIX,outingsapp.com,GlobalMax
 HOST-SUFFIX,outletbeatsshop.com,GlobalMax
 HOST-SUFFIX,outletnike.com,GlobalMax
 HOST-SUFFIX,outlooktibet.com,GlobalMax
@@ -21084,6 +21237,7 @@ HOST-SUFFIX,passion-hd.com,GlobalMax
 HOST-SUFFIX,passion.com,GlobalMax
 HOST-SUFFIX,passionhdfan.com,GlobalMax
 HOST-SUFFIX,passiontimes.hk,GlobalMax
+HOST-SUFFIX,passport.net,GlobalMax
 HOST-SUFFIX,paste.ee,GlobalMax
 HOST-SUFFIX,pastebin.com,GlobalMax
 HOST-SUFFIX,pastel.ink,GlobalMax
@@ -21437,7 +21591,6 @@ HOST-SUFFIX,phillytibetans.com,GlobalMax
 HOST-SUFFIX,phimvideo.org,GlobalMax
 HOST-SUFFIX,phmsociety.org,GlobalMax
 HOST-SUFFIX,phncdn.com,GlobalMax
-HOST-SUFFIX,phobos.apple.com,GlobalMax
 HOST-SUFFIX,phoenixnewtimes.com,GlobalMax
 HOST-SUFFIX,phoeshow.me,GlobalMax
 HOST-SUFFIX,phoile.tender88.com,GlobalMax
@@ -21574,6 +21727,7 @@ HOST-SUFFIX,pivotalinitiative.com,GlobalMax
 HOST-SUFFIX,pivx.com,GlobalMax
 HOST-SUFFIX,piwheels.org,GlobalMax
 HOST-SUFFIX,pixandvideo.com,GlobalMax
+HOST-SUFFIX,pixapp.net,GlobalMax
 HOST-SUFFIX,pixate.com,GlobalMax
 HOST-SUFFIX,pixegram.com,GlobalMax
 HOST-SUFFIX,pixelmator.com,GlobalMax
@@ -21870,6 +22024,7 @@ HOST-SUFFIX,portcampbellhostel.com.au,GlobalMax
 HOST-SUFFIX,porzo.com,GlobalMax
 HOST-SUFFIX,pose.com,GlobalMax
 HOST-SUFFIX,poshserv.ml,GlobalMax
+HOST-SUFFIX,poshtestgallery.com,GlobalMax
 HOST-SUFFIX,positivessl.com,GlobalMax
 HOST-SUFFIX,poskotanews.com,GlobalMax
 HOST-SUFFIX,possessed.us,GlobalMax
@@ -21894,14 +22049,18 @@ HOST-SUFFIX,povsister.app,GlobalMax
 HOST-SUFFIX,powells.com,GlobalMax
 HOST-SUFFIX,power.com,GlobalMax
 HOST-SUFFIX,powerapple.com,GlobalMax
+HOST-SUFFIX,powerappscdn.net,GlobalMax
+HOST-SUFFIX,powerautomate.com,GlobalMax
 HOST-SUFFIX,powerbeats2wireless.com,GlobalMax
 HOST-SUFFIX,powerbeatsbydrdre.com,GlobalMax
 HOST-SUFFIX,powerbeatsbydre.com,GlobalMax
+HOST-SUFFIX,powerbi.com,GlobalMax
 HOST-SUFFIX,powercx.com,GlobalMax
 HOST-SUFFIX,poweredbyintel.com,GlobalMax
 HOST-SUFFIX,powerofresolve.com,GlobalMax
 HOST-SUFFIX,powerphoto.org,GlobalMax
 HOST-SUFFIX,powerpointninja.com,GlobalMax
+HOST-SUFFIX,powershellgallery.com,GlobalMax
 HOST-SUFFIX,powersunitedvr.com,GlobalMax
 HOST-SUFFIX,powerwave.com,GlobalMax
 HOST-SUFFIX,poyopara.com,GlobalMax
@@ -22033,6 +22192,8 @@ HOST-SUFFIX,projectbaseline.com,GlobalMax
 HOST-SUFFIX,projecteuclid.org,GlobalMax
 HOST-SUFFIX,projecth.us,GlobalMax
 HOST-SUFFIX,projectinterfaith.org,GlobalMax
+HOST-SUFFIX,projectmurphy.net,GlobalMax
+HOST-SUFFIX,projectsangam.com,GlobalMax
 HOST-SUFFIX,projectsecretidentity.org,GlobalMax
 HOST-SUFFIX,projectus-grupa.hr,GlobalMax
 HOST-SUFFIX,prokher.pro,GlobalMax
@@ -22272,12 +22433,14 @@ HOST-SUFFIX,pvzgw2.com,GlobalMax
 HOST-SUFFIX,pvzheroes.com,GlobalMax
 HOST-SUFFIX,pw.fiddlefish.net,GlobalMax
 HOST-SUFFIX,pwa-as.kmyuntai.cn,GlobalMax
+HOST-SUFFIX,pwabuilder.com,GlobalMax
 HOST-SUFFIX,pwmnet.com,GlobalMax
 HOST-SUFFIX,pwned.com,GlobalMax
 HOST-SUFFIX,pwnedpasswords.com,GlobalMax
 HOST-SUFFIX,pwnwiki.org,GlobalMax
 HOST-SUFFIX,px.mystakidis.gr,GlobalMax
 HOST-SUFFIX,pximg.net,GlobalMax
+HOST-SUFFIX,pxt.io,GlobalMax
 HOST-SUFFIX,pycon.org,GlobalMax
 HOST-SUFFIX,pydabogados.com.ar,GlobalMax
 HOST-SUFFIX,pyhapp.com,GlobalMax
@@ -22855,6 +23018,8 @@ HOST-SUFFIX,renalnutrition.org,GlobalMax
 HOST-SUFFIX,renchead.com,GlobalMax
 HOST-SUFFIX,renkrip.com,GlobalMax
 HOST-SUFFIX,renminjiandu.com,GlobalMax
+HOST-SUFFIX,renovacionoffice.com,GlobalMax
+HOST-SUFFIX,renovacionxboxlive.com,GlobalMax
 HOST-SUFFIX,renovohill.com,GlobalMax
 HOST-SUFFIX,rentaride.com,GlobalMax
 HOST-SUFFIX,rentaride.de,GlobalMax
@@ -23162,6 +23327,7 @@ HOST-SUFFIX,s-bluemix.net,GlobalMax
 HOST-SUFFIX,s-cashonmobile.com,GlobalMax
 HOST-SUFFIX,s-cute.com,GlobalMax
 HOST-SUFFIX,s-dragon.org,GlobalMax
+HOST-SUFFIX,s-msn.com,GlobalMax
 HOST-SUFFIX,s-nbcnews.com,GlobalMax
 HOST-SUFFIX,s-rewards.hk,GlobalMax
 HOST-SUFFIX,s-xoom.com,GlobalMax
@@ -23304,6 +23470,7 @@ HOST-SUFFIX,sankei-ad.net,GlobalMax
 HOST-SUFFIX,sankei-kurashi.com,GlobalMax
 HOST-SUFFIX,sankei-tours.com,GlobalMax
 HOST-SUFFIX,sankei.com,GlobalMax
+HOST-SUFFIX,sankie.net,GlobalMax
 HOST-SUFFIX,sanmin.com.tw,GlobalMax
 HOST-SUFFIX,sans.edu,GlobalMax
 HOST-SUFFIX,sanspo.com,GlobalMax
@@ -23590,6 +23757,7 @@ HOST-SUFFIX,servehttp.com,GlobalMax
 HOST-SUFFIX,serveminecraft.net,GlobalMax
 HOST-SUFFIX,server.qqjlbvip1.com,GlobalMax
 HOST-SUFFIX,serverfault.com,GlobalMax
+HOST-SUFFIX,serverlesslibrary.net,GlobalMax
 HOST-SUFFIX,servernas.ml,GlobalMax
 HOST-SUFFIX,serverunblock.com,GlobalMax
 HOST-SUFFIX,servervpn.net,GlobalMax
@@ -23667,6 +23835,8 @@ HOST-SUFFIX,sexytube.me,GlobalMax
 HOST-SUFFIX,sexytv.cc,GlobalMax
 HOST-SUFFIX,sexzy4.com,GlobalMax
 HOST-SUFFIX,sf.net,GlobalMax
+HOST-SUFFIX,sfbassets.com,GlobalMax
+HOST-SUFFIX,sfbassets.net,GlobalMax
 HOST-SUFFIX,sfbbq.com,GlobalMax
 HOST-SUFFIX,sfdcstatic.com,GlobalMax
 HOST-SUFFIX,sfi.se,GlobalMax
@@ -24021,6 +24191,7 @@ HOST-SUFFIX,skyoceanrescue.it,GlobalMax
 HOST-SUFFIX,skyoyue.com,GlobalMax
 HOST-SUFFIX,skype.com,GlobalMax
 HOST-SUFFIX,skype.net,GlobalMax
+HOST-SUFFIX,skypeassets.com,GlobalMax
 HOST-SUFFIX,skypeassets.net,GlobalMax
 HOST-SUFFIX,skypost.hk,GlobalMax
 HOST-SUFFIX,skypost.ulifestyle.com.hk,GlobalMax
@@ -24102,7 +24273,6 @@ HOST-SUFFIX,smh8885.com,GlobalMax
 HOST-SUFFIX,smhric.org,GlobalMax
 HOST-SUFFIX,sminted.com,GlobalMax
 HOST-SUFFIX,smith.edu,GlobalMax
-HOST-SUFFIX,smoot.apple.com,GlobalMax
 HOST-SUFFIX,smpte.org,GlobalMax
 HOST-SUFFIX,smt.live,GlobalMax
 HOST-SUFFIX,smutcam.com,GlobalMax
@@ -24496,6 +24666,7 @@ HOST-SUFFIX,spring.net,GlobalMax
 HOST-SUFFIX,spring4u.info,GlobalMax
 HOST-SUFFIX,springboardplatform.com,GlobalMax
 HOST-SUFFIX,springernature.com,GlobalMax
+HOST-SUFFIX,sprinklesapp.com,GlobalMax
 HOST-SUFFIX,sprint.com,GlobalMax
 HOST-SUFFIX,sprint0.net,GlobalMax
 HOST-SUFFIX,sprite.org,GlobalMax
@@ -24508,6 +24679,7 @@ HOST-SUFFIX,spys.one,GlobalMax
 HOST-SUFFIX,spys.ru,GlobalMax
 HOST-SUFFIX,sq.itimemachine.net,GlobalMax
 HOST-SUFFIX,sqlite.org,GlobalMax
+HOST-SUFFIX,sqlserveronlinux.com,GlobalMax
 HOST-SUFFIX,square-jbty.scgpbl.cn,GlobalMax
 HOST-SUFFIX,squarecapital.com,GlobalMax
 HOST-SUFFIX,squarecdn.com,GlobalMax
@@ -24615,6 +24787,7 @@ HOST-SUFFIX,stacksnippets.net,GlobalMax
 HOST-SUFFIX,stacloud.seagull.no,GlobalMax
 HOST-SUFFIX,stadia.com,GlobalMax
 HOST-SUFFIX,stadia.dev,GlobalMax
+HOST-SUFFIX,staffhub.ms,GlobalMax
 HOST-SUFFIX,stagadish.com,GlobalMax
 HOST-SUFFIX,stage.18luck.tech,GlobalMax
 HOST-SUFFIX,stage64.hk,GlobalMax
@@ -24885,6 +25058,7 @@ HOST-SUFFIX,submityourtapes.com,GlobalMax
 HOST-SUFFIX,subscene.com,GlobalMax
 HOST-SUFFIX,substack.com,GlobalMax
 HOST-SUFFIX,successfn.com,GlobalMax
+HOST-SUFFIX,successwithteams.com,GlobalMax
 HOST-SUFFIX,suche.gmx.net,GlobalMax
 HOST-SUFFIX,sudoproxy.net,GlobalMax
 HOST-SUFFIX,sudouest.fr,GlobalMax
@@ -25002,6 +25176,7 @@ HOST-SUFFIX,supportfacebook.com,GlobalMax
 HOST-SUFFIX,supremacy.com,GlobalMax
 HOST-SUFFIX,supremacy.net,GlobalMax
 HOST-SUFFIX,suprememastertv.com,GlobalMax
+HOST-SUFFIX,surface.com,GlobalMax
 HOST-SUFFIX,surfbouncer.com,GlobalMax
 HOST-SUFFIX,surfeasy.com,GlobalMax
 HOST-SUFFIX,surfeasy.com.au,GlobalMax
@@ -25039,6 +25214,8 @@ HOST-SUFFIX,swag.live,GlobalMax
 HOST-SUFFIX,swagbucks.com,GlobalMax
 HOST-SUFFIX,swaghub.cc,GlobalMax
 HOST-SUFFIX,swarajyamag.com,GlobalMax
+HOST-SUFFIX,sway-cdn.com,GlobalMax
+HOST-SUFFIX,sway.com,GlobalMax
 HOST-SUFFIX,swc5555.com,GlobalMax
 HOST-SUFFIX,swc888.com,GlobalMax
 HOST-SUFFIX,swcatalog-cdn.apple.com.akadns.net,GlobalMax
@@ -25127,6 +25304,7 @@ HOST-SUFFIX,syntereo.com,GlobalMax
 HOST-SUFFIX,syosetu.com,GlobalMax
 HOST-SUFFIX,syria-news.com,GlobalMax
 HOST-SUFFIX,syrianchurch.org,GlobalMax
+HOST-SUFFIX,sysinternals.com,GlobalMax
 HOST-SUFFIX,sysresccd.org,GlobalMax
 HOST-SUFFIX,sytes.net,GlobalMax
 HOST-SUFFIX,syx86.com,GlobalMax
@@ -25180,6 +25358,7 @@ HOST-SUFFIX,tagxedo.com,GlobalMax
 HOST-SUFFIX,tahr.org.tw,GlobalMax
 HOST-SUFFIX,tail-f.com,GlobalMax
 HOST-SUFFIX,tailf.com,GlobalMax
+HOST-SUFFIX,tailwindtraders.com,GlobalMax
 HOST-SUFFIX,taipei.gov.tw,GlobalMax
 HOST-SUFFIX,taipeisociety.org,GlobalMax
 HOST-SUFFIX,taipeitimes.com,GlobalMax
@@ -25347,6 +25526,7 @@ HOST-SUFFIX,tearapeak.com,GlobalMax
 HOST-SUFFIX,techatbloomberg.com,GlobalMax
 HOST-SUFFIX,techcrunch.com,GlobalMax
 HOST-SUFFIX,techglue.me,GlobalMax
+HOST-SUFFIX,techhub.ms,GlobalMax
 HOST-SUFFIX,techliquidators.com,GlobalMax
 HOST-SUFFIX,technews.tw,GlobalMax
 HOST-SUFFIX,technics.com,GlobalMax
@@ -25409,6 +25589,7 @@ HOST-SUFFIX,teletrade-asia.com,GlobalMax
 HOST-SUFFIX,telex.cc,GlobalMax
 HOST-SUFFIX,telkom.co.id,GlobalMax
 HOST-SUFFIX,tellme.pw,GlobalMax
+HOST-SUFFIX,tellmewhygame.com,GlobalMax
 HOST-SUFFIX,temp.al,GlobalMax
 HOST-SUFFIX,templeinstitute.org,GlobalMax
 HOST-SUFFIX,tenacy-free.com,GlobalMax
@@ -25471,6 +25652,7 @@ HOST-SUFFIX,tfd.org.tw,GlobalMax
 HOST-SUFFIX,tfhub.dev,GlobalMax
 HOST-SUFFIX,tfiflve.com,GlobalMax
 HOST-SUFFIX,tfino.com,GlobalMax
+HOST-SUFFIX,tfsallin.net,GlobalMax
 HOST-SUFFIX,tfsu.tw,GlobalMax
 HOST-SUFFIX,tfvip33.com,GlobalMax
 HOST-SUFFIX,tfvip88.com,GlobalMax
@@ -25889,6 +26071,7 @@ HOST-SUFFIX,time-travellers.org,GlobalMax
 HOST-SUFFIX,time.com,GlobalMax
 HOST-SUFFIX,time2speak.com.au,GlobalMax
 HOST-SUFFIX,timeinc.net,GlobalMax
+HOST-SUFFIX,timelinestoryteller.com,GlobalMax
 HOST-SUFFIX,times-bignews.com,GlobalMax
 HOST-SUFFIX,times.com,GlobalMax
 HOST-SUFFIX,timesdispatch.com,GlobalMax
@@ -26146,10 +26329,12 @@ HOST-SUFFIX,tradiio.com,GlobalMax
 HOST-SUFFIX,trading212.com,GlobalMax
 HOST-SUFFIX,tradingview.com,GlobalMax
 HOST-SUFFIX,traeumtgerade.de,GlobalMax
+HOST-SUFFIX,trafficmanager.net,GlobalMax
 HOST-SUFFIX,trakt.tv,GlobalMax
 HOST-SUFFIX,transferstudentcn.weebly.com,GlobalMax
 HOST-SUFFIX,translate.goog,GlobalMax
 HOST-SUFFIX,translate.google,GlobalMax
+HOST-SUFFIX,translatetheweb.com,GlobalMax
 HOST-SUFFIX,translatewiki.net,GlobalMax
 HOST-SUFFIX,translatewiki.org,GlobalMax
 HOST-SUFFIX,transmissionzero.co.uk,GlobalMax
@@ -26230,6 +26415,7 @@ HOST-SUFFIX,trycloudflare.com,GlobalMax
 HOST-SUFFIX,trydurex.net,GlobalMax
 HOST-SUFFIX,trydurex.tv,GlobalMax
 HOST-SUFFIX,tryengineering.org,GlobalMax
+HOST-SUFFIX,tryfunctions.com,GlobalMax
 HOST-SUFFIX,tryheart.jp,GlobalMax
 HOST-SUFFIX,tryoffshore.com,GlobalMax
 HOST-SUFFIX,tryrating.com,GlobalMax
@@ -26378,7 +26564,6 @@ HOST-SUFFIX,tutuevi.com,GlobalMax
 HOST-SUFFIX,tuvpn.com,GlobalMax
 HOST-SUFFIX,tuxing.live,GlobalMax
 HOST-SUFFIX,tuzaijidi.com,GlobalMax
-HOST-SUFFIX,tv.apple.com,GlobalMax
 HOST-SUFFIX,tv.com,GlobalMax
 HOST-SUFFIX,tv.domain888.pw,GlobalMax
 HOST-SUFFIX,tv.endlessmovie.com,GlobalMax
@@ -26854,6 +27039,7 @@ HOST-SUFFIX,unknownproxy.com,GlobalMax
 HOST-SUFFIX,unknownspace.org,GlobalMax
 HOST-SUFFIX,unlocator.com,GlobalMax
 HOST-SUFFIX,unlock-iceland.com,GlobalMax
+HOST-SUFFIX,unlocklimitlesslearning.com,GlobalMax
 HOST-SUFFIX,unlockriver.com,GlobalMax
 HOST-SUFFIX,unodedos.com,GlobalMax
 HOST-SUFFIX,unpkg.com,GlobalMax
@@ -26966,6 +27152,7 @@ HOST-SUFFIX,userapi.com,GlobalMax
 HOST-SUFFIX,usercenter.firemon.com,GlobalMax
 HOST-SUFFIX,usercontent.dev,GlobalMax
 HOST-SUFFIX,userproxy.com,GlobalMax
+HOST-SUFFIX,userpxt.io,GlobalMax
 HOST-SUFFIX,users.firigames.com,GlobalMax
 HOST-SUFFIX,userscloud.com,GlobalMax
 HOST-SUFFIX,usersfiles.com,GlobalMax
@@ -27035,6 +27222,7 @@ HOST-SUFFIX,uvwxyz.xyz,GlobalMax
 HOST-SUFFIX,uwants.com,GlobalMax
 HOST-SUFFIX,uwants.com.hk,GlobalMax
 HOST-SUFFIX,uwants.net,GlobalMax
+HOST-SUFFIX,uwpcommunitytoolkit.com,GlobalMax
 HOST-SUFFIX,uxdesign.cc,GlobalMax
 HOST-SUFFIX,uxdict.io,GlobalMax
 HOST-SUFFIX,uy500.com,GlobalMax
@@ -27314,11 +27502,13 @@ HOST-SUFFIX,video.genyt.net,GlobalMax
 HOST-SUFFIX,video.lwdh.org.tw,GlobalMax
 HOST-SUFFIX,video.xgfemdom.com,GlobalMax
 HOST-SUFFIX,videobam.com,GlobalMax
+HOST-SUFFIX,videobreakdown.com,GlobalMax
 HOST-SUFFIX,videochampion.com,GlobalMax
 HOST-SUFFIX,videocyborg.com,GlobalMax
 HOST-SUFFIX,videodelivery.net,GlobalMax
 HOST-SUFFIX,videodetective.com,GlobalMax
 HOST-SUFFIX,videogameheat.com,GlobalMax
+HOST-SUFFIX,videoindexer.ai,GlobalMax
 HOST-SUFFIX,videoixir.net,GlobalMax
 HOST-SUFFIX,videojs.com,GlobalMax
 HOST-SUFFIX,videojug.com,GlobalMax
@@ -27423,6 +27613,7 @@ HOST-SUFFIX,virsto.com,GlobalMax
 HOST-SUFFIX,virsto.net,GlobalMax
 HOST-SUFFIX,virtapay.com,GlobalMax
 HOST-SUFFIX,virtuagirl2.com,GlobalMax
+HOST-SUFFIX,virtualearth.net,GlobalMax
 HOST-SUFFIX,virtualrealporn.com,GlobalMax
 HOST-SUFFIX,virtuata.com,GlobalMax
 HOST-SUFFIX,visa-atm.com,GlobalMax
@@ -27561,6 +27752,7 @@ HOST-SUFFIX,visiontimesjp.com,GlobalMax
 HOST-SUFFIX,visit.uncensoredlibrary.com,GlobalMax
 HOST-SUFFIX,visko.com.au,GlobalMax
 HOST-SUFFIX,vista888.com,GlobalMax
+HOST-SUFFIX,visualstudio-staging.com,GlobalMax
 HOST-SUFFIX,visualstudio.co,GlobalMax
 HOST-SUFFIX,visualstudio.net,GlobalMax
 HOST-SUFFIX,vita.tw,GlobalMax
@@ -27884,6 +28076,8 @@ HOST-SUFFIX,vs.com,GlobalMax
 HOST-SUFFIX,vs8866.com,GlobalMax
 HOST-SUFFIX,vs8989.com,GlobalMax
 HOST-SUFFIX,vs9933.com,GlobalMax
+HOST-SUFFIX,vsallin.net,GlobalMax
+HOST-SUFFIX,vsassets.io,GlobalMax
 HOST-SUFFIX,vsb.edsby.com,GlobalMax
 HOST-SUFFIX,vsco.co,GlobalMax
 HOST-SUFFIX,vsco.com,GlobalMax
@@ -28128,6 +28322,7 @@ HOST-SUFFIX,waze.com,GlobalMax
 HOST-SUFFIX,wb.aeweb.xyz,GlobalMax
 HOST-SUFFIX,wb.graylady.us,GlobalMax
 HOST-SUFFIX,wballiance.com,GlobalMax
+HOST-SUFFIX,wbd.ms,GlobalMax
 HOST-SUFFIX,wby118.com,GlobalMax
 HOST-SUFFIX,wbyl058.com,GlobalMax
 HOST-SUFFIX,wc.yooooo.us,GlobalMax
@@ -28348,6 +28543,7 @@ HOST-SUFFIX,wh.domain888.pw,GlobalMax
 HOST-SUFFIX,wh.freepac.pw,GlobalMax
 HOST-SUFFIX,wh72.gq,GlobalMax
 HOST-SUFFIX,wha.la,GlobalMax
+HOST-SUFFIX,what-fan.net,GlobalMax
 HOST-SUFFIX,whatblocked.com,GlobalMax
 HOST-SUFFIX,whatbrowser.org,GlobalMax
 HOST-SUFFIX,whatisairwatch.com,GlobalMax
@@ -28495,7 +28691,14 @@ HOST-SUFFIX,win.hicam.net,GlobalMax
 HOST-SUFFIX,win123.ml,GlobalMax
 HOST-SUFFIX,win77.vip,GlobalMax
 HOST-SUFFIX,winandmac.com,GlobalMax
+HOST-SUFFIX,windows-int.net,GlobalMax
+HOST-SUFFIX,windowsazure.com,GlobalMax
+HOST-SUFFIX,windowscommunity.net,GlobalMax
+HOST-SUFFIX,windowsmarketplace.com,GlobalMax
+HOST-SUFFIX,windowsphone-int.com,GlobalMax
+HOST-SUFFIX,windowsphone.com,GlobalMax
 HOST-SUFFIX,windowsphoneme.com,GlobalMax
+HOST-SUFFIX,windowssearch.com,GlobalMax
 HOST-SUFFIX,windowsuem.com,GlobalMax
 HOST-SUFFIX,windowsxpsucks.weebly.com,GlobalMax
 HOST-SUFFIX,windscribe.com,GlobalMax
@@ -31490,7 +31693,6 @@ HOST-SUFFIX,www.mimissr.net,GlobalMax
 HOST-SUFFIX,www.mindmaple.com,GlobalMax
 HOST-SUFFIX,www.mindprince.in,GlobalMax
 HOST-SUFFIX,www.minecraft.com,GlobalMax
-HOST-SUFFIX,www.minecraft.net,GlobalMax
 HOST-SUFFIX,www.minepi.com,GlobalMax
 HOST-SUFFIX,www.ming-jian.net,GlobalMax
 HOST-SUFFIX,www.miniweather.com,GlobalMax
@@ -32521,7 +32723,6 @@ HOST-SUFFIX,www.tradewithjacky.com,GlobalMax
 HOST-SUFFIX,www.traininn.com,GlobalMax
 HOST-SUFFIX,www.trample7.com,GlobalMax
 HOST-SUFFIX,www.tranbert.com,GlobalMax
-HOST-SUFFIX,www.translatetheweb.com,GlobalMax
 HOST-SUFFIX,www.transocks.com,GlobalMax
 HOST-SUFFIX,www.traveldudes.org,GlobalMax
 HOST-SUFFIX,www.treasurybrisbane.com.au,GlobalMax
@@ -33016,7 +33217,6 @@ HOST-SUFFIX,www.yourworldreport.com,GlobalMax
 HOST-SUFFIX,www.youss.org,GlobalMax
 HOST-SUFFIX,www.youthforhumanrights.org,GlobalMax
 HOST-SUFFIX,www.youtube.cl,GlobalMax
-HOST-SUFFIX,www.youtube.co.id,GlobalMax
 HOST-SUFFIX,www.youtube.co.in,GlobalMax
 HOST-SUFFIX,www.youtube.co.kr,GlobalMax
 HOST-SUFFIX,www.youtube.co.uk,GlobalMax
@@ -33025,7 +33225,6 @@ HOST-SUFFIX,www.youtube.com.au,GlobalMax
 HOST-SUFFIX,www.youtube.com.my,GlobalMax
 HOST-SUFFIX,www.youtube.com.sg,GlobalMax
 HOST-SUFFIX,www.youtube.es,GlobalMax
-HOST-SUFFIX,www.youtube.it,GlobalMax
 HOST-SUFFIX,www.youtube.nl,GlobalMax
 HOST-SUFFIX,www.youtubeunblocked.live,GlobalMax
 HOST-SUFFIX,www.youtubu.com,GlobalMax
@@ -33203,6 +33402,7 @@ HOST-SUFFIX,xam81.com,GlobalMax
 HOST-SUFFIX,xam82.com,GlobalMax
 HOST-SUFFIX,xam90.com,GlobalMax
 HOST-SUFFIX,xam93.com,GlobalMax
+HOST-SUFFIX,xamarin.com,GlobalMax
 HOST-SUFFIX,xamylc.org,GlobalMax
 HOST-SUFFIX,xandr.com,GlobalMax
 HOST-SUFFIX,xanga.com,GlobalMax
@@ -33222,12 +33422,18 @@ HOST-SUFFIX,xbox.org,GlobalMax
 HOST-SUFFIX,xbox360.co,GlobalMax
 HOST-SUFFIX,xbox360.com,GlobalMax
 HOST-SUFFIX,xbox360.org,GlobalMax
+HOST-SUFFIX,xboxab.com,GlobalMax
+HOST-SUFFIX,xboxgamepass.com,GlobalMax
+HOST-SUFFIX,xboxgamestudios.com,GlobalMax
 HOST-SUFFIX,xboxone.co,GlobalMax
 HOST-SUFFIX,xboxone.com,GlobalMax
+HOST-SUFFIX,xboxplayanywhere.com,GlobalMax
+HOST-SUFFIX,xboxstudios.com,GlobalMax
 HOST-SUFFIX,xbrowser.me,GlobalMax
 HOST-SUFFIX,xbsj6789.site,GlobalMax
 HOST-SUFFIX,xbsj7654.xyz,GlobalMax
 HOST-SUFFIX,xbtce.com,GlobalMax
+HOST-SUFFIX,xbx.lv,GlobalMax
 HOST-SUFFIX,xc.domain888.pw,GlobalMax
 HOST-SUFFIX,xcafe.in,GlobalMax
 HOST-SUFFIX,xcams.com,GlobalMax
@@ -33820,6 +34026,7 @@ HOST-SUFFIX,yam.org.tw,GlobalMax
 HOST-SUFFIX,yamaxun.cn,GlobalMax
 HOST-SUFFIX,yamaxun.com,GlobalMax
 HOST-SUFFIX,yamigama.com,GlobalMax
+HOST-SUFFIX,yammer.com,GlobalMax
 HOST-SUFFIX,yande.re,GlobalMax
 HOST-SUFFIX,yandex,GlobalMax
 HOST-SUFFIX,yandex.aero,GlobalMax
@@ -34074,26 +34281,60 @@ HOST-SUFFIX,youtu.be,GlobalMax
 HOST-SUFFIX,youtube-nocookie.com,GlobalMax
 HOST-SUFFIX,youtube-to-mp3.org,GlobalMax
 HOST-SUFFIX,youtube.at,GlobalMax
+HOST-SUFFIX,youtube.be,GlobalMax
 HOST-SUFFIX,youtube.ca,GlobalMax
+HOST-SUFFIX,youtube.cat,GlobalMax
+HOST-SUFFIX,youtube.ch,GlobalMax
+HOST-SUFFIX,youtube.co,GlobalMax
+HOST-SUFFIX,youtube.co.id,GlobalMax
 HOST-SUFFIX,youtube.co.jp,GlobalMax
 HOST-SUFFIX,youtube.com,GlobalMax
+HOST-SUFFIX,youtube.com.bd,GlobalMax
 HOST-SUFFIX,youtube.com.br,GlobalMax
+HOST-SUFFIX,youtube.com.co,GlobalMax
+HOST-SUFFIX,youtube.com.do,GlobalMax
+HOST-SUFFIX,youtube.com.ee,GlobalMax
 HOST-SUFFIX,youtube.com.hk,GlobalMax
+HOST-SUFFIX,youtube.com.hr,GlobalMax
+HOST-SUFFIX,youtube.com.lv,GlobalMax
+HOST-SUFFIX,youtube.com.pk,GlobalMax
+HOST-SUFFIX,youtube.com.pt,GlobalMax
+HOST-SUFFIX,youtube.com.py,GlobalMax
+HOST-SUFFIX,youtube.com.qa,GlobalMax
 HOST-SUFFIX,youtube.com.tw,GlobalMax
 HOST-SUFFIX,youtube.de,GlobalMax
+HOST-SUFFIX,youtube.ee,GlobalMax
 HOST-SUFFIX,youtube.fr,GlobalMax
 HOST-SUFFIX,youtube.hk,GlobalMax
+HOST-SUFFIX,youtube.hr,GlobalMax
 HOST-SUFFIX,youtube.ie,GlobalMax
+HOST-SUFFIX,youtube.is,GlobalMax
+HOST-SUFFIX,youtube.it,GlobalMax
+HOST-SUFFIX,youtube.la,GlobalMax
+HOST-SUFFIX,youtube.lv,GlobalMax
+HOST-SUFFIX,youtube.me,GlobalMax
+HOST-SUFFIX,youtube.pk,GlobalMax
 HOST-SUFFIX,youtube.pl,GlobalMax
+HOST-SUFFIX,youtube.pr,GlobalMax
+HOST-SUFFIX,youtube.pt,GlobalMax
+HOST-SUFFIX,youtube.qa,GlobalMax
+HOST-SUFFIX,youtube.rs,GlobalMax
 HOST-SUFFIX,youtube.ru,GlobalMax
+HOST-SUFFIX,youtube.soy,GlobalMax
+HOST-SUFFIX,youtube.tv,GlobalMax
 HOST-SUFFIX,youtubecisco.com,GlobalMax
 HOST-SUFFIX,youtubecn.com,GlobalMax
 HOST-SUFFIX,youtubeeducation.com,GlobalMax
+HOST-SUFFIX,youtubefanfest.com,GlobalMax
 HOST-SUFFIX,youtubefreeproxy.com,GlobalMax
 HOST-SUFFIX,youtubegaming.com,GlobalMax
+HOST-SUFFIX,youtubego.co.id,GlobalMax
+HOST-SUFFIX,youtubego.com,GlobalMax
+HOST-SUFFIX,youtubego.id,GlobalMax
 HOST-SUFFIX,youtubekids.com,GlobalMax
 HOST-SUFFIX,youtubelike.com,GlobalMax
 HOST-SUFFIX,youtubell.com,GlobalMax
+HOST-SUFFIX,youtubemobilesupport.com,GlobalMax
 HOST-SUFFIX,youtubemp3.scriptscraft.com,GlobalMax
 HOST-SUFFIX,youtubepp.com,GlobalMax
 HOST-SUFFIX,youtubetool.com,GlobalMax
