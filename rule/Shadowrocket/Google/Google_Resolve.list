@@ -1,12 +1,12 @@
 # NAME: Google
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-01-18 23:33:42
+# UPDATED: 2022-02-11 15:44:33
 # USER-AGENT: 3
-# DOMAIN-SUFFIX: 311
+# DOMAIN-SUFFIX: 310
 # DOMAIN-KEYWORD: 8
 # IP-CIDR: 2
-# TOTAL: 324
+# TOTAL: 323
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -39,7 +39,6 @@ DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,appbridge.ca
 DOMAIN-SUFFIX,appbridge.io
 DOMAIN-SUFFIX,appbridge.it
-DOMAIN-SUFFIX,appmeasurement.com
 DOMAIN-SUFFIX,apture.com
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,asp-cc.com
