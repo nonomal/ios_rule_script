@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:17
-# DOMAIN-SUFFIX: 72127
+# UPDATED: 2022-02-13 02:10:58
+# DOMAIN-SUFFIX: 72112
 # PROCESS-NAME: 5
-# DOMAIN: 81
-# IP-CIDR: 6177
+# DOMAIN: 80
+# IP-CIDR: 6178
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83886
+# TOTAL: 83871
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -64,13 +64,13 @@ payload:
   - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,opencourse.pku.edu.cn
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
-  - DOMAIN,pagead-googlehosted.l.google.com
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,productcard.gog-statics.com
   - DOMAIN,recaptcha.net
   - DOMAIN,redirector.gvt1.com
   - DOMAIN,regioninfo-pa.googleapis.com
   - DOMAIN,safebrowsing-cache.google.com
+  - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,ss.bjmu.edu.cn
   - DOMAIN,ssl-google-analytics.l.google.com
@@ -87,7 +87,6 @@ payload:
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,weizhiyundong.list
   - DOMAIN,www-google-analytics.l.google.com
-  - DOMAIN,www-googletagmanager.l.google.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www4-static.gog-statics.com
@@ -1612,7 +1611,6 @@ payload:
   - DOMAIN-SUFFIX,166cdn.com
   - DOMAIN-SUFFIX,166dns.com
   - DOMAIN-SUFFIX,166ks.net
-  - DOMAIN-SUFFIX,166sh.com
   - DOMAIN-SUFFIX,166xs.cc
   - DOMAIN-SUFFIX,166zw.com
   - DOMAIN-SUFFIX,16768.com
@@ -10998,7 +10996,6 @@ payload:
   - DOMAIN-SUFFIX,baiwutong.com
   - DOMAIN-SUFFIX,baixiangxiang.com
   - DOMAIN-SUFFIX,baixiaosheng.net
-  - DOMAIN-SUFFIX,baixing.com
   - DOMAIN-SUFFIX,baixing.net
   - DOMAIN-SUFFIX,baixingcdn.com
   - DOMAIN-SUFFIX,baixingfanli.com
@@ -14028,7 +14025,6 @@ payload:
   - DOMAIN-SUFFIX,caohua.com
   - DOMAIN-SUFFIX,caomeibook.com
   - DOMAIN-SUFFIX,caomeishuma.com
-  - DOMAIN-SUFFIX,caomeixz10.xyz
   - DOMAIN-SUFFIX,caomin5168.com
   - DOMAIN-SUFFIX,caotama.com
   - DOMAIN-SUFFIX,caoxianfc.com
@@ -20270,7 +20266,6 @@ payload:
   - DOMAIN-SUFFIX,dfss-club.com
   - DOMAIN-SUFFIX,dfstw.com
   - DOMAIN-SUFFIX,dfsyjm.com
-  - DOMAIN-SUFFIX,dftoutiao.com
   - DOMAIN-SUFFIX,dftq.net
   - DOMAIN-SUFFIX,dftzj.com
   - DOMAIN-SUFFIX,dfv5.net
@@ -21878,7 +21873,6 @@ payload:
   - DOMAIN-SUFFIX,dushu365.com
   - DOMAIN-SUFFIX,dushu369.com
   - DOMAIN-SUFFIX,dushudaren.com
-  - DOMAIN-SUFFIX,dushuge.net
   - DOMAIN-SUFFIX,dushuzhe.com
   - DOMAIN-SUFFIX,dushuzhong.com
   - DOMAIN-SUFFIX,dushw.com
@@ -27233,7 +27227,6 @@ payload:
   - DOMAIN-SUFFIX,gotoip2.com
   - DOMAIN-SUFFIX,gotoip3.com
   - DOMAIN-SUFFIX,gotoip4.com
-  - DOMAIN-SUFFIX,gotoip55.com
   - DOMAIN-SUFFIX,gotojp.net
   - DOMAIN-SUFFIX,gotokeep.com
   - DOMAIN-SUFFIX,gotonets.com
@@ -39198,7 +39191,6 @@ payload:
   - DOMAIN-SUFFIX,lbyczf.com
   - DOMAIN-SUFFIX,lbzuo.com
   - DOMAIN-SUFFIX,lc-cn-n1-npxfk.com
-  - DOMAIN-SUFFIX,lc-cn-n1-shared.com
   - DOMAIN-SUFFIX,lc-cn-n1-thovg.com
   - DOMAIN-SUFFIX,lc-news.com
   - DOMAIN-SUFFIX,lc123.net
@@ -51353,7 +51345,6 @@ payload:
   - DOMAIN-SUFFIX,scbyx.net
   - DOMAIN-SUFFIX,scbz.org
   - DOMAIN-SUFFIX,scbz120.com
-  - DOMAIN-SUFFIX,scc.ssacdn.com
   - DOMAIN-SUFFIX,scccyts.com
   - DOMAIN-SUFFIX,sccin.com
   - DOMAIN-SUFFIX,scclssj.com
@@ -56331,7 +56322,6 @@ payload:
   - DOMAIN-SUFFIX,taozaisheng.com
   - DOMAIN-SUFFIX,taozhutu.com
   - DOMAIN-SUFFIX,tapapis.com
-  - DOMAIN-SUFFIX,tapas.net
   - DOMAIN-SUFFIX,tapd.cn
   - DOMAIN-SUFFIX,tapdata.net
   - DOMAIN-SUFFIX,tapechat.net
@@ -59796,7 +59786,6 @@ payload:
   - DOMAIN-SUFFIX,videougc.com
   - DOMAIN-SUFFIX,videoyi.com
   - DOMAIN-SUFFIX,videoyx.com
-  - DOMAIN-SUFFIX,videozhishi.com
   - DOMAIN-SUFFIX,vidoadsplus.xyz
   - DOMAIN-SUFFIX,vienblog.com
   - DOMAIN-SUFFIX,viewones.com
@@ -61758,7 +61747,6 @@ payload:
   - DOMAIN-SUFFIX,whnatural.com
   - DOMAIN-SUFFIX,whnfc.com
   - DOMAIN-SUFFIX,whngd.org
-  - DOMAIN-SUFFIX,whoami.akamai.net
   - DOMAIN-SUFFIX,whoceansys.com
   - DOMAIN-SUFFIX,whocool.com
   - DOMAIN-SUFFIX,whoil.net
@@ -64443,7 +64431,6 @@ payload:
   - DOMAIN-SUFFIX,xifenggroup.com
   - DOMAIN-SUFFIX,xifengjiuzhaoshang.com
   - DOMAIN-SUFFIX,xifengwangzhan.com
-  - DOMAIN-SUFFIX,xifuquan.com
   - DOMAIN-SUFFIX,xifuwa.com
   - DOMAIN-SUFFIX,xigo.tv
   - DOMAIN-SUFFIX,xigua110.com
@@ -68769,7 +68756,6 @@ payload:
   - DOMAIN-SUFFIX,yunnut.com
   - DOMAIN-SUFFIX,yunos-inc.com
   - DOMAIN-SUFFIX,yunos-tv.com
-  - DOMAIN-SUFFIX,yunos.com
   - DOMAIN-SUFFIX,yunpan.cn
   - DOMAIN-SUFFIX,yunpan.com
   - DOMAIN-SUFFIX,yunpan.com.cn
@@ -69388,7 +69374,6 @@ payload:
   - DOMAIN-SUFFIX,zawomkv.com
   - DOMAIN-SUFFIX,zazhi.com
   - DOMAIN-SUFFIX,zazhiboss.com
-  - DOMAIN-SUFFIX,zazhipu.com
   - DOMAIN-SUFFIX,zazsz.com
   - DOMAIN-SUFFIX,zb-kc.com
   - DOMAIN-SUFFIX,zb1.org
@@ -71706,7 +71691,6 @@ payload:
   - DOMAIN-SUFFIX,ztfans.com
   - DOMAIN-SUFFIX,ztfsec.com
   - DOMAIN-SUFFIX,ztfssc.com
-  - DOMAIN-SUFFIX,ztgame.com
   - DOMAIN-SUFFIX,ztgy.org
   - DOMAIN-SUFFIX,zthxcf.com
   - DOMAIN-SUFFIX,ztinfoga.com
@@ -75338,7 +75322,8 @@ payload:
   - IP-CIDR,160.202.212.0/22
   - IP-CIDR,160.202.216.0/21
   - IP-CIDR,160.202.224.0/19
-  - IP-CIDR,160.202.60.0/22
+  - IP-CIDR,160.202.60.0/23
+  - IP-CIDR,160.202.62.0/24
   - IP-CIDR,160.238.64.0/22
   - IP-CIDR,160.62.10.0/24
   - IP-CIDR,160.83.109.0/24

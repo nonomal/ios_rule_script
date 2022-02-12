@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:16
-# DOMAIN-SUFFIX: 72127
+# UPDATED: 2022-02-13 02:10:57
+# DOMAIN-SUFFIX: 72112
 # PROCESS-NAME: 5
-# DOMAIN: 81
-# IP-CIDR: 6177
+# DOMAIN: 80
+# IP-CIDR: 6178
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83886
+# TOTAL: 83871
 payload:
   - '265.com'
   - 'adservice.google.com'
@@ -64,13 +64,13 @@ payload:
   - 'officecdn-microsoft-com.akamaized.net'
   - 'opencourse.pku.edu.cn'
   - 'p16-tiktokcdn-com.akamaized.net'
-  - 'pagead-googlehosted.l.google.com'
   - 'pki-goog.l.google.com'
   - 'productcard.gog-statics.com'
   - 'recaptcha.net'
   - 'redirector.gvt1.com'
   - 'regioninfo-pa.googleapis.com'
   - 'safebrowsing-cache.google.com'
+  - 'safebrowsing.googleapis.com'
   - 'sms.imagetasks.com'
   - 'ss.bjmu.edu.cn'
   - 'ssl-google-analytics.l.google.com'
@@ -87,7 +87,6 @@ payload:
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   - 'weizhiyundong.list'
   - 'www-google-analytics.l.google.com'
-  - 'www-googletagmanager.l.google.com'
   - 'www.gstatic.com'
   - 'www.recaptcha.net'
   - 'www4-static.gog-statics.com'
@@ -1612,7 +1611,6 @@ payload:
   - '+.166cdn.com'
   - '+.166dns.com'
   - '+.166ks.net'
-  - '+.166sh.com'
   - '+.166xs.cc'
   - '+.166zw.com'
   - '+.16768.com'
@@ -10998,7 +10996,6 @@ payload:
   - '+.baiwutong.com'
   - '+.baixiangxiang.com'
   - '+.baixiaosheng.net'
-  - '+.baixing.com'
   - '+.baixing.net'
   - '+.baixingcdn.com'
   - '+.baixingfanli.com'
@@ -14028,7 +14025,6 @@ payload:
   - '+.caohua.com'
   - '+.caomeibook.com'
   - '+.caomeishuma.com'
-  - '+.caomeixz10.xyz'
   - '+.caomin5168.com'
   - '+.caotama.com'
   - '+.caoxianfc.com'
@@ -20270,7 +20266,6 @@ payload:
   - '+.dfss-club.com'
   - '+.dfstw.com'
   - '+.dfsyjm.com'
-  - '+.dftoutiao.com'
   - '+.dftq.net'
   - '+.dftzj.com'
   - '+.dfv5.net'
@@ -21878,7 +21873,6 @@ payload:
   - '+.dushu365.com'
   - '+.dushu369.com'
   - '+.dushudaren.com'
-  - '+.dushuge.net'
   - '+.dushuzhe.com'
   - '+.dushuzhong.com'
   - '+.dushw.com'
@@ -27233,7 +27227,6 @@ payload:
   - '+.gotoip2.com'
   - '+.gotoip3.com'
   - '+.gotoip4.com'
-  - '+.gotoip55.com'
   - '+.gotojp.net'
   - '+.gotokeep.com'
   - '+.gotonets.com'
@@ -39198,7 +39191,6 @@ payload:
   - '+.lbyczf.com'
   - '+.lbzuo.com'
   - '+.lc-cn-n1-npxfk.com'
-  - '+.lc-cn-n1-shared.com'
   - '+.lc-cn-n1-thovg.com'
   - '+.lc-news.com'
   - '+.lc123.net'
@@ -51353,7 +51345,6 @@ payload:
   - '+.scbyx.net'
   - '+.scbz.org'
   - '+.scbz120.com'
-  - '+.scc.ssacdn.com'
   - '+.scccyts.com'
   - '+.sccin.com'
   - '+.scclssj.com'
@@ -56331,7 +56322,6 @@ payload:
   - '+.taozaisheng.com'
   - '+.taozhutu.com'
   - '+.tapapis.com'
-  - '+.tapas.net'
   - '+.tapd.cn'
   - '+.tapdata.net'
   - '+.tapechat.net'
@@ -59796,7 +59786,6 @@ payload:
   - '+.videougc.com'
   - '+.videoyi.com'
   - '+.videoyx.com'
-  - '+.videozhishi.com'
   - '+.vidoadsplus.xyz'
   - '+.vienblog.com'
   - '+.viewones.com'
@@ -61758,7 +61747,6 @@ payload:
   - '+.whnatural.com'
   - '+.whnfc.com'
   - '+.whngd.org'
-  - '+.whoami.akamai.net'
   - '+.whoceansys.com'
   - '+.whocool.com'
   - '+.whoil.net'
@@ -64443,7 +64431,6 @@ payload:
   - '+.xifenggroup.com'
   - '+.xifengjiuzhaoshang.com'
   - '+.xifengwangzhan.com'
-  - '+.xifuquan.com'
   - '+.xifuwa.com'
   - '+.xigo.tv'
   - '+.xigua110.com'
@@ -68769,7 +68756,6 @@ payload:
   - '+.yunnut.com'
   - '+.yunos-inc.com'
   - '+.yunos-tv.com'
-  - '+.yunos.com'
   - '+.yunpan.cn'
   - '+.yunpan.com'
   - '+.yunpan.com.cn'
@@ -69388,7 +69374,6 @@ payload:
   - '+.zawomkv.com'
   - '+.zazhi.com'
   - '+.zazhiboss.com'
-  - '+.zazhipu.com'
   - '+.zazsz.com'
   - '+.zb-kc.com'
   - '+.zb1.org'
@@ -71706,7 +71691,6 @@ payload:
   - '+.ztfans.com'
   - '+.ztfsec.com'
   - '+.ztfssc.com'
-  - '+.ztgame.com'
   - '+.ztgy.org'
   - '+.zthxcf.com'
   - '+.ztinfoga.com'
