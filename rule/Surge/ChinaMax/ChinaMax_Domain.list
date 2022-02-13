@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-13 02:10:53
+# UPDATED: 2022-02-14 02:10:24
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72112
+# DOMAIN-SUFFIX: 72119
 # PROCESS-NAME: 5
-# DOMAIN: 80
-# IP-CIDR: 6178
+# DOMAIN: 82
+# IP-CIDR: 6177
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83933
+# TOTAL: 83941
 265.com
 adservice.google.com
 analytics.strava.com
@@ -63,6 +63,8 @@ mtalk.google.com
 ocsp.pki.goog
 officecdn-microsoft-com.akamaized.net
 opencourse.pku.edu.cn
+origin-a.akamaihd.ne
+origin-a.akamaihd.net
 p16-tiktokcdn-com.akamaized.net
 pki-goog.l.google.com
 productcard.gog-statics.com
@@ -15666,6 +15668,7 @@ www4-static.gog-statics.com
 .chinabn.org
 .chinabnet.cn
 .chinabookinternational.org
+.chinabooktrading.com
 .chinabreed.com
 .chinabroadcast.cn
 .chinabug.net
@@ -18508,6 +18511,7 @@ www4-static.gog-statics.com
 .crfchina.com
 .crfsdi.com
 .crgecent.com
+.crggcn.com
 .crgy.com
 .cri-grandera.com
 .cri-on.com
@@ -33399,6 +33403,7 @@ www4-static.gog-statics.com
 .incake.net
 .incensechina.com
 .incloudexpo.com
+.incopat.com
 .incoto.com
 .incsg.com
 .ind-app-comp.com
@@ -40512,7 +40517,6 @@ www4-static.gog-statics.com
 .llzg.com
 .llzw888.com
 .lm284.com
-.lm811.com
 .lm9999.com
 .lmacc.com
 .lmanmo.com
@@ -44767,6 +44771,7 @@ www4-static.gog-statics.com
 .neoease.com
 .neoease.org
 .neofussvr.sslcs.cdngc.net
+.neohytung.com
 .neojos.com
 .neokylinschool.com
 .neolee.com
@@ -45311,6 +45316,7 @@ www4-static.gog-statics.com
 .nmimi.com
 .nmkjxy.com
 .nmmwz.com
+.nmrdata.com
 .nmszjy.com
 .nmtyxy.com
 .nmvps.com
@@ -46875,6 +46881,7 @@ www4-static.gog-statics.com
 .paylf.com
 .paymax.cc
 .paympay.com
+.paypal-mktg.com
 .paypal.me
 .payrao.com
 .paysapi.com
@@ -58497,6 +58504,7 @@ www4-static.gog-statics.com
 .twofei.com
 .tworice.com
 .twsapp.com
+.twscholar.com
 .twtstudio.com
 .twtym.com
 .twwtn.com
@@ -61416,6 +61424,7 @@ www4-static.gog-statics.com
 .wenxi777.com
 .wenxiang.org
 .wenxiaoyou.com
+.wenxin-ge.com
 .wenxingfilter.com
 .wenxiu.com
 .wenxiu998.com

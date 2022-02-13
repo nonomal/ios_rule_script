@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-13 02:10:58
-# DOMAIN-SUFFIX: 72112
+# UPDATED: 2022-02-14 02:10:29
+# DOMAIN-SUFFIX: 72119
 # PROCESS-NAME: 5
-# DOMAIN: 80
-# IP-CIDR: 6178
+# DOMAIN: 82
+# IP-CIDR: 6177
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83871
+# TOTAL: 83879
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -63,6 +63,8 @@ payload:
   - DOMAIN,ocsp.pki.goog
   - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,opencourse.pku.edu.cn
+  - DOMAIN,origin-a.akamaihd.ne
+  - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,productcard.gog-statics.com
@@ -15666,6 +15668,7 @@ payload:
   - DOMAIN-SUFFIX,chinabn.org
   - DOMAIN-SUFFIX,chinabnet.cn
   - DOMAIN-SUFFIX,chinabookinternational.org
+  - DOMAIN-SUFFIX,chinabooktrading.com
   - DOMAIN-SUFFIX,chinabreed.com
   - DOMAIN-SUFFIX,chinabroadcast.cn
   - DOMAIN-SUFFIX,chinabug.net
@@ -18508,6 +18511,7 @@ payload:
   - DOMAIN-SUFFIX,crfchina.com
   - DOMAIN-SUFFIX,crfsdi.com
   - DOMAIN-SUFFIX,crgecent.com
+  - DOMAIN-SUFFIX,crggcn.com
   - DOMAIN-SUFFIX,crgy.com
   - DOMAIN-SUFFIX,cri-grandera.com
   - DOMAIN-SUFFIX,cri-on.com
@@ -33399,6 +33403,7 @@ payload:
   - DOMAIN-SUFFIX,incake.net
   - DOMAIN-SUFFIX,incensechina.com
   - DOMAIN-SUFFIX,incloudexpo.com
+  - DOMAIN-SUFFIX,incopat.com
   - DOMAIN-SUFFIX,incoto.com
   - DOMAIN-SUFFIX,incsg.com
   - DOMAIN-SUFFIX,ind-app-comp.com
@@ -40512,7 +40517,6 @@ payload:
   - DOMAIN-SUFFIX,llzg.com
   - DOMAIN-SUFFIX,llzw888.com
   - DOMAIN-SUFFIX,lm284.com
-  - DOMAIN-SUFFIX,lm811.com
   - DOMAIN-SUFFIX,lm9999.com
   - DOMAIN-SUFFIX,lmacc.com
   - DOMAIN-SUFFIX,lmanmo.com
@@ -44767,6 +44771,7 @@ payload:
   - DOMAIN-SUFFIX,neoease.com
   - DOMAIN-SUFFIX,neoease.org
   - DOMAIN-SUFFIX,neofussvr.sslcs.cdngc.net
+  - DOMAIN-SUFFIX,neohytung.com
   - DOMAIN-SUFFIX,neojos.com
   - DOMAIN-SUFFIX,neokylinschool.com
   - DOMAIN-SUFFIX,neolee.com
@@ -45311,6 +45316,7 @@ payload:
   - DOMAIN-SUFFIX,nmimi.com
   - DOMAIN-SUFFIX,nmkjxy.com
   - DOMAIN-SUFFIX,nmmwz.com
+  - DOMAIN-SUFFIX,nmrdata.com
   - DOMAIN-SUFFIX,nmszjy.com
   - DOMAIN-SUFFIX,nmtyxy.com
   - DOMAIN-SUFFIX,nmvps.com
@@ -46875,6 +46881,7 @@ payload:
   - DOMAIN-SUFFIX,paylf.com
   - DOMAIN-SUFFIX,paymax.cc
   - DOMAIN-SUFFIX,paympay.com
+  - DOMAIN-SUFFIX,paypal-mktg.com
   - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,payrao.com
   - DOMAIN-SUFFIX,paysapi.com
@@ -58497,6 +58504,7 @@ payload:
   - DOMAIN-SUFFIX,twofei.com
   - DOMAIN-SUFFIX,tworice.com
   - DOMAIN-SUFFIX,twsapp.com
+  - DOMAIN-SUFFIX,twscholar.com
   - DOMAIN-SUFFIX,twtstudio.com
   - DOMAIN-SUFFIX,twtym.com
   - DOMAIN-SUFFIX,twwtn.com
@@ -61416,6 +61424,7 @@ payload:
   - DOMAIN-SUFFIX,wenxi777.com
   - DOMAIN-SUFFIX,wenxiang.org
   - DOMAIN-SUFFIX,wenxiaoyou.com
+  - DOMAIN-SUFFIX,wenxin-ge.com
   - DOMAIN-SUFFIX,wenxingfilter.com
   - DOMAIN-SUFFIX,wenxiu.com
   - DOMAIN-SUFFIX,wenxiu998.com
@@ -75322,8 +75331,7 @@ payload:
   - IP-CIDR,160.202.212.0/22
   - IP-CIDR,160.202.216.0/21
   - IP-CIDR,160.202.224.0/19
-  - IP-CIDR,160.202.60.0/23
-  - IP-CIDR,160.202.62.0/24
+  - IP-CIDR,160.202.60.0/22
   - IP-CIDR,160.238.64.0/22
   - IP-CIDR,160.62.10.0/24
   - IP-CIDR,160.83.109.0/24

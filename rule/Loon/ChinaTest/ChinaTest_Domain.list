@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:16
-# DOMAIN-SUFFIX: 68492
-# DOMAIN: 85
+# UPDATED: 2022-02-14 02:10:26
+# DOMAIN-SUFFIX: 68500
+# DOMAIN: 87
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # USER-AGENT: 31
 # IP-CIDR6: 4
-# TOTAL: 68628
+# TOTAL: 68638
 265.com
 2mdn.net
 adservice.google.com
@@ -65,6 +65,8 @@ mtalk.google.com
 ocsp.pki.goog
 officecdn-microsoft-com.akamaized.net
 opencourse.pku.edu.cn
+origin-a.akamaihd.ne
+origin-a.akamaihd.net
 p16-tiktokcdn-com.akamaized.net
 pagead-googlehosted.l.google.com
 pki-goog.l.google.com
@@ -15065,6 +15067,7 @@ www4-static.gog-statics.com
 .chinabmi.com
 .chinabn.org
 .chinabookinternational.org
+.chinabooktrading.com
 .chinabreed.com
 .chinabug.net
 .chinabus.info
@@ -17719,6 +17722,7 @@ www4-static.gog-statics.com
 .crfchina.com
 .crfsdi.com
 .crgecent.com
+.crggcn.com
 .crgy.com
 .cric.com
 .cric2009.com
@@ -31646,6 +31650,7 @@ www4-static.gog-statics.com
 .incake.net
 .incensechina.com
 .incloudexpo.com
+.incopat.com
 .incoto.com
 .incsg.com
 .ind-app-comp.com
@@ -42508,6 +42513,7 @@ www4-static.gog-statics.com
 .neoease.com
 .neoease.org
 .neofussvr.sslcs.cdngc.net
+.neohytung.com
 .neojos.com
 .neokylinschool.com
 .neolee.com
@@ -43029,6 +43035,7 @@ www4-static.gog-statics.com
 .nmimi.com
 .nmkjxy.com
 .nmmwz.com
+.nmrdata.com
 .nmszjy.com
 .nmtyxy.com
 .nmvps.com
@@ -44481,6 +44488,7 @@ www4-static.gog-statics.com
 .paylf.com
 .paymax.cc
 .paympay.com
+.paypal-mktg.com
 .paypal.me
 .payrao.com
 .paysapi.com
@@ -55476,6 +55484,7 @@ www4-static.gog-statics.com
 .twofei.com
 .tworice.com
 .twsapp.com
+.twscholar.com
 .twtstudio.com
 .twtym.com
 .twwtn.com
@@ -58237,6 +58246,7 @@ www4-static.gog-statics.com
 .wenxi777.com
 .wenxiang.org
 .wenxiaoyou.com
+.wenxin-ge.com
 .wenxingfilter.com
 .wenxiu.com
 .wenxiu998.com

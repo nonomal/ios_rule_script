@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-13 02:10:55
+# UPDATED: 2022-02-14 02:10:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 45891
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77486
+# DOMAIN-SUFFIX: 77505
 # IP-CIDR: 257
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 124023
+# TOTAL: 124042
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -47375,6 +47375,7 @@ zzzrtrcm2.com
 .4kyu.cn
 .4link.it
 .4mads.com
+.4mugah0.cn
 .4n1hqmcoms.rest
 .4name.com
 .4nb437eugn.ru.com
@@ -56951,6 +56952,7 @@ zzzrtrcm2.com
 .awsurveys.com
 .awtks.com
 .awtvnrgwxletd.com
+.awwlcx.cn
 .awwlfb.cn
 .awwlrd.cn
 .awxoddnhl.xyz
@@ -58693,6 +58695,7 @@ zzzrtrcm2.com
 .bfdcdn.com
 .bfdtt.com
 .bfe4e6d364be199.com
+.bff6b409f7.com
 .bfgg365.com
 .bfgvqx.com
 .bfmio.com
@@ -61024,6 +61027,7 @@ zzzrtrcm2.com
 .carriedmycosis.com
 .cars-to-buy.com
 .carscannon.com
+.carset.vip
 .carsickstrodeproductive.com
 .carstat.bitauto.com
 .carswellmedia.thomsonreuterscanada.ca
@@ -64901,6 +64905,7 @@ zzzrtrcm2.com
 .csiasvapqrccq.com
 .csjs.ltd
 .csjuq.com
+.csjwawe.top
 .csmads.gameclick.vn
 .csnem.ru
 .csp-collector.appspot.com
@@ -65903,6 +65908,7 @@ zzzrtrcm2.com
 .d830x8j3o1b2k.cloudfront.net
 .d8360.com
 .d869381a42af33b.com
+.d87c82a1da.com
 .d8885.com
 .d899.webazilla.com
 .d8acddffe978b5dfcae6.date
@@ -73353,6 +73359,7 @@ zzzrtrcm2.com
 .futuristicfifth.com
 .futuristicfold.com
 .fuuze.net
+.fuwche.cn
 .fuwosi.cn
 .fuxin-tech.com
 .fuxoasim.link
@@ -74394,6 +74401,7 @@ zzzrtrcm2.com
 .gg.jtertp.com
 .gg.kugou.com
 .gg.meitu.com
+.gg.miinaa.com
 .gg.miued.com
 .gg.ptfish.com
 .gg.sonhoo.com
@@ -76038,6 +76046,7 @@ zzzrtrcm2.com
 .haidaocn.com
 .haidongqing.top
 .haig7anax.com
+.haigou.life
 .hailiao520.com
 .haimaokj.com
 .hainufamliy.top
@@ -81155,6 +81164,7 @@ zzzrtrcm2.com
 .jmxlaser.com
 .jmxpgmmbbnvfxr.xyz
 .jn1biifafz.cn
+.jnbvckgophfkop.com
 .jncacp.cn
 .jnclym4.cn
 .jndczg.com
@@ -84563,6 +84573,7 @@ zzzrtrcm2.com
 .lm665.com
 .lm685.com
 .lm789456.com
+.lm811.com
 .lm832.com
 .lm865.com
 .lm881.com
@@ -109374,6 +109385,7 @@ zzzrtrcm2.com
 .svsub.com
 .svszpr.planeta-sport.ru
 .svtrd.com
+.svvbrkk.cn
 .svwsvn.top
 .svyksa.info
 .sw-rail-7.com
@@ -110282,6 +110294,7 @@ zzzrtrcm2.com
 .taose06.com
 .taou.cn
 .taouxis.gr
+.taoyao.tech
 .taoyinbiacid.com
 .taoyouhuiquan.top
 .taoyuay.top
@@ -111506,6 +111519,8 @@ zzzrtrcm2.com
 .titan01.babytree.com
 .titanads1.com
 .titanads2.com
+.titanads3.com
+.titanads4.com
 .titanads5.com
 .titanpoker.com
 .tithephustu.com
@@ -114629,6 +114644,7 @@ zzzrtrcm2.com
 .ty229.com
 .tybfxw.puma.com
 .tyboyyli.xyz
+.tycc.info
 .tydd.hunterwish.cn
 .tyewrukjyjyl.com
 .tygafso.com
@@ -118364,6 +118380,7 @@ zzzrtrcm2.com
 .whexamipta.com
 .whezogrewha.com
 .whfpbc.99.com.cn
+.whfyhouse.com
 .whhepyd.cn
 .whhrux.com
 .whhxnz.com
@@ -118768,6 +118785,7 @@ zzzrtrcm2.com
 .wlmhdk.cn
 .wlnrofikppw.xyz
 .wlshotel.cn
+.wlwblog.top
 .wlwtcr.toptoon.com
 .wlxzzx.cn
 .wlyeo90l.pro
@@ -120948,6 +120966,7 @@ zzzrtrcm2.com
 .xvhvm.top
 .xvideosharing.site
 .xvika.com
+.xviperonec.com
 .xvmvvh.zcrqsfq.biz
 .xvnfyutv.com
 .xvqaz.com

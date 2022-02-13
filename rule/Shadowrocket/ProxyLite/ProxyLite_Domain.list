@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-12 02:10:57
-# DOMAIN-SUFFIX: 32770
+# UPDATED: 2022-02-14 02:10:30
+# DOMAIN-SUFFIX: 32762
 # USER-AGENT: 5
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 91
-# TOTAL: 32927
+# TOTAL: 32919
 api-p.videomarket.jp
 api.waqi.info
 apple.com.akadns.net
@@ -3688,7 +3688,6 @@ www-cdn.icloud.com.akadns.net
 .appl.com
 .appl4e.com
 .appla.com
-.appldnld.g.aaplimg.com
 .apple-darwin.com
 .apple-darwin.net
 .apple-darwin.org
@@ -3698,7 +3697,6 @@ www-cdn.icloud.com.akadns.net
 .apple-hk.com
 .apple-imac.com
 .apple-inc.net
-.apple-mapkit.com
 .apple-online.com
 .apple-pay.com
 .apple-pay.rs
@@ -3708,8 +3706,6 @@ www-cdn.icloud.com.akadns.net
 .apple-usa.net
 .apple.be
 .apple.ch
-.apple.co
-.apple.com
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -3783,7 +3779,6 @@ www-cdn.icloud.com.akadns.net
 .applemasters.info
 .applemusic.berlin
 .applemusic.co
-.applemusic.com
 .applemusic.hamburg
 .applemusic.wang
 .applemusicconnect.com
@@ -14859,7 +14854,6 @@ www-cdn.icloud.com.akadns.net
 .itunes-apple.com.akadns.net
 .itunes-radio.net
 .itunes.co
-.itunes.com
 .itunes.org
 .itunes.rio
 .itunes12days.com
@@ -17291,7 +17285,6 @@ www-cdn.icloud.com.akadns.net
 .messenger.providesupport.com
 .messenger.providesupport.net
 .messengerdevelopers.com
-.mesu-cdn.apple.com.akadns.net
 .mesu-china.apple.com.akadns.net
 .met-art.com
 .metacafe.com
@@ -19284,7 +19277,6 @@ www-cdn.icloud.com.akadns.net
 .ocreampies.com
 .ocregister.com
 .ocry.com
-.ocsp-lb.apple.com.akadns.net
 .october-review.org
 .octoteam.com
 .octrev.mysrvnet.com

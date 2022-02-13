@@ -1,13 +1,13 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:16
+# UPDATED: 2022-02-14 02:10:28
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 89
+# DOMAIN-SUFFIX: 90
 # DOMAIN-KEYWORD: 7
 # PROCESS-NAME: 6
 # IP-CIDR: 10
-# TOTAL: 115
+# TOTAL: 116
 payload:
   - DOMAIN,api.smoot.apple.cn
   - DOMAIN,apple-events.akamaized.net
@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,appledaily.com.tw
   - DOMAIN-SUFFIX,appledaily.hk
   - DOMAIN-SUFFIX,appleicloud.cn
+  - DOMAIN-SUFFIX,applemusic.com
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,appstore.com

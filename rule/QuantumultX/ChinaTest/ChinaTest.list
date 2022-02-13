@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:15
-# HOST-SUFFIX: 68492
-# HOST: 85
+# UPDATED: 2022-02-14 02:10:25
+# HOST-SUFFIX: 68500
+# HOST: 87
 # IP-CIDR: 6
 # HOST-KEYWORD: 10
 # USER-AGENT: 31
 # IP6-CIDR: 4
-# TOTAL: 68628
+# TOTAL: 68638
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -65,6 +65,8 @@ HOST,mtalk.google.com,ChinaTest
 HOST,ocsp.pki.goog,ChinaTest
 HOST,officecdn-microsoft-com.akamaized.net,ChinaTest
 HOST,opencourse.pku.edu.cn,ChinaTest
+HOST,origin-a.akamaihd.ne,ChinaTest
+HOST,origin-a.akamaihd.net,ChinaTest
 HOST,p16-tiktokcdn-com.akamaized.net,ChinaTest
 HOST,pagead-googlehosted.l.google.com,ChinaTest
 HOST,pki-goog.l.google.com,ChinaTest
@@ -15065,6 +15067,7 @@ HOST-SUFFIX,chinabimdata.org,ChinaTest
 HOST-SUFFIX,chinabmi.com,ChinaTest
 HOST-SUFFIX,chinabn.org,ChinaTest
 HOST-SUFFIX,chinabookinternational.org,ChinaTest
+HOST-SUFFIX,chinabooktrading.com,ChinaTest
 HOST-SUFFIX,chinabreed.com,ChinaTest
 HOST-SUFFIX,chinabug.net,ChinaTest
 HOST-SUFFIX,chinabus.info,ChinaTest
@@ -17719,6 +17722,7 @@ HOST-SUFFIX,crewcn.com,ChinaTest
 HOST-SUFFIX,crfchina.com,ChinaTest
 HOST-SUFFIX,crfsdi.com,ChinaTest
 HOST-SUFFIX,crgecent.com,ChinaTest
+HOST-SUFFIX,crggcn.com,ChinaTest
 HOST-SUFFIX,crgy.com,ChinaTest
 HOST-SUFFIX,cric.com,ChinaTest
 HOST-SUFFIX,cric2009.com,ChinaTest
@@ -31646,6 +31650,7 @@ HOST-SUFFIX,inc365.com,ChinaTest
 HOST-SUFFIX,incake.net,ChinaTest
 HOST-SUFFIX,incensechina.com,ChinaTest
 HOST-SUFFIX,incloudexpo.com,ChinaTest
+HOST-SUFFIX,incopat.com,ChinaTest
 HOST-SUFFIX,incoto.com,ChinaTest
 HOST-SUFFIX,incsg.com,ChinaTest
 HOST-SUFFIX,ind-app-comp.com,ChinaTest
@@ -42508,6 +42513,7 @@ HOST-SUFFIX,neobiochina.com,ChinaTest
 HOST-SUFFIX,neoease.com,ChinaTest
 HOST-SUFFIX,neoease.org,ChinaTest
 HOST-SUFFIX,neofussvr.sslcs.cdngc.net,ChinaTest
+HOST-SUFFIX,neohytung.com,ChinaTest
 HOST-SUFFIX,neojos.com,ChinaTest
 HOST-SUFFIX,neokylinschool.com,ChinaTest
 HOST-SUFFIX,neolee.com,ChinaTest
@@ -43029,6 +43035,7 @@ HOST-SUFFIX,nmhrjy.com,ChinaTest
 HOST-SUFFIX,nmimi.com,ChinaTest
 HOST-SUFFIX,nmkjxy.com,ChinaTest
 HOST-SUFFIX,nmmwz.com,ChinaTest
+HOST-SUFFIX,nmrdata.com,ChinaTest
 HOST-SUFFIX,nmszjy.com,ChinaTest
 HOST-SUFFIX,nmtyxy.com,ChinaTest
 HOST-SUFFIX,nmvps.com,ChinaTest
@@ -44481,6 +44488,7 @@ HOST-SUFFIX,payeco.com,ChinaTest
 HOST-SUFFIX,paylf.com,ChinaTest
 HOST-SUFFIX,paymax.cc,ChinaTest
 HOST-SUFFIX,paympay.com,ChinaTest
+HOST-SUFFIX,paypal-mktg.com,ChinaTest
 HOST-SUFFIX,paypal.me,ChinaTest
 HOST-SUFFIX,payrao.com,ChinaTest
 HOST-SUFFIX,paysapi.com,ChinaTest
@@ -55476,6 +55484,7 @@ HOST-SUFFIX,twocucao.xyz,ChinaTest
 HOST-SUFFIX,twofei.com,ChinaTest
 HOST-SUFFIX,tworice.com,ChinaTest
 HOST-SUFFIX,twsapp.com,ChinaTest
+HOST-SUFFIX,twscholar.com,ChinaTest
 HOST-SUFFIX,twtstudio.com,ChinaTest
 HOST-SUFFIX,twtym.com,ChinaTest
 HOST-SUFFIX,twwtn.com,ChinaTest
@@ -58237,6 +58246,7 @@ HOST-SUFFIX,wenwuchina.com,ChinaTest
 HOST-SUFFIX,wenxi777.com,ChinaTest
 HOST-SUFFIX,wenxiang.org,ChinaTest
 HOST-SUFFIX,wenxiaoyou.com,ChinaTest
+HOST-SUFFIX,wenxin-ge.com,ChinaTest
 HOST-SUFFIX,wenxingfilter.com,ChinaTest
 HOST-SUFFIX,wenxiu.com,ChinaTest
 HOST-SUFFIX,wenxiu998.com,ChinaTest

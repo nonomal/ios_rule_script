@@ -15,16 +15,16 @@ GlobalMedia分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请�
 
 ## 规则统计
 
-总计规则：1181 条。
+总计规则：1219 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 41 |
+| DOMAIN | 42 |
 | USER-AGENT | 65 |
-| DOMAIN-SUFFIX | 189 |
-| DOMAIN-KEYWORD | 22 |
+| DOMAIN-SUFFIX | 225 |
+| DOMAIN-KEYWORD | 23 |
 | IP-CIDR | 863 |
 | URL-REGEX | 1 |
 ## 配置说明

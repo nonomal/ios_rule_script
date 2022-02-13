@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-13 02:10:56
+# UPDATED: 2022-02-14 02:10:27
 # DOMAIN: 45262
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 86371
+# DOMAIN-SUFFIX: 86392
 # IP-CIDR: 257
 # IP-CIDR6: 1
-# TOTAL: 131977
+# TOTAL: 131998
 payload:
   - '0000mps.webpreview.dsl.net'
   - '0001.2waky.com'
@@ -46882,6 +46882,7 @@ payload:
   - '+.4kyu.cn'
   - '+.4link.it'
   - '+.4mads.com'
+  - '+.4mugah0.cn'
   - '+.4n1hqmcoms.rest'
   - '+.4name.com'
   - '+.4nb437eugn.ru.com'
@@ -49346,6 +49347,7 @@ payload:
   - '+.ablsrv.com'
   - '+.abluvdiscr.com'
   - '+.ablybeastssarcastic.com'
+  - '+.ablyft.com'
   - '+.ablymechan.club'
   - '+.abmail.test.iheart.com'
   - '+.abmail2.e.hungryjacks.com.au'
@@ -57722,6 +57724,7 @@ payload:
   - '+.awsurveys.com'
   - '+.awtks.com'
   - '+.awtvnrgwxletd.com'
+  - '+.awwlcx.cn'
   - '+.awwlfb.cn'
   - '+.awwlrd.cn'
   - '+.awxoddnhl.xyz'
@@ -58576,6 +58579,7 @@ payload:
   - '+.bannerserver.com'
   - '+.bannersgomlm.com'
   - '+.bannershotlink.perfectgonzo.com'
+  - '+.bannersmall.com'
   - '+.bannersmania.com'
   - '+.bannersnack.com'
   - '+.bannersng.yell.com'
@@ -59637,6 +59641,7 @@ payload:
   - '+.bfdcdn.com'
   - '+.bfdtt.com'
   - '+.bfe4e6d364be199.com'
+  - '+.bff6b409f7.com'
   - '+.bfgg365.com'
   - '+.bfgvqx.com'
   - '+.bfmio.com'
@@ -62215,6 +62220,7 @@ payload:
   - '+.cars-to-buy.com'
   - '+.cars.fyidriving.com'
   - '+.carscannon.com'
+  - '+.carset.vip'
   - '+.carsickstrodeproductive.com'
   - '+.carstat.bitauto.com'
   - '+.carswellmedia.thomsonreuterscanada.ca'
@@ -66621,6 +66627,7 @@ payload:
   - '+.csiasvapqrccq.com'
   - '+.csjs.ltd'
   - '+.csjuq.com'
+  - '+.csjwawe.top'
   - '+.csmads.gameclick.vn'
   - '+.csmetrics.wilton.com'
   - '+.csnd.xyz'
@@ -67689,6 +67696,7 @@ payload:
   - '+.d830x8j3o1b2k.cloudfront.net'
   - '+.d8360.com'
   - '+.d869381a42af33b.com'
+  - '+.d87c82a1da.com'
   - '+.d8885.com'
   - '+.d899.webazilla.com'
   - '+.d8acddffe978b5dfcae6.date'
@@ -77237,6 +77245,7 @@ payload:
   - '+.gg.jtertp.com'
   - '+.gg.kugou.com'
   - '+.gg.meitu.com'
+  - '+.gg.miinaa.com'
   - '+.gg.miued.com'
   - '+.gg.ptfish.com'
   - '+.gg.sonhoo.com'
@@ -79072,6 +79081,7 @@ payload:
   - '+.haidaocn.com'
   - '+.haidongqing.top'
   - '+.haig7anax.com'
+  - '+.haigou.life'
   - '+.hail-reporting.tutelatechnologies.com'
   - '+.hailiao520.com'
   - '+.hailsserien.top'
@@ -84701,6 +84711,7 @@ payload:
   - '+.jmxlaser.com'
   - '+.jmxpgmmbbnvfxr.xyz'
   - '+.jn1biifafz.cn'
+  - '+.jnbvckgophfkop.com'
   - '+.jncacp.cn'
   - '+.jnclym4.cn'
   - '+.jnctgldbxc.com'
@@ -88411,6 +88422,7 @@ payload:
   - '+.lm665.com'
   - '+.lm685.com'
   - '+.lm789456.com'
+  - '+.lm811.com'
   - '+.lm832.com'
   - '+.lm865.com'
   - '+.lm881.com'
@@ -95801,6 +95813,7 @@ payload:
   - '+.mzokqm.cn'
   - '+.mzol7lbm.com'
   - '+.mzwfu.xyz'
+  - '+.mzwfw.club'
   - '+.mzxun.com'
   - '+.mzy2014.com'
   - '+.mzya5718.xyz'
@@ -107533,6 +107546,7 @@ payload:
   - '+.ryuosy.com'
   - '+.ryushare.com'
   - '+.ryvapi.fragrancenet.com'
+  - '+.rywnvzd.cn'
   - '+.rywoments.info'
   - '+.ryxfyjvcdugdf.com'
   - '+.ryynoljdarrw.com'
@@ -116370,6 +116384,7 @@ payload:
   - '+.svsub.com'
   - '+.svszpr.planeta-sport.ru'
   - '+.svtrd.com'
+  - '+.svvbrkk.cn'
   - '+.svwsvn.top'
   - '+.svyksa.info'
   - '+.sw-rail-7.com'
@@ -118754,6 +118769,8 @@ payload:
   - '+.titan01.babytree.com'
   - '+.titanads1.com'
   - '+.titanads2.com'
+  - '+.titanads3.com'
+  - '+.titanads4.com'
   - '+.titanads5.com'
   - '+.titanpoker.com'
   - '+.tithephustu.com'
@@ -126216,6 +126233,7 @@ payload:
   - '+.whexamipta.com'
   - '+.whezogrewha.com'
   - '+.whfpbc.99.com.cn'
+  - '+.whfyhouse.com'
   - '+.whhd.gov.cn'
   - '+.whhepyd.cn'
   - '+.whhrux.com'
@@ -126709,6 +126727,7 @@ payload:
   - '+.wlnrofikppw.xyz'
   - '+.wlptux.habitaclia.com'
   - '+.wlshotel.cn'
+  - '+.wlwblog.top'
   - '+.wlwtcr.toptoon.com'
   - '+.wlxzzx.cn'
   - '+.wlyeo90l.pro'
@@ -128616,6 +128635,7 @@ payload:
   - '+.xkunn.com'
   - '+.xkvmsr.hair.com'
   - '+.xkwfao.com'
+  - '+.xkzjq.cn'
   - '+.xl-trk.com'
   - '+.xl4z7.cn'
   - '+.xladapi.izuiyou.com'
@@ -130681,6 +130701,7 @@ payload:
   - '+.zdsfnagupwkztl.com'
   - '+.zdtag.com'
   - '+.zdwgpb.moblum.com'
+  - '+.zdwsh.tech'
   - '+.zdyldoijanx.com'
   - '+.zdzk0371.cn'
   - '+.ze5.com'

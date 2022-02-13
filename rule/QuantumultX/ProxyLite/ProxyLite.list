@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-12 02:10:56
-# HOST-SUFFIX: 32770
+# UPDATED: 2022-02-14 02:10:25
+# HOST-SUFFIX: 32762
 # USER-AGENT: 5
 # HOST: 32
 # HOST-KEYWORD: 29
 # IP-CIDR: 91
 # IP6-CIDR: 3
-# TOTAL: 32930
+# TOTAL: 32922
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
 HOST,apple.com.akadns.net,ProxyLite
@@ -3689,7 +3689,6 @@ HOST-SUFFIX,appl-e.com,ProxyLite
 HOST-SUFFIX,appl.com,ProxyLite
 HOST-SUFFIX,appl4e.com,ProxyLite
 HOST-SUFFIX,appla.com,ProxyLite
-HOST-SUFFIX,appldnld.g.aaplimg.com,ProxyLite
 HOST-SUFFIX,apple-darwin.com,ProxyLite
 HOST-SUFFIX,apple-darwin.net,ProxyLite
 HOST-SUFFIX,apple-darwin.org,ProxyLite
@@ -3699,7 +3698,6 @@ HOST-SUFFIX,apple-expo.com,ProxyLite
 HOST-SUFFIX,apple-hk.com,ProxyLite
 HOST-SUFFIX,apple-imac.com,ProxyLite
 HOST-SUFFIX,apple-inc.net,ProxyLite
-HOST-SUFFIX,apple-mapkit.com,ProxyLite
 HOST-SUFFIX,apple-online.com,ProxyLite
 HOST-SUFFIX,apple-pay.com,ProxyLite
 HOST-SUFFIX,apple-pay.rs,ProxyLite
@@ -3709,8 +3707,6 @@ HOST-SUFFIX,apple-store.wang,ProxyLite
 HOST-SUFFIX,apple-usa.net,ProxyLite
 HOST-SUFFIX,apple.be,ProxyLite
 HOST-SUFFIX,apple.ch,ProxyLite
-HOST-SUFFIX,apple.co,ProxyLite
-HOST-SUFFIX,apple.com,ProxyLite
 HOST-SUFFIX,apple.com.co,ProxyLite
 HOST-SUFFIX,apple.com.do,ProxyLite
 HOST-SUFFIX,apple.com.pr,ProxyLite
@@ -3784,7 +3780,6 @@ HOST-SUFFIX,applemagickeyboard.com,ProxyLite
 HOST-SUFFIX,applemasters.info,ProxyLite
 HOST-SUFFIX,applemusic.berlin,ProxyLite
 HOST-SUFFIX,applemusic.co,ProxyLite
-HOST-SUFFIX,applemusic.com,ProxyLite
 HOST-SUFFIX,applemusic.hamburg,ProxyLite
 HOST-SUFFIX,applemusic.wang,ProxyLite
 HOST-SUFFIX,applemusicconnect.com,ProxyLite
@@ -14860,7 +14855,6 @@ HOST-SUFFIX,ituneas.com,ProxyLite
 HOST-SUFFIX,itunes-apple.com.akadns.net,ProxyLite
 HOST-SUFFIX,itunes-radio.net,ProxyLite
 HOST-SUFFIX,itunes.co,ProxyLite
-HOST-SUFFIX,itunes.com,ProxyLite
 HOST-SUFFIX,itunes.org,ProxyLite
 HOST-SUFFIX,itunes.rio,ProxyLite
 HOST-SUFFIX,itunes12days.com,ProxyLite
@@ -17292,7 +17286,6 @@ HOST-SUFFIX,messenger.com,ProxyLite
 HOST-SUFFIX,messenger.providesupport.com,ProxyLite
 HOST-SUFFIX,messenger.providesupport.net,ProxyLite
 HOST-SUFFIX,messengerdevelopers.com,ProxyLite
-HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,ProxyLite
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,ProxyLite
 HOST-SUFFIX,met-art.com,ProxyLite
 HOST-SUFFIX,metacafe.com,ProxyLite
@@ -19285,7 +19278,6 @@ HOST-SUFFIX,ocorreas.net,ProxyLite
 HOST-SUFFIX,ocreampies.com,ProxyLite
 HOST-SUFFIX,ocregister.com,ProxyLite
 HOST-SUFFIX,ocry.com,ProxyLite
-HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,ProxyLite
 HOST-SUFFIX,october-review.org,ProxyLite
 HOST-SUFFIX,octoteam.com,ProxyLite
 HOST-SUFFIX,octrev.mysrvnet.com,ProxyLite

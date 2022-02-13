@@ -1,16 +1,17 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-13 02:10:55
-# HOST-SUFFIX: 34684
+# UPDATED: 2022-02-14 02:10:25
+# HOST-SUFFIX: 34682
 # USER-AGENT: 73
-# HOST: 55
-# HOST-KEYWORD: 72
+# HOST: 73
+# HOST-KEYWORD: 73
 # IP-CIDR: 1180
 # IP6-CIDR: 31
-# TOTAL: 36095
+# TOTAL: 36112
 HOST,akmcdnoversea-tw.inter.iqiyi.com,GlobalMax
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,GlobalMax
+HOST,amp-api.podcasts.apple.com,GlobalMax
 HOST,ap-oversea-tls.agora.io,GlobalMax
 HOST,ap-oversea.agora.io,GlobalMax
 HOST,ap-oversea2.agora.io,GlobalMax
@@ -22,7 +23,9 @@ HOST,apple.com.akadns.net,GlobalMax
 HOST,aqi.aqicn.org,GlobalMax
 HOST,artcdnsecure.ribob01.net,GlobalMax
 HOST,beck-online.beck.de,GlobalMax
+HOST,beta.music.apple.com,GlobalMax
 HOST,blizzard.nefficient.co.kr,GlobalMax
+HOST,books.apple.com,GlobalMax
 HOST,cache.video.iqiyi.com,GlobalMax
 HOST,cdn.apple-cloudkit.com,GlobalMax
 HOST,cdn77.scoreuniverse.com,GlobalMax
@@ -34,6 +37,9 @@ HOST,commerce1.api.np.km.playstation.n,GlobalMax
 HOST,courier-push-apple.com.akadns.net,GlobalMax
 HOST,cvws.icloud-content.com,GlobalMax
 HOST,deutschewelle.h-cdn.com,GlobalMax
+HOST,developer.apple.com,GlobalMax
+HOST,devimages-cdn.apple.com,GlobalMax
+HOST,devstreaming-cdn.apple.com,GlobalMax
 HOST,dl.begellhouse.com,GlobalMax
 HOST,edge.cwtv-vod-ext.top.comcast.net,GlobalMax
 HOST,elib.maruzen.co.jp,GlobalMax
@@ -43,14 +49,24 @@ HOST,gateway.icloud.com,GlobalMax
 HOST,github-avatars.oss-cn-hongkong.aliyuncs.com,GlobalMax
 HOST,gs-sec.ww.np.dl.playstation.n,GlobalMax
 HOST,gs2.ww.prod.dl.playstation.ne,GlobalMax
+HOST,gspe1-ssl.ls.apple.com,GlobalMax
 HOST,i.jeded.com,GlobalMax
 HOST,imap-mail.outlook.com,GlobalMax
 HOST,intl-rcd.iqiyi.com,GlobalMax
 HOST,intl-subscription.iqiyi.com,GlobalMax
 HOST,intl.iqiyi.com,GlobalMax
+HOST,js-cdn.music.apple.com,GlobalMax
+HOST,lookup-api.apple.com,GlobalMax
 HOST,mobileso.bz.mgtv.com,GlobalMax
+HOST,news-assets.apple.com,GlobalMax
+HOST,news-client-search.apple.com,GlobalMax
+HOST,news-client.apple.com,GlobalMax
+HOST,news-edge.apple.com,GlobalMax
+HOST,news-events.apple.com,GlobalMax
+HOST,np-edge.itunes.apple.com,GlobalMax
 HOST,p.bstarstatic.com,GlobalMax
 HOST,pchomeonline.com.tw,GlobalMax
+HOST,play-edge.itunes.apple.com,GlobalMax
 HOST,playstation.sony.akadns.net,GlobalMax
 HOST,push-apple.com.akadns.net,GlobalMax
 HOST,report-oversea.agora.io,GlobalMax
@@ -58,11 +74,13 @@ HOST,rpg.pic-imges.com,GlobalMax
 HOST,smtp-mail.outlook.com,GlobalMax
 HOST,static-resource.np.community.playstation.n,GlobalMax
 HOST,tesla-cdn.thron.com,GlobalMax
+HOST,testflight.apple.com,GlobalMax
+HOST,tv.applemusic.com,GlobalMax
+HOST,uts-api.itunes.apple.com,GlobalMax
 HOST,widgets.stripst.com,GlobalMax
 HOST,wmff.warnermediacdn.com,GlobalMax
 HOST,wrds-www.wharton.upenn.edu,GlobalMax
 HOST,www-cdn.icloud.com.akadns.net,GlobalMax
-HOST,www.paypal-mktg.com,GlobalMax
 HOST,zeke.scea.com,GlobalMax
 HOST-SUFFIX,00006801.com,GlobalMax
 HOST-SUFFIX,00006805.com,GlobalMax
@@ -3865,7 +3883,6 @@ HOST-SUFFIX,appl-e.com,GlobalMax
 HOST-SUFFIX,appl.com,GlobalMax
 HOST-SUFFIX,appl4e.com,GlobalMax
 HOST-SUFFIX,appla.com,GlobalMax
-HOST-SUFFIX,appldnld.g.aaplimg.com,GlobalMax
 HOST-SUFFIX,apple-darwin.com,GlobalMax
 HOST-SUFFIX,apple-darwin.net,GlobalMax
 HOST-SUFFIX,apple-darwin.org,GlobalMax
@@ -3876,7 +3893,6 @@ HOST-SUFFIX,apple-expo.com,GlobalMax
 HOST-SUFFIX,apple-hk.com,GlobalMax
 HOST-SUFFIX,apple-imac.com,GlobalMax
 HOST-SUFFIX,apple-inc.net,GlobalMax
-HOST-SUFFIX,apple-mapkit.com,GlobalMax
 HOST-SUFFIX,apple-online.com,GlobalMax
 HOST-SUFFIX,apple-pay.com,GlobalMax
 HOST-SUFFIX,apple-pay.rs,GlobalMax
@@ -3887,7 +3903,6 @@ HOST-SUFFIX,apple-usa.net,GlobalMax
 HOST-SUFFIX,apple.be,GlobalMax
 HOST-SUFFIX,apple.ch,GlobalMax
 HOST-SUFFIX,apple.co,GlobalMax
-HOST-SUFFIX,apple.com,GlobalMax
 HOST-SUFFIX,apple.com.co,GlobalMax
 HOST-SUFFIX,apple.com.do,GlobalMax
 HOST-SUFFIX,apple.com.pr,GlobalMax
@@ -3966,7 +3981,6 @@ HOST-SUFFIX,applemagickeyboard.com,GlobalMax
 HOST-SUFFIX,applemasters.info,GlobalMax
 HOST-SUFFIX,applemusic.berlin,GlobalMax
 HOST-SUFFIX,applemusic.co,GlobalMax
-HOST-SUFFIX,applemusic.com,GlobalMax
 HOST-SUFFIX,applemusic.hamburg,GlobalMax
 HOST-SUFFIX,applemusic.wang,GlobalMax
 HOST-SUFFIX,applemusicconnect.com,GlobalMax
@@ -5600,6 +5614,7 @@ HOST-SUFFIX,blm77.net,GlobalMax
 HOST-SUFFIX,blm888888.com,GlobalMax
 HOST-SUFFIX,blm898.com,GlobalMax
 HOST-SUFFIX,blmdc7.com,GlobalMax
+HOST-SUFFIX,blobstore.apple.com,GlobalMax
 HOST-SUFFIX,blockbuster.com,GlobalMax
 HOST-SUFFIX,blockcn.com,GlobalMax
 HOST-SUFFIX,blockedbyhk.com,GlobalMax
@@ -9577,6 +9592,7 @@ HOST-SUFFIX,doh.42l.fr,GlobalMax
 HOST-SUFFIX,doh.applied-privacy.net,GlobalMax
 HOST-SUFFIX,doh.appliedprivacy.net,GlobalMax
 HOST-SUFFIX,doh.au.ahadns.net,GlobalMax
+HOST-SUFFIX,doh.dns.apple.com,GlobalMax
 HOST-SUFFIX,doh.dnslify.com,GlobalMax
 HOST-SUFFIX,doh.doh.my.id,GlobalMax
 HOST-SUFFIX,doh.eastus.pi-dns.com,GlobalMax
@@ -15876,7 +15892,6 @@ HOST-SUFFIX,ituneas.com,GlobalMax
 HOST-SUFFIX,itunes-apple.com.akadns.net,GlobalMax
 HOST-SUFFIX,itunes-radio.net,GlobalMax
 HOST-SUFFIX,itunes.co,GlobalMax
-HOST-SUFFIX,itunes.com,GlobalMax
 HOST-SUFFIX,itunes.org,GlobalMax
 HOST-SUFFIX,itunes.rio,GlobalMax
 HOST-SUFFIX,itunes12days.com,GlobalMax
@@ -18387,7 +18402,6 @@ HOST-SUFFIX,messenger.com,GlobalMax
 HOST-SUFFIX,messenger.providesupport.com,GlobalMax
 HOST-SUFFIX,messenger.providesupport.net,GlobalMax
 HOST-SUFFIX,messengerdevelopers.com,GlobalMax
-HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,GlobalMax
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,GlobalMax
 HOST-SUFFIX,met-art.com,GlobalMax
 HOST-SUFFIX,meta.com,GlobalMax
@@ -20582,7 +20596,6 @@ HOST-SUFFIX,ocorreas.net,GlobalMax
 HOST-SUFFIX,ocreampies.com,GlobalMax
 HOST-SUFFIX,ocregister.com,GlobalMax
 HOST-SUFFIX,ocry.com,GlobalMax
-HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,GlobalMax
 HOST-SUFFIX,october-review.org,GlobalMax
 HOST-SUFFIX,octoteam.com,GlobalMax
 HOST-SUFFIX,octrev.mysrvnet.com,GlobalMax
@@ -21582,6 +21595,7 @@ HOST-SUFFIX,phillytibetans.com,GlobalMax
 HOST-SUFFIX,phimvideo.org,GlobalMax
 HOST-SUFFIX,phmsociety.org,GlobalMax
 HOST-SUFFIX,phncdn.com,GlobalMax
+HOST-SUFFIX,phobos.apple.com,GlobalMax
 HOST-SUFFIX,phoenixnewtimes.com,GlobalMax
 HOST-SUFFIX,phoeshow.me,GlobalMax
 HOST-SUFFIX,phoile.tender88.com,GlobalMax
@@ -24261,6 +24275,7 @@ HOST-SUFFIX,smh8885.com,GlobalMax
 HOST-SUFFIX,smhric.org,GlobalMax
 HOST-SUFFIX,sminted.com,GlobalMax
 HOST-SUFFIX,smith.edu,GlobalMax
+HOST-SUFFIX,smoot.apple.com,GlobalMax
 HOST-SUFFIX,smpte.org,GlobalMax
 HOST-SUFFIX,smt.live,GlobalMax
 HOST-SUFFIX,smutcam.com,GlobalMax
@@ -26551,6 +26566,7 @@ HOST-SUFFIX,tutuevi.com,GlobalMax
 HOST-SUFFIX,tuvpn.com,GlobalMax
 HOST-SUFFIX,tuxing.live,GlobalMax
 HOST-SUFFIX,tuzaijidi.com,GlobalMax
+HOST-SUFFIX,tv.apple.com,GlobalMax
 HOST-SUFFIX,tv.com,GlobalMax
 HOST-SUFFIX,tv.domain888.pw,GlobalMax
 HOST-SUFFIX,tv.endlessmovie.com,GlobalMax
@@ -34761,6 +34777,7 @@ HOST-KEYWORD,abematv.akamaized.net,GlobalMax
 HOST-KEYWORD,adobe,GlobalMax
 HOST-KEYWORD,amazon,GlobalMax
 HOST-KEYWORD,announce,GlobalMax
+HOST-KEYWORD,apiproxy-device-prod-nlb-,GlobalMax
 HOST-KEYWORD,appledaily,GlobalMax
 HOST-KEYWORD,aria2,GlobalMax
 HOST-KEYWORD,avoddashs,GlobalMax

@@ -1,12 +1,12 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-03 02:11:45
-# DOMAIN: 41
-# DOMAIN-SUFFIX: 189
-# DOMAIN-KEYWORD: 22
+# UPDATED: 2022-02-14 02:10:29
+# DOMAIN: 42
+# DOMAIN-SUFFIX: 225
+# DOMAIN-KEYWORD: 23
 # IP-CIDR: 863
-# TOTAL: 1115
+# TOTAL: 1153
 payload:
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
@@ -36,6 +36,7 @@ payload:
   - DOMAIN,ktpx.amazon.com
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
@@ -43,11 +44,11 @@ payload:
   - DOMAIN,p.bstarstatic.com
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,players.brightcove.net
-  - DOMAIN,radio.itunes.apple.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,tv.applemusic.com
   - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,videos-f.jwpsrv.com
+  - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,abema.io
@@ -123,6 +124,7 @@ payload:
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
   - DOMAIN-SUFFIX,foxplay.com
+  - DOMAIN-SUFFIX,foxplus.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,googlevideo.com
@@ -132,6 +134,8 @@ payload:
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hboasia.com
   - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
@@ -154,6 +158,14 @@ payload:
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,itv.com
   - DOMAIN-SUFFIX,itvstatic.com
+  - DOMAIN-SUFFIX,japonx.com
+  - DOMAIN-SUFFIX,japonx.net
+  - DOMAIN-SUFFIX,japonx.tv
+  - DOMAIN-SUFFIX,japonx.vip
+  - DOMAIN-SUFFIX,japronx.com
+  - DOMAIN-SUFFIX,japronx.net
+  - DOMAIN-SUFFIX,japronx.tv
+  - DOMAIN-SUFFIX,japronx.vip
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,jtvnw.net
@@ -175,6 +187,23 @@ payload:
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,nebula.app
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,netflixdnstest0.com
+  - DOMAIN-SUFFIX,netflixdnstest1.com
+  - DOMAIN-SUFFIX,netflixdnstest2.com
+  - DOMAIN-SUFFIX,netflixdnstest3.com
+  - DOMAIN-SUFFIX,netflixdnstest4.com
+  - DOMAIN-SUFFIX,netflixdnstest5.com
+  - DOMAIN-SUFFIX,netflixdnstest6.com
+  - DOMAIN-SUFFIX,netflixdnstest7.com
+  - DOMAIN-SUFFIX,netflixdnstest8.com
+  - DOMAIN-SUFFIX,netflixdnstest9.com
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,nflximg.com
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxvideo.net
   - DOMAIN-SUFFIX,nicovideo.jp
   - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-SUFFIX,now.com
@@ -208,6 +237,7 @@ payload:
   - DOMAIN-SUFFIX,socdm.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,streaks.jp
@@ -219,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tver.jp
@@ -232,9 +263,15 @@ payload:
   - DOMAIN-SUFFIX,watchnebula.com
   - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-SUFFIX,wetvinfo.com
+  - DOMAIN-SUFFIX,withyoutube.com
   - DOMAIN-SUFFIX,yb.uncn.jp
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtubeeducation.com
+  - DOMAIN-SUFFIX,youtubegaming.com
+  - DOMAIN-SUFFIX,youtubekids.com
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zype.com
@@ -242,6 +279,7 @@ payload:
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN-KEYWORD,abematv.akamaized.net
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,dualstack.apiproxy-

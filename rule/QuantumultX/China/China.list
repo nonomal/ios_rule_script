@@ -1,14 +1,14 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-13 02:10:54
-# HOST-SUFFIX: 551
-# HOST: 14
+# UPDATED: 2022-02-14 02:10:25
+# HOST-SUFFIX: 552
+# HOST: 16
 # IP-CIDR: 6
 # HOST-KEYWORD: 10
 # USER-AGENT: 31
 # IP6-CIDR: 4
-# TOTAL: 616
+# TOTAL: 619
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
@@ -20,6 +20,8 @@ HOST,images-cn.ssl-images-amazon.com,China
 HOST,ip.istatmenus.app,China
 HOST,mtalk.google.com,China
 HOST,officecdn-microsoft-com.akamaized.net,China
+HOST,origin-a.akamaihd.ne,China
+HOST,origin-a.akamaihd.net,China
 HOST,safebrowsing.googleapis.com,China
 HOST,sms.imagetasks.com,China
 HOST,steamcommunity-a.akamaihd.net,China
@@ -378,6 +380,7 @@ HOST-SUFFIX,oxfordbibliographies.com,China
 HOST-SUFFIX,oxfordmusiconline.com,China
 HOST-SUFFIX,p4pfile.com,China
 HOST-SUFFIX,passthepopcorn.me,China
+HOST-SUFFIX,paypal-mktg.com,China
 HOST-SUFFIX,paypal.me,China
 HOST-SUFFIX,pgyer.com,China
 HOST-SUFFIX,pingan.com,China
