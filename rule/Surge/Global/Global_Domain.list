@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-11 16:03:15
-# DOMAIN-SUFFIX: 25550
+# UPDATED: 2022-02-14 10:59:39
+# DOMAIN-SUFFIX: 25551
 # USER-AGENT: 44
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 45
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25786
+# TOTAL: 25787
 amp-api.podcasts.apple.com
 api.waqi.info
 apple.comscoreresearch.com
@@ -1791,6 +1791,7 @@ tv.apple.com
 .6up.bet
 .6up.com
 .6yhy.com
+.7-zip.org
 .7.buyu213.com
 .7004202.com
 .7009.cc

@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:26
+# UPDATED: 2022-02-14 10:59:41
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72119
-# DOMAIN: 82
+# DOMAIN-SUFFIX: 72111
+# DOMAIN: 81
 # IP-CIDR: 6177
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83936
+# TOTAL: 83927
 265.com
 adservice.google.com
 analytics.strava.com
@@ -77,7 +77,6 @@ ss.bjmu.edu.cn
 ssl-google-analytics.l.google.com
 ssl.gstatic.com
 static-login.gog-statics.com
-steamcommunity-a.akamaihd.net
 tesla-cdn.thron.cn
 toolbarqueries.google.com
 tools.google.com
@@ -54843,21 +54842,13 @@ www4-static.gog-statics.com
 .stdlibrary.com
 .stdout.pub
 .stdwp.com
-.steam-chat.com
 .steambang.com
 .steamboxs.com
 .steamcdn-a.akamaihd.net
-.steamchina.com
 .steamcn.com
-.steamcontent.com
-.steamgames.com
-.steampowered.com
 .steampp.net
 .steamproxy.net
 .steamrepcn.com
-.steamstat.us
-.steamstatic.com
-.steamusercontent.com
 .steamvpn.org
 .steamxdf.com
 .stec.net

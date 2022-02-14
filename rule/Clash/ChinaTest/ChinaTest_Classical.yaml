@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:28
-# DOMAIN-SUFFIX: 68500
-# DOMAIN: 87
+# UPDATED: 2022-02-14 10:59:43
+# DOMAIN-SUFFIX: 68492
+# DOMAIN: 86
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68607
+# TOTAL: 68598
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -81,7 +81,6 @@ payload:
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,static-login.gog-statics.com
-  - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,tesla-cdn.thron.cn
   - DOMAIN,toolbarqueries.google.com
   - DOMAIN,tools.google.com
@@ -51992,21 +51991,13 @@ payload:
   - DOMAIN-SUFFIX,stdlibrary.com
   - DOMAIN-SUFFIX,stdout.pub
   - DOMAIN-SUFFIX,stdwp.com
-  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steambang.com
   - DOMAIN-SUFFIX,steamboxs.com
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcn.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steampp.net
   - DOMAIN-SUFFIX,steamproxy.net
   - DOMAIN-SUFFIX,steamrepcn.com
-  - DOMAIN-SUFFIX,steamstat.us
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamvpn.org
   - DOMAIN-SUFFIX,steamxdf.com
   - DOMAIN-SUFFIX,stec.net

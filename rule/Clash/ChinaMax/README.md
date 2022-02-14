@@ -19,15 +19,15 @@
 
 ## 规则统计
 
-总计规则：83879 条。
+总计规则：83870 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 72119 |
+| DOMAIN-SUFFIX | 72111 |
 | PROCESS-NAME | 5 |
-| DOMAIN | 82 |
+| DOMAIN | 81 |
 | IP-CIDR | 6177 |
 | DOMAIN-KEYWORD | 14 |
 | IP-CIDR6 | 5482 |
@@ -499,6 +499,10 @@ ChinaMax_Classical.yaml 可以单独使用，其他规则必须同时使用。
 - AdvertisingMiTV
 
 - AdvertisingTest
+
+- Steam
+
+- SteamCN
 
 ## 数据来源
 

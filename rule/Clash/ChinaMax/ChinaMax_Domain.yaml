@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:28
-# DOMAIN-SUFFIX: 72119
+# UPDATED: 2022-02-14 10:59:44
+# DOMAIN-SUFFIX: 72111
 # PROCESS-NAME: 5
-# DOMAIN: 82
+# DOMAIN: 81
 # IP-CIDR: 6177
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83879
+# TOTAL: 83870
 payload:
   - '265.com'
   - 'adservice.google.com'
@@ -78,7 +78,6 @@ payload:
   - 'ssl-google-analytics.l.google.com'
   - 'ssl.gstatic.com'
   - 'static-login.gog-statics.com'
-  - 'steamcommunity-a.akamaihd.net'
   - 'tesla-cdn.thron.cn'
   - 'toolbarqueries.google.com'
   - 'tools.google.com'
@@ -54844,21 +54843,13 @@ payload:
   - '+.stdlibrary.com'
   - '+.stdout.pub'
   - '+.stdwp.com'
-  - '+.steam-chat.com'
   - '+.steambang.com'
   - '+.steamboxs.com'
   - '+.steamcdn-a.akamaihd.net'
-  - '+.steamchina.com'
   - '+.steamcn.com'
-  - '+.steamcontent.com'
-  - '+.steamgames.com'
-  - '+.steampowered.com'
   - '+.steampp.net'
   - '+.steamproxy.net'
   - '+.steamrepcn.com'
-  - '+.steamstat.us'
-  - '+.steamstatic.com'
-  - '+.steamusercontent.com'
   - '+.steamvpn.org'
   - '+.steamxdf.com'
   - '+.stec.net'

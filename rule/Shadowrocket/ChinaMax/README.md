@@ -19,15 +19,15 @@
 
 ## 规则统计
 
-总计规则：78454 条。
+总计规则：78445 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| DOMAIN-SUFFIX | 72119 |
-| DOMAIN | 82 |
+| DOMAIN-SUFFIX | 72111 |
+| DOMAIN | 81 |
 | IP-CIDR | 6177 |
 | DOMAIN-KEYWORD | 14 |
 ## 配置说明
@@ -486,6 +486,10 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 - AdvertisingMiTV
 
 - AdvertisingTest
+
+- Steam
+
+- SteamCN
 
 ## 数据来源
 

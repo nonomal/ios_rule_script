@@ -19,15 +19,15 @@
 
 ## 规则统计
 
-总计规则：83936 条。
+总计规则：83927 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| HOST-SUFFIX | 72119 |
-| HOST | 82 |
+| HOST-SUFFIX | 72111 |
+| HOST | 81 |
 | IP-CIDR | 6177 |
 | HOST-KEYWORD | 14 |
 | IP6-CIDR | 5482 |
@@ -475,6 +475,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - AdvertisingMiTV
 
 - AdvertisingTest
+
+- Steam
+
+- SteamCN
 
 ## 数据来源
 

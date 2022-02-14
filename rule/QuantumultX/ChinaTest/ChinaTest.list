@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:25
-# HOST-SUFFIX: 68500
-# HOST: 87
+# UPDATED: 2022-02-14 10:59:40
+# HOST-SUFFIX: 68492
+# HOST: 86
 # IP-CIDR: 6
 # HOST-KEYWORD: 10
 # USER-AGENT: 31
 # IP6-CIDR: 4
-# TOTAL: 68638
+# TOTAL: 68629
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -81,7 +81,6 @@ HOST,ss.bjmu.edu.cn,ChinaTest
 HOST,ssl-google-analytics.l.google.com,ChinaTest
 HOST,ssl.gstatic.com,ChinaTest
 HOST,static-login.gog-statics.com,ChinaTest
-HOST,steamcommunity-a.akamaihd.net,ChinaTest
 HOST,tesla-cdn.thron.cn,ChinaTest
 HOST,toolbarqueries.google.com,ChinaTest
 HOST,tools.google.com,ChinaTest
@@ -51992,21 +51991,13 @@ HOST-SUFFIX,stdicloud.com,ChinaTest
 HOST-SUFFIX,stdlibrary.com,ChinaTest
 HOST-SUFFIX,stdout.pub,ChinaTest
 HOST-SUFFIX,stdwp.com,ChinaTest
-HOST-SUFFIX,steam-chat.com,ChinaTest
 HOST-SUFFIX,steambang.com,ChinaTest
 HOST-SUFFIX,steamboxs.com,ChinaTest
 HOST-SUFFIX,steamcdn-a.akamaihd.net,ChinaTest
-HOST-SUFFIX,steamchina.com,ChinaTest
 HOST-SUFFIX,steamcn.com,ChinaTest
-HOST-SUFFIX,steamcontent.com,ChinaTest
-HOST-SUFFIX,steamgames.com,ChinaTest
-HOST-SUFFIX,steampowered.com,ChinaTest
 HOST-SUFFIX,steampp.net,ChinaTest
 HOST-SUFFIX,steamproxy.net,ChinaTest
 HOST-SUFFIX,steamrepcn.com,ChinaTest
-HOST-SUFFIX,steamstat.us,ChinaTest
-HOST-SUFFIX,steamstatic.com,ChinaTest
-HOST-SUFFIX,steamusercontent.com,ChinaTest
 HOST-SUFFIX,steamvpn.org,ChinaTest
 HOST-SUFFIX,steamxdf.com,ChinaTest
 HOST-SUFFIX,stec.net,ChinaTest

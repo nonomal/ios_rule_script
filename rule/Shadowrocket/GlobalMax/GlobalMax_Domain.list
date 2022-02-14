@@ -1,18 +1,17 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:30
+# UPDATED: 2022-02-14 10:59:45
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 34682
+# DOMAIN-SUFFIX: 34681
 # USER-AGENT: 73
-# DOMAIN: 73
+# DOMAIN: 55
 # DOMAIN-KEYWORD: 73
 # IP-CIDR: 1180
 # URL-REGEX: 8
-# TOTAL: 36089
+# TOTAL: 36070
 akmcdnoversea-tw.inter.iqiyi.com
 akmcdnoversea-tw.inter.ptqy.gitv.tv
-amp-api.podcasts.apple.com
 ap-oversea-tls.agora.io
 ap-oversea.agora.io
 ap-oversea2.agora.io
@@ -24,9 +23,7 @@ apple.com.akadns.net
 aqi.aqicn.org
 artcdnsecure.ribob01.net
 beck-online.beck.de
-beta.music.apple.com
 blizzard.nefficient.co.kr
-books.apple.com
 cache.video.iqiyi.com
 cdn.apple-cloudkit.com
 cdn77.scoreuniverse.com
@@ -38,9 +35,6 @@ commerce1.api.np.km.playstation.n
 courier-push-apple.com.akadns.net
 cvws.icloud-content.com
 deutschewelle.h-cdn.com
-developer.apple.com
-devimages-cdn.apple.com
-devstreaming-cdn.apple.com
 dl.begellhouse.com
 edge.cwtv-vod-ext.top.comcast.net
 elib.maruzen.co.jp
@@ -50,24 +44,14 @@ gateway.icloud.com
 github-avatars.oss-cn-hongkong.aliyuncs.com
 gs-sec.ww.np.dl.playstation.n
 gs2.ww.prod.dl.playstation.ne
-gspe1-ssl.ls.apple.com
 i.jeded.com
 imap-mail.outlook.com
 intl-rcd.iqiyi.com
 intl-subscription.iqiyi.com
 intl.iqiyi.com
-js-cdn.music.apple.com
-lookup-api.apple.com
 mobileso.bz.mgtv.com
-news-assets.apple.com
-news-client-search.apple.com
-news-client.apple.com
-news-edge.apple.com
-news-events.apple.com
-np-edge.itunes.apple.com
 p.bstarstatic.com
 pchomeonline.com.tw
-play-edge.itunes.apple.com
 playstation.sony.akadns.net
 push-apple.com.akadns.net
 report-oversea.agora.io
@@ -75,9 +59,7 @@ rpg.pic-imges.com
 smtp-mail.outlook.com
 static-resource.np.community.playstation.n
 tesla-cdn.thron.com
-testflight.apple.com
 tv.applemusic.com
-uts-api.itunes.apple.com
 widgets.stripst.com
 wmff.warnermediacdn.com
 wrds-www.wharton.upenn.edu
@@ -1888,6 +1870,7 @@ zeke.scea.com
 .6up.bet
 .6up.com
 .6yhy.com
+.7-zip.org
 .7.buyu213.com
 .7004202.com
 .7009.cc
@@ -3894,6 +3877,7 @@ zeke.scea.com
 .apple-hk.com
 .apple-imac.com
 .apple-inc.net
+.apple-mapkit.com
 .apple-online.com
 .apple-pay.com
 .apple-pay.rs
@@ -3904,6 +3888,7 @@ zeke.scea.com
 .apple.be
 .apple.ch
 .apple.co
+.apple.com
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -5615,7 +5600,6 @@ zeke.scea.com
 .blm888888.com
 .blm898.com
 .blmdc7.com
-.blobstore.apple.com
 .blockbuster.com
 .blockcn.com
 .blockedbyhk.com
@@ -9593,7 +9577,6 @@ zeke.scea.com
 .doh.applied-privacy.net
 .doh.appliedprivacy.net
 .doh.au.ahadns.net
-.doh.dns.apple.com
 .doh.dnslify.com
 .doh.doh.my.id
 .doh.eastus.pi-dns.com
@@ -15893,6 +15876,7 @@ zeke.scea.com
 .itunes-apple.com.akadns.net
 .itunes-radio.net
 .itunes.co
+.itunes.com
 .itunes.org
 .itunes.rio
 .itunes12days.com
@@ -21596,7 +21580,6 @@ zeke.scea.com
 .phimvideo.org
 .phmsociety.org
 .phncdn.com
-.phobos.apple.com
 .phoenixnewtimes.com
 .phoeshow.me
 .phoile.tender88.com
@@ -24276,7 +24259,6 @@ zeke.scea.com
 .smhric.org
 .sminted.com
 .smith.edu
-.smoot.apple.com
 .smpte.org
 .smt.live
 .smutcam.com
@@ -26567,7 +26549,6 @@ zeke.scea.com
 .tuvpn.com
 .tuxing.live
 .tuzaijidi.com
-.tv.apple.com
 .tv.com
 .tv.domain888.pw
 .tv.endlessmovie.com

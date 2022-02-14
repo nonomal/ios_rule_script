@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:25
+# UPDATED: 2022-02-14 10:59:40
 # USER-AGENT: 62
-# HOST-SUFFIX: 72119
-# HOST: 82
+# HOST-SUFFIX: 72111
+# HOST: 81
 # IP-CIDR: 6177
 # HOST-KEYWORD: 14
 # IP6-CIDR: 5482
-# TOTAL: 83936
+# TOTAL: 83927
 HOST,265.com,ChinaMax
 HOST,adservice.google.com,ChinaMax
 HOST,analytics.strava.com,ChinaMax
@@ -77,7 +77,6 @@ HOST,ss.bjmu.edu.cn,ChinaMax
 HOST,ssl-google-analytics.l.google.com,ChinaMax
 HOST,ssl.gstatic.com,ChinaMax
 HOST,static-login.gog-statics.com,ChinaMax
-HOST,steamcommunity-a.akamaihd.net,ChinaMax
 HOST,tesla-cdn.thron.cn,ChinaMax
 HOST,toolbarqueries.google.com,ChinaMax
 HOST,tools.google.com,ChinaMax
@@ -54843,21 +54842,13 @@ HOST-SUFFIX,stdicloud.com,ChinaMax
 HOST-SUFFIX,stdlibrary.com,ChinaMax
 HOST-SUFFIX,stdout.pub,ChinaMax
 HOST-SUFFIX,stdwp.com,ChinaMax
-HOST-SUFFIX,steam-chat.com,ChinaMax
 HOST-SUFFIX,steambang.com,ChinaMax
 HOST-SUFFIX,steamboxs.com,ChinaMax
 HOST-SUFFIX,steamcdn-a.akamaihd.net,ChinaMax
-HOST-SUFFIX,steamchina.com,ChinaMax
 HOST-SUFFIX,steamcn.com,ChinaMax
-HOST-SUFFIX,steamcontent.com,ChinaMax
-HOST-SUFFIX,steamgames.com,ChinaMax
-HOST-SUFFIX,steampowered.com,ChinaMax
 HOST-SUFFIX,steampp.net,ChinaMax
 HOST-SUFFIX,steamproxy.net,ChinaMax
 HOST-SUFFIX,steamrepcn.com,ChinaMax
-HOST-SUFFIX,steamstat.us,ChinaMax
-HOST-SUFFIX,steamstatic.com,ChinaMax
-HOST-SUFFIX,steamusercontent.com,ChinaMax
 HOST-SUFFIX,steamvpn.org,ChinaMax
 HOST-SUFFIX,steamxdf.com,ChinaMax
 HOST-SUFFIX,stec.net,ChinaMax

@@ -10,14 +10,14 @@
 
 ## 规则统计
 
-总计规则：68638 条。
+总计规则：68629 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 68500 |
-| HOST | 87 |
+| HOST-SUFFIX | 68492 |
+| HOST | 86 |
 | IP-CIDR | 6 |
 | HOST-KEYWORD | 10 |
 | USER-AGENT | 31 |
@@ -48,6 +48,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - China
 
 除非特殊需求，否则不建议重复引用。
+
+当前分流规则，已排除以下规则：
+
+- Steam
+
+- SteamCN
 
 ## 数据来源
 

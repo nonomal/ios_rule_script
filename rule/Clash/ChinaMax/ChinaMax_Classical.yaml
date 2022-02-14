@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 02:10:29
-# DOMAIN-SUFFIX: 72119
+# UPDATED: 2022-02-14 10:59:44
+# DOMAIN-SUFFIX: 72111
 # PROCESS-NAME: 5
-# DOMAIN: 82
+# DOMAIN: 81
 # IP-CIDR: 6177
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83879
+# TOTAL: 83870
 payload:
   - DOMAIN,265.com
   - DOMAIN,adservice.google.com
@@ -78,7 +78,6 @@ payload:
   - DOMAIN,ssl-google-analytics.l.google.com
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,static-login.gog-statics.com
-  - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,tesla-cdn.thron.cn
   - DOMAIN,toolbarqueries.google.com
   - DOMAIN,tools.google.com
@@ -54844,21 +54843,13 @@ payload:
   - DOMAIN-SUFFIX,stdlibrary.com
   - DOMAIN-SUFFIX,stdout.pub
   - DOMAIN-SUFFIX,stdwp.com
-  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steambang.com
   - DOMAIN-SUFFIX,steamboxs.com
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcn.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steampp.net
   - DOMAIN-SUFFIX,steamproxy.net
   - DOMAIN-SUFFIX,steamrepcn.com
-  - DOMAIN-SUFFIX,steamstat.us
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamvpn.org
   - DOMAIN-SUFFIX,steamxdf.com
   - DOMAIN-SUFFIX,stec.net

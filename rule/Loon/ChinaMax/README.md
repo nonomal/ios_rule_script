@@ -19,15 +19,15 @@
 
 ## 规则统计
 
-总计规则：83936 条。
+总计规则：83927 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 62 |
-| DOMAIN-SUFFIX | 72119 |
-| DOMAIN | 82 |
+| DOMAIN-SUFFIX | 72111 |
+| DOMAIN | 81 |
 | IP-CIDR | 6177 |
 | DOMAIN-KEYWORD | 14 |
 | IP-CIDR6 | 5482 |
@@ -479,6 +479,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - AdvertisingMiTV
 
 - AdvertisingTest
+
+- Steam
+
+- SteamCN
 
 ## 数据来源
 

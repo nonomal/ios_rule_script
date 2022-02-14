@@ -10,14 +10,14 @@
 
 ## 规则统计
 
-总计规则：619 条。
+总计规则：611 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 552 |
-| DOMAIN | 16 |
+| DOMAIN-SUFFIX | 545 |
+| DOMAIN | 15 |
 | IP-CIDR | 6 |
 | DOMAIN-KEYWORD | 10 |
 | USER-AGENT | 31 |
@@ -49,6 +49,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 当前分流规则，已排除以下规则：
 
 - Proxy
+
+- Steam
+
+- SteamCN
 
 ## 数据来源
 
