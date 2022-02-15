@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:41
+# UPDATED: 2022-02-16 02:10:54
 # HOST-SUFFIX: 34681
 # USER-AGENT: 73
 # HOST: 55
-# HOST-KEYWORD: 73
+# HOST-KEYWORD: 74
 # IP-CIDR: 1180
 # IP6-CIDR: 31
-# TOTAL: 36093
+# TOTAL: 36094
 HOST,akmcdnoversea-tw.inter.iqiyi.com,GlobalMax
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,GlobalMax
 HOST,ap-oversea-tls.agora.io,GlobalMax
@@ -34804,6 +34804,7 @@ HOST-KEYWORD,telegram,GlobalMax
 HOST-KEYWORD,tesla,GlobalMax
 HOST-KEYWORD,thunder,GlobalMax
 HOST-KEYWORD,tiktok,GlobalMax
+HOST-KEYWORD,tiktokcdn-,GlobalMax
 HOST-KEYWORD,tiktokv,GlobalMax
 HOST-KEYWORD,torrent,GlobalMax
 HOST-KEYWORD,tracker,GlobalMax

@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:44
+# UPDATED: 2022-02-16 02:10:58
 # DOMAIN-SUFFIX: 34681
 # DOMAIN: 55
-# DOMAIN-KEYWORD: 73
+# DOMAIN-KEYWORD: 74
 # IP-CIDR: 1180
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 36076
+# TOTAL: 36077
 payload:
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,-tiktokcdn-com
@@ -69,6 +69,7 @@ payload:
   - DOMAIN-KEYWORD,tesla
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,tiktokcdn-
   - DOMAIN-KEYWORD,tiktokv
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
