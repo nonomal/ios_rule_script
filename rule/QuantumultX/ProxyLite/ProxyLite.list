@@ -1,14 +1,15 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:40
-# HOST-SUFFIX: 32767
+# UPDATED: 2022-02-17 02:11:04
+# HOST-SUFFIX: 32769
 # USER-AGENT: 5
-# HOST: 32
+# HOST: 33
 # HOST-KEYWORD: 29
 # IP-CIDR: 91
 # IP6-CIDR: 3
-# TOTAL: 32927
+# TOTAL: 32930
+HOST,angle.com.tw,ProxyLite
 HOST,api-p.videomarket.jp,ProxyLite
 HOST,api.waqi.info,ProxyLite
 HOST,apple.com.akadns.net,ProxyLite
@@ -13539,6 +13540,7 @@ HOST-SUFFIX,hongkongfp.org,ProxyLite
 HOST-SUFFIX,honglinzhang.com,ProxyLite
 HOST-SUFFIX,hongmeimei.com,ProxyLite
 HOST-SUFFIX,hongzhi.li,ProxyLite
+HOST-SUFFIX,honkaistarrail.com,ProxyLite
 HOST-SUFFIX,honto.jp,ProxyLite
 HOST-SUFFIX,honven.xyz,ProxyLite
 HOST-SUFFIX,hooloo.tv,ProxyLite
@@ -13617,6 +13619,7 @@ HOST-SUFFIX,howtoforge.com,ProxyLite
 HOST-SUFFIX,howtohackfacebook-account.com,ProxyLite
 HOST-SUFFIX,hoxx.com,ProxyLite
 HOST-SUFFIX,hoyolab.com,ProxyLite
+HOST-SUFFIX,hoyoverse.com,ProxyLite
 HOST-SUFFIX,hp-imagine.com,ProxyLite
 HOST-SUFFIX,hp-infolab.com,ProxyLite
 HOST-SUFFIX,hp-invent.com,ProxyLite

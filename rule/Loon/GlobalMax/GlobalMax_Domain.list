@@ -1,11 +1,11 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:55
+# UPDATED: 2022-02-17 02:11:05
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 34681
+# DOMAIN-SUFFIX: 34680
 # USER-AGENT: 73
-# DOMAIN: 55
+# DOMAIN: 56
 # DOMAIN-KEYWORD: 74
 # IP-CIDR: 1180
 # IP-CIDR6: 31
@@ -13,6 +13,7 @@
 # TOTAL: 36102
 akmcdnoversea-tw.inter.iqiyi.com
 akmcdnoversea-tw.inter.ptqy.gitv.tv
+angle.com.tw
 ap-oversea-tls.agora.io
 ap-oversea.agora.io
 ap-oversea2.agora.io
@@ -14460,7 +14461,6 @@ zeke.scea.com
 .howtoforge.com
 .howtohackfacebook-account.com
 .hoxx.com
-.hoyolab.com
 .hp-imagine.com
 .hp-infolab.com
 .hp-invent.com

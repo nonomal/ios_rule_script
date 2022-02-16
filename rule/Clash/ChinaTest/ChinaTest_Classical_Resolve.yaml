@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:43
-# DOMAIN-SUFFIX: 68492
+# UPDATED: 2022-02-17 02:11:07
+# DOMAIN-SUFFIX: 68501
 # DOMAIN: 86
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68598
+# TOTAL: 68607
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -16946,6 +16946,7 @@ payload:
   - DOMAIN-SUFFIX,cnsce.net
   - DOMAIN-SUFFIX,cnscee.com
   - DOMAIN-SUFFIX,cnscfa.com
+  - DOMAIN-SUFFIX,cnsciedu.com
   - DOMAIN-SUFFIX,cnscore.com
   - DOMAIN-SUFFIX,cnsdjxw.com
   - DOMAIN-SUFFIX,cnsdtv.com
@@ -28958,6 +28959,7 @@ payload:
   - DOMAIN-SUFFIX,hongzhoukan.com
   - DOMAIN-SUFFIX,hongztl.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
+  - DOMAIN-SUFFIX,honkaistarrail.com
   - DOMAIN-SUFFIX,honorfair.com
   - DOMAIN-SUFFIX,honpery.com
   - DOMAIN-SUFFIX,honpu.com
@@ -29098,6 +29100,8 @@ payload:
   - DOMAIN-SUFFIX,hoxing.com
   - DOMAIN-SUFFIX,hoxue.com
   - DOMAIN-SUFFIX,hoyakeji.com
+  - DOMAIN-SUFFIX,hoyolab.com
+  - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,hozin.com
   - DOMAIN-SUFFIX,hp-marathon.com
   - DOMAIN-SUFFIX,hp123.com
@@ -29316,6 +29320,7 @@ payload:
   - DOMAIN-SUFFIX,htback.com
   - DOMAIN-SUFFIX,htbenet.net
   - DOMAIN-SUFFIX,htc-media.com
+  - DOMAIN-SUFFIX,htcases.com
   - DOMAIN-SUFFIX,htcbbs.net
   - DOMAIN-SUFFIX,htcis.net
   - DOMAIN-SUFFIX,htciy.com
@@ -30575,6 +30580,7 @@ payload:
   - DOMAIN-SUFFIX,ibbwhat.com
   - DOMAIN-SUFFIX,ibcar.net
   - DOMAIN-SUFFIX,ibcde.com
+  - DOMAIN-SUFFIX,ibcet.org
   - DOMAIN-SUFFIX,ibczy.com
   - DOMAIN-SUFFIX,ibeifeng.com
   - DOMAIN-SUFFIX,ibeiig.com
@@ -40166,6 +40172,7 @@ payload:
   - DOMAIN-SUFFIX,mediav.com
   - DOMAIN-SUFFIX,mediawords.org
   - DOMAIN-SUFFIX,mediaxinan.com
+  - DOMAIN-SUFFIX,medicexam.net
   - DOMAIN-SUFFIX,mediecogroup.com
   - DOMAIN-SUFFIX,medimg.org
   - DOMAIN-SUFFIX,meditic.com
@@ -55947,6 +55954,7 @@ payload:
   - DOMAIN-SUFFIX,ultramanol.com
   - DOMAIN-SUFFIX,ulucu.com
   - DOMAIN-SUFFIX,ulzdk.com
+  - DOMAIN-SUFFIX,umajor.net
   - DOMAIN-SUFFIX,umaman.com
   - DOMAIN-SUFFIX,umbpay.com
   - DOMAIN-SUFFIX,umcloud.com
@@ -56737,6 +56745,7 @@ payload:
   - DOMAIN-SUFFIX,vipdlt.com
   - DOMAIN-SUFFIX,vipdy.cc
   - DOMAIN-SUFFIX,vipersaudio.com
+  - DOMAIN-SUFFIX,vipexam.org
   - DOMAIN-SUFFIX,vipfengfei.com
   - DOMAIN-SUFFIX,vipfengxiao.com
   - DOMAIN-SUFFIX,vipfinal.com

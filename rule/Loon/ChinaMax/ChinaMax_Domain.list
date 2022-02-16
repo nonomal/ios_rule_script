@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:55
+# UPDATED: 2022-02-17 02:11:05
 # USER-AGENT: 62
-# DOMAIN-SUFFIX: 72111
-# DOMAIN: 81
+# DOMAIN-SUFFIX: 72120
+# DOMAIN: 80
 # IP-CIDR: 6174
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83924
+# TOTAL: 83932
 265.com
 adservice.google.com
 analytics.strava.com
@@ -24,7 +24,6 @@ cache.pack.google.com
 cdn.ampproject.org
 cdn.jsdelivr.net
 checkin.gstatic.com
-clickserve.dartsearch.net
 client.amplifi.com
 clientservices.googleapis.com
 connectivitycheck.gstatic.com
@@ -17729,6 +17728,7 @@ www4-static.gog-statics.com
 .cnsce.net
 .cnscee.com
 .cnscfa.com
+.cnsciedu.com
 .cnscore.com
 .cnsdjxw.com
 .cnsdtv.com
@@ -30535,6 +30535,7 @@ www4-static.gog-statics.com
 .hongzhoukan.com
 .hongztl.com
 .honkaiimpact3.com
+.honkaistarrail.com
 .honorfair.com
 .honpery.com
 .honpu.com
@@ -30686,6 +30687,8 @@ www4-static.gog-statics.com
 .hoxing.com
 .hoxue.com
 .hoyakeji.com
+.hoyolab.com
+.hoyoverse.com
 .hozin.com
 .hp-marathon.com
 .hp123.com
@@ -30906,6 +30909,7 @@ www4-static.gog-statics.com
 .htback.com
 .htbenet.net
 .htc-media.com
+.htcases.com
 .htcbbs.net
 .htcis.net
 .htciy.com
@@ -32249,6 +32253,7 @@ www4-static.gog-statics.com
 .ibbwhat.com
 .ibcar.net
 .ibcde.com
+.ibcet.org
 .ibczy.com
 .ibeifeng.com
 .ibeiig.com
@@ -42265,6 +42270,7 @@ www4-static.gog-statics.com
 .mediatek.com
 .mediawords.org
 .mediaxinan.com
+.medicexam.net
 .mediecogroup.com
 .medimg.org
 .meditic.com
@@ -59011,6 +59017,7 @@ www4-static.gog-statics.com
 .ultramanol.com
 .ulucu.com
 .ulzdk.com
+.umajor.net
 .umaman.com
 .umaszdc.com
 .umaz.cn
@@ -59848,6 +59855,7 @@ www4-static.gog-statics.com
 .vipdlt.com
 .vipdy.cc
 .vipersaudio.com
+.vipexam.org
 .vipfengfei.com
 .vipfengxiao.com
 .vipfinal.com

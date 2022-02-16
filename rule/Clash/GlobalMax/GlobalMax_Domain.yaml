@@ -1,9 +1,9 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:58
-# DOMAIN-SUFFIX: 34681
-# DOMAIN: 55
+# UPDATED: 2022-02-17 02:11:08
+# DOMAIN-SUFFIX: 34680
+# DOMAIN: 56
 # DOMAIN-KEYWORD: 74
 # IP-CIDR: 1180
 # IP-CIDR6: 31
@@ -12,6 +12,7 @@
 payload:
   - 'akmcdnoversea-tw.inter.iqiyi.com'
   - 'akmcdnoversea-tw.inter.ptqy.gitv.tv'
+  - 'angle.com.tw'
   - 'ap-oversea-tls.agora.io'
   - 'ap-oversea.agora.io'
   - 'ap-oversea2.agora.io'
@@ -14459,7 +14460,6 @@ payload:
   - '+.howtoforge.com'
   - '+.howtohackfacebook-account.com'
   - '+.hoxx.com'
-  - '+.hoyolab.com'
   - '+.hp-imagine.com'
   - '+.hp-infolab.com'
   - '+.hp-invent.com'

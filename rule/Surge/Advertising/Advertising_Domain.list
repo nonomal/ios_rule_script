@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:52
+# UPDATED: 2022-02-17 02:11:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 45886
+# DOMAIN: 45887
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77600
+# DOMAIN-SUFFIX: 77635
 # IP-CIDR: 257
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 124132
+# TOTAL: 124168
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -2937,7 +2937,6 @@ advgoogle.com
 adviap.goforandroid.com
 advice-ads.s3.amazonaws.com
 adviceintl.com
-advinci.co
 advmania.com
 advocatasolucoes.com
 advocatechauhanbs.com
@@ -6247,6 +6246,7 @@ bikuetrh.com
 bilbaopisos.es
 bilbotrade.com
 bileth.pw
+bilgibahis.com
 bilgisayarmodifiyesi.com
 biliginyecht.com
 biliqpvehf.com
@@ -8884,6 +8884,7 @@ clicks.istripper.com
 clicks.weselltraffic.com
 clicks2count.com
 clicks4ads.com
+clickserve.dartsearch.net
 clickstream.loomia.com
 clicktalecdn.sslcs.cdngc.net
 clickthrucash.com
@@ -53442,6 +53443,7 @@ zzzrtrcm2.com
 .adview.com
 .adview.pl
 .advinci.club
+.advinci.co
 .advinci.life
 .advinci.net
 .advinci.uno
@@ -54325,6 +54327,7 @@ zzzrtrcm2.com
 .aklglpwljiv.com
 .aklm.cc
 .akmhw.com
+.akmqmypoqyn.com
 .akmxts.com
 .aknice.info
 .ako.cc
@@ -54593,6 +54596,7 @@ zzzrtrcm2.com
 .alonghelper.com
 .aloofmetal.com
 .aloofvest.com
+.alota.xyz
 .alourt.com
 .aloveste.site
 .alp1.drimki.fr
@@ -55773,6 +55777,7 @@ zzzrtrcm2.com
 .apiecelee.com
 .apilog.app.acfun.cn
 .apinas.nct.vn
+.apio.ink
 .apionloadmedia.com
 .apirelay.ru
 .apis.appnxt.net
@@ -56731,6 +56736,7 @@ zzzrtrcm2.com
 .augheguw.net
 .augnuxun.net
 .augrezoa.net
+.augu3yhd485st.com
 .augur.io
 .august15download.com
 .augustjudgementsuddenly.com
@@ -57072,6 +57078,7 @@ zzzrtrcm2.com
 .azfitn.com
 .azg1.emalu-store.com
 .azgenergy.xyz
+.azither.com
 .azj57rjy.com
 .azjmp.com
 .azlyta.immowelt.de
@@ -57391,6 +57398,7 @@ zzzrtrcm2.com
 .bahyei.himaraya.co.jp
 .bai3.gushiwen.org
 .baiapk.com
+.baibiigcfdjgdgacig.ru
 .baichuan-sdk.alicdn.com
 .baichuan.baidu.com
 .baichuanbi.wang
@@ -58360,6 +58368,7 @@ zzzrtrcm2.com
 .befortugal.club
 .beget.tech
 .beginadvisor.com
+.beginstory.biz
 .begintrain.com
 .beglorena.com
 .begrudgecorrespondence.com
@@ -58463,6 +58472,7 @@ zzzrtrcm2.com
 .belyyeusy.com
 .bemachopor.com
 .bemarts.club
+.bemoathudson.com
 .bemobpath.com
 .bemobtrcks.com
 .bemobtrk.com
@@ -58903,7 +58913,6 @@ zzzrtrcm2.com
 .bildirim.eu
 .bildirnet.com
 .bildirt.com
-.bilgibahis.com
 .bilink.xyz
 .bill.agent.56.com
 .bill.agent.v-56.com
@@ -59410,6 +59419,7 @@ zzzrtrcm2.com
 .bnhtml.com
 .bninc2.cn
 .bnjxyqdvoegi.com
+.bnkpgjw.cn
 .bnlif.com
 .bnmjjwinf292.com
 .bnmla.com
@@ -59853,6 +59863,7 @@ zzzrtrcm2.com
 .breakableinsurance.com
 .breakdownreprintsentimental.com
 .breakfastboat.com
+.breakfastinvitingdetergent.com
 .breakfastsinew.com
 .breaking-news.co
 .breakingdeductrates.com
@@ -60749,6 +60760,7 @@ zzzrtrcm2.com
 .cachesit.com
 .caclick.baidu.com
 .cactusglobal.io
+.cactusmedia.com
 .cacuoc247.com
 .cacuoc79.com
 .cad.chosun.com
@@ -60991,6 +61003,7 @@ zzzrtrcm2.com
 .capturly.com
 .capultytrese.xyz
 .capyestern.com
+.capzo.cn
 .car-donation.shengen.ru
 .car-loan.shengen.ru
 .car.qcmrjx.com
@@ -61173,6 +61186,7 @@ zzzrtrcm2.com
 .cb.h5.coffeedak.cn
 .cb.ksmobile.com
 .cb8717377086c72d.com
+.cb8lvgd.cn
 .cba-fed-igh.com
 .cbango.com.ar
 .cbba8228b1.com
@@ -62666,7 +62680,6 @@ zzzrtrcm2.com
 .clickscapture.com
 .clickscloud.net
 .clicksen.se
-.clickserve.dartsearch.net
 .clickserve.eu.dartsearch.net
 .clickserve.uk.dartsearch.net
 .clickserve.us2.dartsearch.net
@@ -63604,6 +63617,7 @@ zzzrtrcm2.com
 .comprehendstrategic.com
 .comprehensiveunconsciousblast.com
 .comproliverton.pro
+.compromiseplot.com
 .compteur-fr.com
 .compteur-gratuit.org
 .compteur-visite.com
@@ -65265,6 +65279,7 @@ zzzrtrcm2.com
 .cyjaruvndimgaa.com
 .cykynethe.com
 .cylinderlongcheng.com
+.cymaisefacsim.com
 .cyneburg-yam.com
 .cynthet.com
 .cyp889.cn
@@ -69738,6 +69753,7 @@ zzzrtrcm2.com
 .efpvhqdw.xyz
 .efreedom.net
 .efresa.ru
+.efukheretool.com
 .efuxqe.tatilbudur.com
 .efvrgb12.com
 .efwddc.lifemebel.ru
@@ -70098,6 +70114,7 @@ zzzrtrcm2.com
 .email.link.flipgive.com
 .email.lottehotel.com
 .email.lynnimaging.com
+.email.m1.bktrksmail.com
 .email.mail.floatme.io
 .email.mail.primexbt.com
 .email.mccoys.com
@@ -74579,6 +74596,7 @@ zzzrtrcm2.com
 .gigcount.com
 .gilarditus.com
 .giles.uk.net
+.gilgamesh-amu.com
 .gilhgiotmsv.com
 .gilhgiotmsv.top
 .gilutt.com
@@ -75004,6 +75022,7 @@ zzzrtrcm2.com
 .go.ukrleads.com
 .go.ultimatesoftware.com
 .go.unitusccu.com
+.go.usa.gov
 .go.util.zlibs.com
 .go.verymuchad.com
 .go.victorops.com
@@ -75268,6 +75287,7 @@ zzzrtrcm2.com
 .gotchosen.com
 .goteacher.cn
 .gothamads.com
+.gotibetho.pro
 .gotjobbs.com
 .goto.astdn.ru
 .goto.benchmarkeducation.com
@@ -75723,6 +75743,7 @@ zzzrtrcm2.com
 .gu.5.p2l.info
 .gu.qlogo.cn
 .guaas.com
+.guaded.com
 .guandads.com
 .guang.lesports.com
 .guang.sdsgwy.com
@@ -81395,6 +81416,7 @@ zzzrtrcm2.com
 .jph.itiexue.net
 .jpjmpqaupc.com
 .jpkwk.top
+.jpmpuxglivupwy.com
 .jponmlkj.carte-gr.total.fr
 .jppbyrkkgpgo.com
 .jppolid-track.trackprod.integration.jppol.dk
@@ -83920,6 +83942,7 @@ zzzrtrcm2.com
 .lhinsights.com
 .lhs-3844b.com
 .lhusy.com
+.lhxacerjwpbd.top
 .lhxwnzht.cn
 .lhy1.xyz
 .lhyang.top
@@ -84095,6 +84118,7 @@ zzzrtrcm2.com
 .lilangdianqi.cn
 .lilastilton.com
 .lilb2.shutterstock.com
+.lilgxhqol.com
 .lilith.ink
 .lilithgame.info
 .liliwoin.top
@@ -85671,6 +85695,7 @@ zzzrtrcm2.com
 .lyaeccn.com
 .lyapi.1391.com
 .lyatblkpblca.com
+.lyautotech.club
 .lybczlsb.com
 .lyceasannop.com
 .lychangxu.cn
@@ -92797,6 +92822,7 @@ zzzrtrcm2.com
 .nucleo.ml
 .nucleo.online
 .nuclersoncanthinger.info
+.nucljzgvzlyj.com
 .nuconomy.com
 .nuctcflay.com
 .nudedworld.com
@@ -98843,6 +98869,7 @@ zzzrtrcm2.com
 .qdkwaz.laredoute.fr
 .qdmeifeng.cn
 .qdmil.com
+.qdmldutvbvq.com
 .qdopportune.cn
 .qdp.qidian.com
 .qdqvmn.mobica.com.mx
@@ -99341,6 +99368,7 @@ zzzrtrcm2.com
 .quinstreet.com
 .quintelligence.com
 .quintesse.io
+.quintus-mil.com
 .quipin.cn
 .quiptenrice.casa
 .quisma.com
@@ -99424,6 +99452,7 @@ zzzrtrcm2.com
 .qxjdlf.com
 .qxm.pluto.sogou.com
 .qxplus.ru
+.qxrprutdlcpah.xyz
 .qxsfaj.caloo.jp
 .qxtwkq.cn
 .qxxys.com
@@ -111476,6 +111505,7 @@ zzzrtrcm2.com
 .tidytrail.com
 .tiedme.com
 .tielengthenelaborate.com
+.tienu.tech
 .tieqifeng.com
 .tiesmises.fun
 .tiexing.com
@@ -114160,6 +114190,7 @@ zzzrtrcm2.com
 .trk.mk.westernunion.com
 .trk.mt.business.westernunion.com
 .trk.networkcomputing.com
+.trk.nfl-online-streams.live
 .trk.nojitter.com
 .trk.nuernberger.de
 .trk.nuernberger.digital
@@ -114642,6 +114673,7 @@ zzzrtrcm2.com
 .twinesocial.com
 .twinpinenetwork.com
 .twinplan.com
+.twinrdack.com
 .twinrdsrv.com
 .twinsoflave.com
 .twinwalnutthy.com
@@ -121710,6 +121742,7 @@ zzzrtrcm2.com
 .yiydtredbofv.com
 .yiyu-fz.cn
 .yiyuantian.com
+.yiyuwl.cn
 .yizhanghaoquan.pw
 .yizhenya.com
 .yizhijin.cn
@@ -122370,6 +122403,7 @@ zzzrtrcm2.com
 .yyltlwtic.com
 .yylys.com
 .yymmsd.cn
+.yynkhgfromul.xyz
 .yyp17.com
 .yypd.top
 .yyshow.top
@@ -122724,6 +122758,7 @@ zzzrtrcm2.com
 .zgvcfridw.com
 .zgvvx.com
 .zgwlbjy.cn
+.zgwxt.vip
 .zgxieshou.com
 .zgxrht.com
 .zgyemy.com
@@ -123368,6 +123403,7 @@ zzzrtrcm2.com
 .zxglpj.cn
 .zxgroymagqu.com
 .zxhrq.cn
+.zxhstudy.online
 .zxhymh.com
 .zxin131.cn
 .zxjjzx.com

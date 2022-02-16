@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:54
+# UPDATED: 2022-02-17 02:11:04
 # USER-AGENT: 62
-# HOST-SUFFIX: 72111
-# HOST: 81
+# HOST-SUFFIX: 72120
+# HOST: 80
 # IP-CIDR: 6174
 # HOST-KEYWORD: 14
 # IP6-CIDR: 5482
-# TOTAL: 83924
+# TOTAL: 83932
 HOST,265.com,ChinaMax
 HOST,adservice.google.com,ChinaMax
 HOST,analytics.strava.com,ChinaMax
@@ -24,7 +24,6 @@ HOST,cache.pack.google.com,ChinaMax
 HOST,cdn.ampproject.org,ChinaMax
 HOST,cdn.jsdelivr.net,ChinaMax
 HOST,checkin.gstatic.com,ChinaMax
-HOST,clickserve.dartsearch.net,ChinaMax
 HOST,client.amplifi.com,ChinaMax
 HOST,clientservices.googleapis.com,ChinaMax
 HOST,connectivitycheck.gstatic.com,ChinaMax
@@ -17729,6 +17728,7 @@ HOST-SUFFIX,cnsc8.com,ChinaMax
 HOST-SUFFIX,cnsce.net,ChinaMax
 HOST-SUFFIX,cnscee.com,ChinaMax
 HOST-SUFFIX,cnscfa.com,ChinaMax
+HOST-SUFFIX,cnsciedu.com,ChinaMax
 HOST-SUFFIX,cnscore.com,ChinaMax
 HOST-SUFFIX,cnsdjxw.com,ChinaMax
 HOST-SUFFIX,cnsdtv.com,ChinaMax
@@ -30535,6 +30535,7 @@ HOST-SUFFIX,hongze.net,ChinaMax
 HOST-SUFFIX,hongzhoukan.com,ChinaMax
 HOST-SUFFIX,hongztl.com,ChinaMax
 HOST-SUFFIX,honkaiimpact3.com,ChinaMax
+HOST-SUFFIX,honkaistarrail.com,ChinaMax
 HOST-SUFFIX,honorfair.com,ChinaMax
 HOST-SUFFIX,honpery.com,ChinaMax
 HOST-SUFFIX,honpu.com,ChinaMax
@@ -30686,6 +30687,8 @@ HOST-SUFFIX,howzhi.com,ChinaMax
 HOST-SUFFIX,hoxing.com,ChinaMax
 HOST-SUFFIX,hoxue.com,ChinaMax
 HOST-SUFFIX,hoyakeji.com,ChinaMax
+HOST-SUFFIX,hoyolab.com,ChinaMax
+HOST-SUFFIX,hoyoverse.com,ChinaMax
 HOST-SUFFIX,hozin.com,ChinaMax
 HOST-SUFFIX,hp-marathon.com,ChinaMax
 HOST-SUFFIX,hp123.com,ChinaMax
@@ -30906,6 +30909,7 @@ HOST-SUFFIX,htbaba.com,ChinaMax
 HOST-SUFFIX,htback.com,ChinaMax
 HOST-SUFFIX,htbenet.net,ChinaMax
 HOST-SUFFIX,htc-media.com,ChinaMax
+HOST-SUFFIX,htcases.com,ChinaMax
 HOST-SUFFIX,htcbbs.net,ChinaMax
 HOST-SUFFIX,htcis.net,ChinaMax
 HOST-SUFFIX,htciy.com,ChinaMax
@@ -32249,6 +32253,7 @@ HOST-SUFFIX,ibayapp.com,ChinaMax
 HOST-SUFFIX,ibbwhat.com,ChinaMax
 HOST-SUFFIX,ibcar.net,ChinaMax
 HOST-SUFFIX,ibcde.com,ChinaMax
+HOST-SUFFIX,ibcet.org,ChinaMax
 HOST-SUFFIX,ibczy.com,ChinaMax
 HOST-SUFFIX,ibeifeng.com,ChinaMax
 HOST-SUFFIX,ibeiig.com,ChinaMax
@@ -42265,6 +42270,7 @@ HOST-SUFFIX,mediafq.com,ChinaMax
 HOST-SUFFIX,mediatek.com,ChinaMax
 HOST-SUFFIX,mediawords.org,ChinaMax
 HOST-SUFFIX,mediaxinan.com,ChinaMax
+HOST-SUFFIX,medicexam.net,ChinaMax
 HOST-SUFFIX,mediecogroup.com,ChinaMax
 HOST-SUFFIX,medimg.org,ChinaMax
 HOST-SUFFIX,meditic.com,ChinaMax
@@ -59011,6 +59017,7 @@ HOST-SUFFIX,ultramanclub.com,ChinaMax
 HOST-SUFFIX,ultramanol.com,ChinaMax
 HOST-SUFFIX,ulucu.com,ChinaMax
 HOST-SUFFIX,ulzdk.com,ChinaMax
+HOST-SUFFIX,umajor.net,ChinaMax
 HOST-SUFFIX,umaman.com,ChinaMax
 HOST-SUFFIX,umaszdc.com,ChinaMax
 HOST-SUFFIX,umaz.cn,ChinaMax
@@ -59848,6 +59855,7 @@ HOST-SUFFIX,vipdage.com,ChinaMax
 HOST-SUFFIX,vipdlt.com,ChinaMax
 HOST-SUFFIX,vipdy.cc,ChinaMax
 HOST-SUFFIX,vipersaudio.com,ChinaMax
+HOST-SUFFIX,vipexam.org,ChinaMax
 HOST-SUFFIX,vipfengfei.com,ChinaMax
 HOST-SUFFIX,vipfengxiao.com,ChinaMax
 HOST-SUFFIX,vipfinal.com,ChinaMax

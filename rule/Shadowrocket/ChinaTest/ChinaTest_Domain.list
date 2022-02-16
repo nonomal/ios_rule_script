@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:45
-# DOMAIN-SUFFIX: 68492
+# UPDATED: 2022-02-17 02:11:08
+# DOMAIN-SUFFIX: 68501
 # DOMAIN: 86
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # USER-AGENT: 31
-# TOTAL: 68625
+# TOTAL: 68634
 265.com
 2mdn.net
 adservice.google.com
@@ -16945,6 +16945,7 @@ www4-static.gog-statics.com
 .cnsce.net
 .cnscee.com
 .cnscfa.com
+.cnsciedu.com
 .cnscore.com
 .cnsdjxw.com
 .cnsdtv.com
@@ -28957,6 +28958,7 @@ www4-static.gog-statics.com
 .hongzhoukan.com
 .hongztl.com
 .honkaiimpact3.com
+.honkaistarrail.com
 .honorfair.com
 .honpery.com
 .honpu.com
@@ -29097,6 +29099,8 @@ www4-static.gog-statics.com
 .hoxing.com
 .hoxue.com
 .hoyakeji.com
+.hoyolab.com
+.hoyoverse.com
 .hozin.com
 .hp-marathon.com
 .hp123.com
@@ -29315,6 +29319,7 @@ www4-static.gog-statics.com
 .htback.com
 .htbenet.net
 .htc-media.com
+.htcases.com
 .htcbbs.net
 .htcis.net
 .htciy.com
@@ -30574,6 +30579,7 @@ www4-static.gog-statics.com
 .ibbwhat.com
 .ibcar.net
 .ibcde.com
+.ibcet.org
 .ibczy.com
 .ibeifeng.com
 .ibeiig.com
@@ -40165,6 +40171,7 @@ www4-static.gog-statics.com
 .mediav.com
 .mediawords.org
 .mediaxinan.com
+.medicexam.net
 .mediecogroup.com
 .medimg.org
 .meditic.com
@@ -55946,6 +55953,7 @@ www4-static.gog-statics.com
 .ultramanol.com
 .ulucu.com
 .ulzdk.com
+.umajor.net
 .umaman.com
 .umbpay.com
 .umcloud.com
@@ -56736,6 +56744,7 @@ www4-static.gog-statics.com
 .vipdlt.com
 .vipdy.cc
 .vipersaudio.com
+.vipexam.org
 .vipfengfei.com
 .vipfengxiao.com
 .vipfinal.com

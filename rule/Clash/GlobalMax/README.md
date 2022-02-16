@@ -27,8 +27,8 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 34681 |
-| DOMAIN | 55 |
+| DOMAIN-SUFFIX | 34680 |
+| DOMAIN | 56 |
 | DOMAIN-KEYWORD | 74 |
 | IP-CIDR | 1180 |
 | IP-CIDR6 | 31 |

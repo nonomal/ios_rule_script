@@ -1,9 +1,9 @@
 # NAME: ChinaIPsBGP
 # AUTHOR: misakaio
 # REPO: https://github.com/misakaio/chnroutes2
-# UPDATED: 2022-02-16 02:10:57
-# IP-CIDR: 3331
-# TOTAL: 3331
+# UPDATED: 2022-02-17 02:11:07
+# IP-CIDR: 3330
+# TOTAL: 3330
 payload:
   - IP-CIDR,1.116.0.0/15
   - IP-CIDR,1.119.0.0/17
@@ -226,7 +226,6 @@ payload:
   - IP-CIDR,103.161.220.0/23
   - IP-CIDR,103.161.254.0/23
   - IP-CIDR,103.162.10.0/23
-  - IP-CIDR,103.163.180.0/23
   - IP-CIDR,103.163.32.0/24
   - IP-CIDR,103.163.46.0/23
   - IP-CIDR,103.164.32.0/23

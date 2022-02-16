@@ -1,16 +1,17 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:54
-# HOST-SUFFIX: 34681
+# UPDATED: 2022-02-17 02:11:04
+# HOST-SUFFIX: 34680
 # USER-AGENT: 73
-# HOST: 55
+# HOST: 56
 # HOST-KEYWORD: 74
 # IP-CIDR: 1180
 # IP6-CIDR: 31
 # TOTAL: 36094
 HOST,akmcdnoversea-tw.inter.iqiyi.com,GlobalMax
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,GlobalMax
+HOST,angle.com.tw,GlobalMax
 HOST,ap-oversea-tls.agora.io,GlobalMax
 HOST,ap-oversea.agora.io,GlobalMax
 HOST,ap-oversea2.agora.io,GlobalMax
@@ -14458,7 +14459,6 @@ HOST-SUFFIX,howstrange.me,GlobalMax
 HOST-SUFFIX,howtoforge.com,GlobalMax
 HOST-SUFFIX,howtohackfacebook-account.com,GlobalMax
 HOST-SUFFIX,hoxx.com,GlobalMax
-HOST-SUFFIX,hoyolab.com,GlobalMax
 HOST-SUFFIX,hp-imagine.com,GlobalMax
 HOST-SUFFIX,hp-infolab.com,GlobalMax
 HOST-SUFFIX,hp-invent.com,GlobalMax

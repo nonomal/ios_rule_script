@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:40
-# HOST-SUFFIX: 68492
+# UPDATED: 2022-02-17 02:11:04
+# HOST-SUFFIX: 68501
 # HOST: 86
 # IP-CIDR: 6
 # HOST-KEYWORD: 10
 # USER-AGENT: 31
 # IP6-CIDR: 4
-# TOTAL: 68629
+# TOTAL: 68638
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -16946,6 +16946,7 @@ HOST-SUFFIX,cnsc8.com,ChinaTest
 HOST-SUFFIX,cnsce.net,ChinaTest
 HOST-SUFFIX,cnscee.com,ChinaTest
 HOST-SUFFIX,cnscfa.com,ChinaTest
+HOST-SUFFIX,cnsciedu.com,ChinaTest
 HOST-SUFFIX,cnscore.com,ChinaTest
 HOST-SUFFIX,cnsdjxw.com,ChinaTest
 HOST-SUFFIX,cnsdtv.com,ChinaTest
@@ -28958,6 +28959,7 @@ HOST-SUFFIX,hongze.net,ChinaTest
 HOST-SUFFIX,hongzhoukan.com,ChinaTest
 HOST-SUFFIX,hongztl.com,ChinaTest
 HOST-SUFFIX,honkaiimpact3.com,ChinaTest
+HOST-SUFFIX,honkaistarrail.com,ChinaTest
 HOST-SUFFIX,honorfair.com,ChinaTest
 HOST-SUFFIX,honpery.com,ChinaTest
 HOST-SUFFIX,honpu.com,ChinaTest
@@ -29098,6 +29100,8 @@ HOST-SUFFIX,howzhi.com,ChinaTest
 HOST-SUFFIX,hoxing.com,ChinaTest
 HOST-SUFFIX,hoxue.com,ChinaTest
 HOST-SUFFIX,hoyakeji.com,ChinaTest
+HOST-SUFFIX,hoyolab.com,ChinaTest
+HOST-SUFFIX,hoyoverse.com,ChinaTest
 HOST-SUFFIX,hozin.com,ChinaTest
 HOST-SUFFIX,hp-marathon.com,ChinaTest
 HOST-SUFFIX,hp123.com,ChinaTest
@@ -29316,6 +29320,7 @@ HOST-SUFFIX,htbaba.com,ChinaTest
 HOST-SUFFIX,htback.com,ChinaTest
 HOST-SUFFIX,htbenet.net,ChinaTest
 HOST-SUFFIX,htc-media.com,ChinaTest
+HOST-SUFFIX,htcases.com,ChinaTest
 HOST-SUFFIX,htcbbs.net,ChinaTest
 HOST-SUFFIX,htcis.net,ChinaTest
 HOST-SUFFIX,htciy.com,ChinaTest
@@ -30575,6 +30580,7 @@ HOST-SUFFIX,ibayapp.com,ChinaTest
 HOST-SUFFIX,ibbwhat.com,ChinaTest
 HOST-SUFFIX,ibcar.net,ChinaTest
 HOST-SUFFIX,ibcde.com,ChinaTest
+HOST-SUFFIX,ibcet.org,ChinaTest
 HOST-SUFFIX,ibczy.com,ChinaTest
 HOST-SUFFIX,ibeifeng.com,ChinaTest
 HOST-SUFFIX,ibeiig.com,ChinaTest
@@ -40166,6 +40172,7 @@ HOST-SUFFIX,mediatek.com,ChinaTest
 HOST-SUFFIX,mediav.com,ChinaTest
 HOST-SUFFIX,mediawords.org,ChinaTest
 HOST-SUFFIX,mediaxinan.com,ChinaTest
+HOST-SUFFIX,medicexam.net,ChinaTest
 HOST-SUFFIX,mediecogroup.com,ChinaTest
 HOST-SUFFIX,medimg.org,ChinaTest
 HOST-SUFFIX,meditic.com,ChinaTest
@@ -55947,6 +55954,7 @@ HOST-SUFFIX,ultramanclub.com,ChinaTest
 HOST-SUFFIX,ultramanol.com,ChinaTest
 HOST-SUFFIX,ulucu.com,ChinaTest
 HOST-SUFFIX,ulzdk.com,ChinaTest
+HOST-SUFFIX,umajor.net,ChinaTest
 HOST-SUFFIX,umaman.com,ChinaTest
 HOST-SUFFIX,umbpay.com,ChinaTest
 HOST-SUFFIX,umcloud.com,ChinaTest
@@ -56737,6 +56745,7 @@ HOST-SUFFIX,vipdage.com,ChinaTest
 HOST-SUFFIX,vipdlt.com,ChinaTest
 HOST-SUFFIX,vipdy.cc,ChinaTest
 HOST-SUFFIX,vipersaudio.com,ChinaTest
+HOST-SUFFIX,vipexam.org,ChinaTest
 HOST-SUFFIX,vipfengfei.com,ChinaTest
 HOST-SUFFIX,vipfengxiao.com,ChinaTest
 HOST-SUFFIX,vipfinal.com,ChinaTest

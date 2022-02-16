@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:58
+# UPDATED: 2022-02-17 02:11:08
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 45258
+# DOMAIN: 45260
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 86928
+# DOMAIN-SUFFIX: 86960
 # IP-CIDR: 257
 # URL-REGEX: 302
-# TOTAL: 132831
+# TOTAL: 132865
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -6092,6 +6092,7 @@ bikuetrh.com
 bilbaopisos.es
 bilbotrade.com
 bileth.pw
+bilgibahis.com
 bilgisayarmodifiyesi.com
 biliginyecht.com
 biliqpvehf.com
@@ -8694,6 +8695,7 @@ clicks.about.com
 clicks.istripper.com
 clicks2count.com
 clicks4ads.com
+clickserve.dartsearch.net
 clickstream.loomia.com
 clicktalecdn.sslcs.cdngc.net
 clickthrucash.com
@@ -46995,6 +46997,7 @@ zzzrtrcm2.com
 .51teach.club
 .51toubu.com
 .51vipedu.com
+.51vs.club
 .51weidashi.com
 .51wxyx.cn
 .51xumei.com
@@ -54556,6 +54559,7 @@ zzzrtrcm2.com
 .aklglpwljiv.com
 .aklm.cc
 .akmhw.com
+.akmqmypoqyn.com
 .akmxts.com
 .aknice.info
 .ako.cc
@@ -54859,6 +54863,7 @@ zzzrtrcm2.com
 .alonghelper.com
 .aloofmetal.com
 .aloofvest.com
+.alota.xyz
 .alourt.com
 .aloveste.site
 .alp1.drimki.fr
@@ -55703,6 +55708,7 @@ zzzrtrcm2.com
 .analytics.winter.ink
 .analytics.witglobal.net
 .analytics.wittypen.com
+.analytics.wondershare.cc
 .analytics.woozooo.com
 .analytics.worldtable.co
 .analytics.wpsermons.com
@@ -57497,6 +57503,7 @@ zzzrtrcm2.com
 .augheguw.net
 .augnuxun.net
 .augrezoa.net
+.augu3yhd485st.com
 .augur.io
 .august15download.com
 .augustjudgementsuddenly.com
@@ -57877,6 +57884,7 @@ zzzrtrcm2.com
 .azfitn.com
 .azg1.emalu-store.com
 .azgenergy.xyz
+.azither.com
 .azj57rjy.com
 .azjmp.com
 .azlej8cdm.pragmaticwebsecurity.com
@@ -58239,6 +58247,7 @@ zzzrtrcm2.com
 .bahyei.himaraya.co.jp
 .bai3.gushiwen.org
 .baiapk.com
+.baibiigcfdjgdgacig.ru
 .baichuan-sdk.alicdn.com
 .baichuan.baidu.com
 .baichuanbi.wang
@@ -59304,6 +59313,7 @@ zzzrtrcm2.com
 .beget.tech
 .beginadvisor.com
 .beginnertonemerit.com
+.beginstory.biz
 .begintrain.com
 .beglorena.com
 .begrudgecorrespondence.com
@@ -59410,6 +59420,7 @@ zzzrtrcm2.com
 .belyyeusy.com
 .bemachopor.com
 .bemarts.club
+.bemoathudson.com
 .bemobpath.com
 .bemobtrcks.com
 .bemobtrk.com
@@ -59895,7 +59906,6 @@ zzzrtrcm2.com
 .bildirimci.net
 .bildirnet.com
 .bildirt.com
-.bilgibahis.com
 .bilink.xyz
 .bilitycarrone.club
 .bilkscotpyx.com
@@ -60950,6 +60960,7 @@ zzzrtrcm2.com
 .breakableinsurance.com
 .breakdownreprintsentimental.com
 .breakfastboat.com
+.breakfastinvitingdetergent.com
 .breakfastsinew.com
 .breaking-news.co
 .breakingdeductrates.com
@@ -61932,6 +61943,7 @@ zzzrtrcm2.com
 .cachesit.com
 .caclick.baidu.com
 .cactusglobal.io
+.cactusmedia.com
 .cacuoc247.com
 .cacuoc79.com
 .cad.chosun.com
@@ -62442,6 +62454,7 @@ zzzrtrcm2.com
 .cb.sailthru.com
 .cb3fzwkkt6yxt.xyz
 .cb8717377086c72d.com
+.cb8lvgd.cn
 .cba-fed-igh.com
 .cbango.com.ar
 .cbba8228b1.com
@@ -64168,7 +64181,6 @@ zzzrtrcm2.com
 .clickscapture.com
 .clickscloud.net
 .clicksen.se
-.clickserve.dartsearch.net
 .clickserve.eu.dartsearch.net
 .clickserve.uk.dartsearch.net
 .clickserve.us2.dartsearch.net
@@ -65211,6 +65223,7 @@ zzzrtrcm2.com
 .comprehendstrategic.com
 .comprehensiveunconsciousblast.com
 .comproliverton.pro
+.compromiseplot.com
 .compteur-fr.com
 .compteur-gratuit.org
 .compteur-visite.com
@@ -67072,6 +67085,7 @@ zzzrtrcm2.com
 .cyjaruvndimgaa.com
 .cykynethe.com
 .cylinderlongcheng.com
+.cymaisefacsim.com
 .cymetaphy.xyz
 .cymichaire.club
 .cyneburg-yam.com
@@ -72045,6 +72059,7 @@ zzzrtrcm2.com
 .efpvhqdw.xyz
 .efreedom.net
 .efresa.ru
+.efukheretool.com
 .efuxqe.tatilbudur.com
 .efvrgb12.com
 .efwddc.lifemebel.ru
@@ -72454,6 +72469,7 @@ zzzrtrcm2.com
 .email.link.flipgive.com
 .email.lottehotel.com
 .email.lynnimaging.com
+.email.m1.bktrksmail.com
 .email.mail.floatme.io
 .email.mail.primexbt.com
 .email.mccoys.com
@@ -77494,6 +77510,7 @@ zzzrtrcm2.com
 .gigcount.com
 .gilarditus.com
 .giles.uk.net
+.gilgamesh-amu.com
 .gilhgiotmsv.com
 .gilhgiotmsv.top
 .gillheapsyears.icu
@@ -77977,6 +77994,7 @@ zzzrtrcm2.com
 .go.ukrleads.com
 .go.ultimatesoftware.com
 .go.unitusccu.com
+.go.usa.gov
 .go.usacollectivesupply.online
 .go.uscad.com
 .go.util.zlibs.com
@@ -78274,6 +78292,7 @@ zzzrtrcm2.com
 .gotchosen.com
 .goteacher.cn
 .gothamads.com
+.gotibetho.pro
 .gotjobbs.com
 .goto.astdn.ru
 .goto.benchmarkeducation.com
@@ -78791,6 +78810,7 @@ zzzrtrcm2.com
 .gu.qlogo.cn
 .gu7socdn.txxx.com
 .guaas.com
+.guaded.com
 .guan.domainnamesanity.com
 .guanaco.homeandgardenmakeover.com
 .guanaco.redpixelthemes.com
@@ -85049,6 +85069,7 @@ zzzrtrcm2.com
 .jph.itiexue.net
 .jpjmpqaupc.com
 .jpkwk.top
+.jpmpuxglivupwy.com
 .jponmlkj.carte-gr.total.fr
 .jppbyrkkgpgo.com
 .jppolid-track.trackprod.integration.jppol.dk
@@ -87833,6 +87854,7 @@ zzzrtrcm2.com
 .lhljbgevp.com
 .lhs-3844b.com
 .lhusy.com
+.lhxacerjwpbd.top
 .lhxwnzht.cn
 .lhy1.xyz
 .lhyang.top
@@ -88021,6 +88043,7 @@ zzzrtrcm2.com
 .lilangdianqi.cn
 .lilastilton.com
 .lilb2.shutterstock.com
+.lilgxhqol.com
 .lilith.ink
 .lilithgame.info
 .liliwoin.top
@@ -88909,6 +88932,7 @@ zzzrtrcm2.com
 .log.music.baidu.com
 .log.musical.ly
 .log.news.zing.vn
+.log.newsbreak.jp
 .log.newsvine.com
 .log.ngaynay.vn
 .log.nhipcaudautu.vn
@@ -97873,6 +97897,7 @@ zzzrtrcm2.com
 .nucleo.ml
 .nucleo.online
 .nuclersoncanthinger.info
+.nucljzgvzlyj.com
 .nuconomy.com
 .nuctcflay.com
 .nudedworld.com
@@ -104613,6 +104638,7 @@ zzzrtrcm2.com
 .qdkzjdsb.cn
 .qdmeifeng.cn
 .qdmil.com
+.qdmldutvbvq.com
 .qdopportune.cn
 .qdp.qidian.com
 .qdqvmn.mobica.com.mx
@@ -105160,6 +105186,7 @@ zzzrtrcm2.com
 .quinstreet.com
 .quintelligence.com
 .quintesse.io
+.quintus-mil.com
 .quipin.cn
 .quiptenrice.casa
 .quisma.com
@@ -105254,6 +105281,7 @@ zzzrtrcm2.com
 .qxkwtmrvnbqxf.com
 .qxm.pluto.sogou.com
 .qxplus.ru
+.qxrprutdlcpah.xyz
 .qxsfaj.caloo.jp
 .qxtwkq.cn
 .qxxys.com
@@ -119065,6 +119093,7 @@ zzzrtrcm2.com
 .tiedme.com
 .tieecstasythrong.com
 .tielengthenelaborate.com
+.tienu.tech
 .tieqifeng.com
 .tiesmises.fun
 .tiexing.com
@@ -121957,6 +121986,7 @@ zzzrtrcm2.com
 .trk.mk.westernunion.com
 .trk.mt.business.westernunion.com
 .trk.networkcomputing.com
+.trk.nfl-online-streams.live
 .trk.nojitter.com
 .trk.nuernberger.de
 .trk.nuernberger.digital
@@ -122501,6 +122531,7 @@ zzzrtrcm2.com
 .twinesocial.com
 .twinpinenetwork.com
 .twinplan.com
+.twinrdack.com
 .twinrdsrv.com
 .twinsoflave.com
 .twinwalnutthy.com
@@ -129114,6 +129145,7 @@ zzzrtrcm2.com
 .xjq.jxmqkj.com
 .xjq5.belambra.be
 .xjqha.com
+.xjsq.xyz
 .xjsuiyemaxsuu.top
 .xjsytoy.com
 .xjtxcj.com
@@ -130279,6 +130311,7 @@ zzzrtrcm2.com
 .yiydtredbofv.com
 .yiyu-fz.cn
 .yiyuantian.com
+.yiyuwl.cn
 .yizhanghaoquan.pw
 .yizhenya.com
 .yizhijin.cn
@@ -130994,6 +131027,7 @@ zzzrtrcm2.com
 .yyltlwtic.com
 .yylys.com
 .yymmsd.cn
+.yynkhgfromul.xyz
 .yyo.5du5.com
 .yyp17.com
 .yypd.top

@@ -27,9 +27,9 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 34681 |
+| HOST-SUFFIX | 34680 |
 | USER-AGENT | 73 |
-| HOST | 55 |
+| HOST | 56 |
 | HOST-KEYWORD | 74 |
 | IP-CIDR | 1180 |
 | IP6-CIDR | 31 |

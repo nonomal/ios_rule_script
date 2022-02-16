@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:43
-# DOMAIN-SUFFIX: 68492
+# UPDATED: 2022-02-17 02:11:07
+# DOMAIN-SUFFIX: 68501
 # DOMAIN: 86
 # IP-CIDR: 6
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68598
+# TOTAL: 68607
 payload:
   - '265.com'
   - '2mdn.net'
@@ -16946,6 +16946,7 @@ payload:
   - '+.cnsce.net'
   - '+.cnscee.com'
   - '+.cnscfa.com'
+  - '+.cnsciedu.com'
   - '+.cnscore.com'
   - '+.cnsdjxw.com'
   - '+.cnsdtv.com'
@@ -28958,6 +28959,7 @@ payload:
   - '+.hongzhoukan.com'
   - '+.hongztl.com'
   - '+.honkaiimpact3.com'
+  - '+.honkaistarrail.com'
   - '+.honorfair.com'
   - '+.honpery.com'
   - '+.honpu.com'
@@ -29098,6 +29100,8 @@ payload:
   - '+.hoxing.com'
   - '+.hoxue.com'
   - '+.hoyakeji.com'
+  - '+.hoyolab.com'
+  - '+.hoyoverse.com'
   - '+.hozin.com'
   - '+.hp-marathon.com'
   - '+.hp123.com'
@@ -29316,6 +29320,7 @@ payload:
   - '+.htback.com'
   - '+.htbenet.net'
   - '+.htc-media.com'
+  - '+.htcases.com'
   - '+.htcbbs.net'
   - '+.htcis.net'
   - '+.htciy.com'
@@ -30575,6 +30580,7 @@ payload:
   - '+.ibbwhat.com'
   - '+.ibcar.net'
   - '+.ibcde.com'
+  - '+.ibcet.org'
   - '+.ibczy.com'
   - '+.ibeifeng.com'
   - '+.ibeiig.com'
@@ -40166,6 +40172,7 @@ payload:
   - '+.mediav.com'
   - '+.mediawords.org'
   - '+.mediaxinan.com'
+  - '+.medicexam.net'
   - '+.mediecogroup.com'
   - '+.medimg.org'
   - '+.meditic.com'
@@ -55947,6 +55954,7 @@ payload:
   - '+.ultramanol.com'
   - '+.ulucu.com'
   - '+.ulzdk.com'
+  - '+.umajor.net'
   - '+.umaman.com'
   - '+.umbpay.com'
   - '+.umcloud.com'
@@ -56737,6 +56745,7 @@ payload:
   - '+.vipdlt.com'
   - '+.vipdy.cc'
   - '+.vipersaudio.com'
+  - '+.vipexam.org'
   - '+.vipfengfei.com'
   - '+.vipfengxiao.com'
   - '+.vipfinal.com'

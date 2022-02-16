@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-16 02:10:57
-# DOMAIN-SUFFIX: 72111
+# UPDATED: 2022-02-17 02:11:07
+# DOMAIN-SUFFIX: 72120
 # PROCESS-NAME: 5
-# DOMAIN: 81
+# DOMAIN: 80
 # IP-CIDR: 6174
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5482
-# TOTAL: 83867
+# TOTAL: 83875
 payload:
   - '265.com'
   - 'adservice.google.com'
@@ -25,7 +25,6 @@ payload:
   - 'cdn.ampproject.org'
   - 'cdn.jsdelivr.net'
   - 'checkin.gstatic.com'
-  - 'clickserve.dartsearch.net'
   - 'client.amplifi.com'
   - 'clientservices.googleapis.com'
   - 'connectivitycheck.gstatic.com'
@@ -17730,6 +17729,7 @@ payload:
   - '+.cnsce.net'
   - '+.cnscee.com'
   - '+.cnscfa.com'
+  - '+.cnsciedu.com'
   - '+.cnscore.com'
   - '+.cnsdjxw.com'
   - '+.cnsdtv.com'
@@ -30536,6 +30536,7 @@ payload:
   - '+.hongzhoukan.com'
   - '+.hongztl.com'
   - '+.honkaiimpact3.com'
+  - '+.honkaistarrail.com'
   - '+.honorfair.com'
   - '+.honpery.com'
   - '+.honpu.com'
@@ -30687,6 +30688,8 @@ payload:
   - '+.hoxing.com'
   - '+.hoxue.com'
   - '+.hoyakeji.com'
+  - '+.hoyolab.com'
+  - '+.hoyoverse.com'
   - '+.hozin.com'
   - '+.hp-marathon.com'
   - '+.hp123.com'
@@ -30907,6 +30910,7 @@ payload:
   - '+.htback.com'
   - '+.htbenet.net'
   - '+.htc-media.com'
+  - '+.htcases.com'
   - '+.htcbbs.net'
   - '+.htcis.net'
   - '+.htciy.com'
@@ -32250,6 +32254,7 @@ payload:
   - '+.ibbwhat.com'
   - '+.ibcar.net'
   - '+.ibcde.com'
+  - '+.ibcet.org'
   - '+.ibczy.com'
   - '+.ibeifeng.com'
   - '+.ibeiig.com'
@@ -42266,6 +42271,7 @@ payload:
   - '+.mediatek.com'
   - '+.mediawords.org'
   - '+.mediaxinan.com'
+  - '+.medicexam.net'
   - '+.mediecogroup.com'
   - '+.medimg.org'
   - '+.meditic.com'
@@ -59012,6 +59018,7 @@ payload:
   - '+.ultramanol.com'
   - '+.ulucu.com'
   - '+.ulzdk.com'
+  - '+.umajor.net'
   - '+.umaman.com'
   - '+.umaszdc.com'
   - '+.umaz.cn'
@@ -59849,6 +59856,7 @@ payload:
   - '+.vipdlt.com'
   - '+.vipdy.cc'
   - '+.vipersaudio.com'
+  - '+.vipexam.org'
   - '+.vipfengfei.com'
   - '+.vipfengxiao.com'
   - '+.vipfinal.com'

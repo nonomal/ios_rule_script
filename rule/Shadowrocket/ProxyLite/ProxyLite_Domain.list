@@ -1,13 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-02-14 10:59:45
-# DOMAIN-SUFFIX: 32767
+# UPDATED: 2022-02-17 02:11:09
+# DOMAIN-SUFFIX: 32769
 # USER-AGENT: 5
-# DOMAIN: 32
+# DOMAIN: 33
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 91
-# TOTAL: 32924
+# TOTAL: 32927
+angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
 apple.com.akadns.net
@@ -13538,6 +13539,7 @@ www-cdn.icloud.com.akadns.net
 .honglinzhang.com
 .hongmeimei.com
 .hongzhi.li
+.honkaistarrail.com
 .honto.jp
 .honven.xyz
 .hooloo.tv
@@ -13616,6 +13618,7 @@ www-cdn.icloud.com.akadns.net
 .howtohackfacebook-account.com
 .hoxx.com
 .hoyolab.com
+.hoyoverse.com
 .hp-imagine.com
 .hp-infolab.com
 .hp-invent.com
